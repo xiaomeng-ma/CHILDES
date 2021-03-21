@@ -1,0 +1,2553 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<CHAT xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+      xmlns="http://www.talkbank.org/ns/talkbank"
+      xsi:schemaLocation="http://www.talkbank.org/ns/talkbank https://talkbank.org/software/talkbank.xsd"
+            DesignType="cross"
+            ActivityType="narrative"
+            GroupType="TD"
+      PID="11312/a-00032151-1"
+      Version="2.16.0"
+      Lang="eng"
+      Options="CA"
+      Corpus="Gelman"
+      >
+  <Participants>
+    <participant
+      id="CHI"
+      role="Target_Child"
+      language="eng"
+      age="P5Y00M20D"
+      sex="male"
+
+    />
+    <participant
+      id="INV"
+      role="Investigator"
+      language="eng"
+
+    />
+  </Participants>
+  <lazy-gem label="Strawberry"/>
+  <comment type="Types">cross, narrative, TD</comment>
+  <u who="INV" uID="u0">
+    <w>what</w>
+    <w>is</w>
+    <w>this</w>
+    <t type="q"></t>
+
+  </u>
+  <u who="CHI" uID="u1">
+    <w>a</w>
+    <w>strawberry</w>
+    <t type="p"></t>
+
+  </u>
+  <u who="INV" uID="u2">
+    <w>what</w>
+    <w>more</w>
+    <w>can</w>
+    <w>you</w>
+    <w>tell</w>
+    <w>me</w>
+    <t type="q"></t>
+
+  </u>
+  <u who="CHI" uID="u3">
+    <w>yummy</w>
+    <t type="p"></t>
+
+  </u>
+  <u who="INV" uID="u4">
+    <g><w>mm-hm</w><ga type="explanation">yes</ga></g>
+    <t type="p"></t>
+
+  </u>
+  <u who="CHI" uID="u5">
+    <w>they're</w>
+    <w>yummy</w>
+    <t type="p"></t>
+
+  </u>
+  <u who="CHI" uID="u6">
+    <w>I</w>
+    <w>like</w>
+    <w>them</w>
+    <t type="p"></t>
+
+  </u>
+  <u who="CHI" uID="u7">
+    <w>I</w>
+    <w>like</w>
+    <w>strawberries</w>
+    <t type="p"></t>
+
+  </u>
+  <u who="CHI" uID="u8">
+    <w>and</w>
+    <w>I</w>
+    <w>know</w>
+    <w>something</w>
+    <w>about</w>
+    <w>a</w>
+    <w>different</w>
+    <w>kind</w>
+    <w>of</w>
+    <w>strawberry</w>
+    <t type="p"></t>
+
+  </u>
+  <u who="CHI" uID="u9">
+    <w>a</w>
+    <w>wild</w>
+    <w>strawberry</w>
+    <t type="p"></t>
+
+  </u>
+  <u who="INV" uID="u10">
+    <w>mm</w>
+    <t type="p"></t>
+
+  </u>
+  <u who="CHI" uID="u11">
+    <w>they</w>
+    <w>grow</w>
+    <w>from</w>
+    <w>a</w>
+    <w>little</w>
+    <w>tiny</w>
+    <w>vine</w>
+    <w>on</w>
+    <w>the</w>
+    <w>ground</w>
+    <t type="p"></t>
+
+  </u>
+  <u who="INV" uID="u12">
+    <w>mm</w>
+    <t type="p"></t>
+
+  </u>
+  <u who="CHI" uID="u13">
+    <w>they</w>
+    <w>grow</w>
+    <w>on</w>
+    <w>the</w>
+    <w>ground</w>
+    <t type="p"></t>
+
+  </u>
+  <u who="INV" uID="u14">
+    <w>anything</w>
+    <w>else</w>
+    <w>you</w>
+    <w>can</w>
+    <w>tell</w>
+    <w>Zorg</w>
+    <t type="q"></t>
+
+  </u>
+  <u who="INV" uID="u15">
+    <w>he</w>
+    <w>doesn't</w>
+    <w>know</w>
+    <w>much</w>
+    <w>about</w>
+    <w>this</w>
+    <w>one</w>
+    <t type="p"></t>
+
+  </u>
+  <u who="CHI" uID="u16">
+    <w>neither</w>
+    <w>do</w>
+    <w>I</w>
+    <t type="p"></t>
+
+  </u>
+  <u who="INV" uID="u17">
+    <w>mm</w>
+    <t type="p"></t>
+
+  </u>
+  <u who="CHI" uID="u18">
+    <w>that</w>
+    <w>about</w>
+    <w>all</w>
+    <w>I</w>
+    <w>know</w>
+    <w>about</w>
+    <w>this</w>
+    <w>one</w>
+    <t type="p"></t>
+
+  </u>
+  <u who="INV" uID="u19">
+    <w>mm</w>
+    <tagMarker type="comma"></tagMarker>
+    <w>okay</w>
+    <t type="p"></t>
+
+  </u>
+  <u who="CHI" uID="u20">
+    <w>bye</w>
+    <t type="p"></t>
+
+  </u>
+  <lazy-gem label="Owl"/>
+  <u who="INV" uID="u21">
+    <overlap-point start-end="start" top-bottom="top"/>
+    <w>what</w>
+    <w>is</w>
+    <w>this<overlap-point start-end="end" top-bottom="top"/></w>
+    <t type="q"></t>
+
+  </u>
+  <lazy-gem label="Strawberry"/>
+  <u who="CHI" uID="u22">
+    <w>bye</w>
+    <w>bye</w>
+    <overlap-point start-end="start" top-bottom="bottom"/>
+    <w>strawberry<overlap-point start-end="end" top-bottom="bottom"/></w>
+    <t type="p"></t>
+
+  </u>
+  <lazy-gem label="Owl"/>
+  <u who="CHI" uID="u23">
+    <w>owl</w>
+    <t type="p"></t>
+
+  </u>
+  <u who="INV" uID="u24">
+    <w>what</w>
+    <w>more</w>
+    <w>can</w>
+    <w>you</w>
+    <w>tell</w>
+    <w>me</w>
+    <t type="q"></t>
+
+  </u>
+  <u who="CHI" uID="u25">
+    <w>mm</w>
+    <tagMarker type="comma"></tagMarker>
+    <w>it</w>
+    <w>comes</w>
+    <w>out</w>
+    <w>at</w>
+    <w>night</w>
+    <t type="p"></t>
+
+  </u>
+  <u who="INV" uID="u26">
+    <g><w>mm-hm</w><ga type="explanation">yes</ga></g>
+    <t type="p"></t>
+
+  </u>
+  <u who="CHI" uID="u27">
+    <w>uh</w>
+    <tagMarker type="comma"></tagMarker>
+    <w>its</w>
+    <w>claws</w>
+    <w>are</w>
+    <w>purple</w>
+    <t type="p"></t>
+
+  </u>
+  <u who="INV" uID="u28">
+    <w>mm</w>
+    <t type="p"></t>
+
+  </u>
+  <u who="CHI" uID="u29">
+    <w>I</w>
+    <w>like</w>
+    <w>purple</w>
+    <t type="p"></t>
+
+  </u>
+  <u who="INV" uID="u30">
+    <w>what</w>
+    <w>else</w>
+    <w>can</w>
+    <w>you</w>
+    <w>tell</w>
+    <w>me</w>
+    <t type="q"></t>
+
+  </u>
+  <u who="CHI" uID="u31">
+    <w>well</w>
+    <w>the</w>
+    <tagMarker type="comma"></tagMarker>
+    <w>well</w>
+    <w>the</w>
+    <w>actual</w>
+    <w>owl</w>
+    <w>is</w>
+    <w>brown</w>
+    <w>and</w>
+    <w>white</w>
+    <t type="p"></t>
+
+  </u>
+  <u who="INV" uID="u32">
+    <g><w>mm-hm</w><ga type="explanation">yes</ga></g>
+    <t type="p"></t>
+
+  </u>
+  <u who="CHI" uID="u33">
+    <w>its</w>
+    <w>eyes</w>
+    <w>are</w>
+    <w>yellow</w>
+    <w>and</w>
+    <w>black</w>
+    <w>and</w>
+    <w>white</w>
+    <t type="p"></t>
+
+  </u>
+  <u who="INV" uID="u34">
+    <g><w>mm-hm</w><ga type="explanation">yes</ga></g>
+    <t type="p"></t>
+
+  </u>
+  <u who="CHI" uID="u35">
+    <w>bye</w>
+    <w>bye</w>
+    <t type="p"></t>
+
+  </u>
+  <u who="CHI" uID="u36">
+    <w>bye</w>
+    <w>bye</w>
+    <w>owl</w>
+    <t type="p"></t>
+
+  </u>
+  <lazy-gem label="Rabbit"/>
+  <u who="INV" uID="u37">
+    <w>what</w>
+    <w>is</w>
+    <w>this</w>
+    <t type="q"></t>
+
+  </u>
+  <u who="CHI" uID="u38">
+    <w>a</w>
+    <w>rabbit</w>
+    <t type="p"></t>
+
+  </u>
+  <u who="INV" uID="u39">
+    <w>what</w>
+    <w>more</w>
+    <w>can</w>
+    <w>you</w>
+    <w>tell</w>
+    <w>me</w>
+    <t type="q"></t>
+
+  </u>
+  <u who="CHI" uID="u40">
+    <w>um</w>
+    <tagMarker type="comma"></tagMarker>
+    <w>we</w>
+    <w>saw</w>
+    <w>one</w>
+    <w>in</w>
+    <w>our</w>
+    <w>backyard</w>
+    <t type="p"></t>
+
+  </u>
+  <u who="INV" uID="u41">
+    <g><w>mm-hm</w><ga type="explanation">yes</ga></g>
+    <t type="p"></t>
+
+  </u>
+  <u who="CHI" uID="u42">
+    <w>and</w>
+    <w>on</w>
+    <w>the</w>
+    <w>golf</w>
+    <w>course</w>
+    <t type="p"></t>
+
+  </u>
+  <u who="CHI" uID="u43">
+    <w>um</w>
+    <w>it</w>
+    <w>is</w>
+    <w>very</w>
+    <w>soft</w>
+    <w>and</w>
+    <w>furry</w>
+    <t type="p"></t>
+
+  </u>
+  <u who="INV" uID="u44">
+    <w>what</w>
+    <w>more</w>
+    <w>can</w>
+    <t type="q"></t>
+
+  </u>
+  <u who="CHI" uID="u45">
+    <w>bye</w>
+    <w>bye</w>
+    <t type="p"></t>
+
+  </u>
+  <u who="CHI" uID="u46">
+    <w>I</w>
+    <w>just</w>
+    <w>don't</w>
+    <w>know</w>
+    <w>much</w>
+    <w>about</w>
+    <w>rabbits</w>
+    <w>either</w>
+    <t type="p"></t>
+
+  </u>
+  <u who="INV" uID="u47">
+    <w>mm</w>
+    <t type="p"></t>
+
+  </u>
+  <u who="CHI" uID="u48">
+    <w>I</w>
+    <w>don't</w>
+    <w>know</w>
+    <w>a</w>
+    <w>lot</w>
+    <w>about</w>
+    <w>any</w>
+    <w>of</w>
+    <w>these</w>
+    <t type="p"></t>
+
+  </u>
+  <u who="INV" uID="u49">
+    <w>you're</w>
+    <w>doing</w>
+    <w>really</w>
+    <w>well</w>
+    <t type="p"></t>
+
+  </u>
+  <lazy-gem label="King"/>
+  <u who="CHI" uID="u50">
+    <w>I</w>
+    <w>don't</w>
+    <w>actually</w>
+    <w>know</w>
+    <w>any</w>
+    <w>I</w>
+    <w>don't</w>
+    <w>know</w>
+    <w>anything</w>
+    <w>about</w>
+    <w>this</w>
+    <w>one</w>
+    <t type="p"></t>
+
+  </u>
+  <u who="INV" uID="u51">
+    <w>what</w>
+    <w>is</w>
+    <w>this</w>
+    <t type="q"></t>
+
+  </u>
+  <u who="CHI" uID="u52">
+    <w>a</w>
+    <w>king</w>
+    <w>but</w>
+    <w>I</w>
+    <w>don't</w>
+    <w>know</w>
+    <w>anything</w>
+    <w>else</w>
+    <t type="p"></t>
+
+  </u>
+  <u who="INV" uID="u53">
+    <w>mm</w>
+    <tagMarker type="comma"></tagMarker>
+    <w>well</w>
+    <w>what</w>
+    <w>else</w>
+    <w>can</w>
+    <w>you</w>
+    <w>tell</w>
+    <w>me</w>
+    <t type="q"></t>
+
+  </u>
+  <u who="CHI" uID="u54">
+    <w>bye</w>
+    <w>bye</w>
+    <t type="p"></t>
+
+  </u>
+  <u who="INV" uID="u55">
+    <w>mm</w>
+    <tagMarker type="comma"></tagMarker>
+    <w>what</w>
+    <w>else</w>
+    <w>can</w>
+    <w>you</w>
+    <w>tell</w>
+    <w>me</w>
+    <t type="q"></t>
+
+  </u>
+  <u who="CHI" uID="u56">
+    <w>I</w>
+    <w>just</w>
+    <w>don't</w>
+    <w>know</w>
+    <w>anything</w>
+    <w>about</w>
+    <w>this</w>
+    <w>one</w>
+    <w>except</w>
+    <w>it</w>
+    <w>I</w>
+    <w>just</w>
+    <w>know</w>
+    <w>that</w>
+    <w>it's</w>
+    <w>a</w>
+    <w>king</w>
+    <t type="p"></t>
+
+  </u>
+  <u who="INV" uID="u57">
+    <w>oh</w>
+    <t type="p"></t>
+
+  </u>
+  <u who="INV" uID="u58">
+    <w>well</w>
+    <w>you</w>
+    <w>can</w>
+    <w>tell</w>
+    <w>me</w>
+    <w>anything</w>
+    <w>that</w>
+    <w>comes</w>
+    <w>to</w>
+    <w>mind</w>
+    <t type="p"></t>
+
+  </u>
+  <u who="CHI" uID="u59">
+    <w untranscribed="unintelligible">xxx</w>
+    <t type="p"></t>
+
+  </u>
+  <u who="INV" uID="u60">
+    <w>can</w>
+    <w>we</w>
+    <w>slow</w>
+    <w>down</w>
+    <w>a</w>
+    <w>little</w>
+    <w>bit</w>
+    <t type="q"></t>
+
+  </u>
+  <u who="CHI" uID="u61">
+    <e><happening>nods:yes</happening></e>
+    <t type="p"></t>
+
+  </u>
+  <u who="INV" uID="u62">
+    <w>okay</w>
+    <t type="p"></t>
+
+  </u>
+  <lazy-gem label="Pretzel"/>
+  <u who="INV" uID="u63">
+    <w>what</w>
+    <w>is</w>
+    <w>this</w>
+    <t type="q"></t>
+
+  </u>
+  <u who="CHI" uID="u64">
+    <w>pretzel</w>
+    <t type="p"></t>
+
+  </u>
+  <u who="INV" uID="u65">
+    <w>what</w>
+    <w>more</w>
+    <w>can</w>
+    <w>you</w>
+    <w>tell</w>
+    <w>me</w>
+    <t type="q"></t>
+
+  </u>
+  <u who="CHI" uID="u66">
+    <w>it's</w>
+    <w>salty</w>
+    <t type="p"></t>
+
+  </u>
+  <u who="INV" uID="u67">
+    <w>mm</w>
+    <t type="p"></t>
+
+  </u>
+  <u who="INV" uID="u68">
+    <w>what</w>
+    <w>else</w>
+    <w>can</w>
+    <w>you</w>
+    <w>tell</w>
+    <w>me</w>
+    <t type="q"></t>
+
+  </u>
+  <u who="CHI" uID="u69">
+    <w>it's</w>
+    <w>sweet</w>
+    <t type="p"></t>
+
+  </u>
+  <u who="INV" uID="u70">
+    <g><w>mm-hm</w><ga type="explanation">yes</ga></g>
+    <t type="p"></t>
+
+  </u>
+  <u who="CHI" uID="u71">
+    <w>it</w>
+    <w>is</w>
+    <w>a</w>
+    <w>little</w>
+    <w>bit</w>
+    <w>soggy</w>
+    <t type="p"></t>
+
+  </u>
+  <u who="INV" uID="u72">
+    <w>mm</w>
+    <t type="p"></t>
+
+  </u>
+  <u who="CHI" uID="u73">
+    <w>it</w>
+    <w>is</w>
+    <w>a</w>
+    <w>little</w>
+    <w>bit</w>
+    <w>soggy</w>
+    <w>when</w>
+    <w>I</w>
+    <w>get</w>
+    <w>them</w>
+    <t type="p"></t>
+
+  </u>
+  <u who="INV" uID="u74">
+    <g><w>mm-hm</w><ga type="explanation">yes</ga></g>
+    <t type="p"></t>
+
+  </u>
+  <u who="CHI" uID="u75">
+    <g><w>and</w><k type="best guess"/></g>
+    <w>every</w>
+    <w>time</w>
+    <w>well</w>
+    <w>sometimes</w>
+    <w>when</w>
+    <w>we</w>
+    <w>go</w>
+    <w>to</w>
+    <w>the</w>
+    <w>mall</w>
+    <w>and</w>
+    <w>we're</w>
+    <w>running</w>
+    <w>to</w>
+    <w>get</w>
+    <w>a</w>
+    <w>pretzel</w>
+    <w>we're</w>
+    <w>too</w>
+    <w>late</w>
+    <w>and</w>
+    <w>it</w>
+    <w>is</w>
+    <w>closing</w>
+    <w>time</w>
+    <w>for</w>
+    <w>the</w>
+    <w>pretzel</w>
+    <w>place</w>
+    <t type="p"></t>
+
+  </u>
+  <u who="INV" uID="u76">
+    <w>mm</w>
+    <tagMarker type="comma"></tagMarker>
+    <g><w>mm-hm</w><ga type="explanation">yes</ga></g>
+    <t type="p"></t>
+
+  </u>
+  <u who="CHI" uID="u77">
+    <w>so</w>
+    <w>we</w>
+    <w>have</w>
+    <w>to</w>
+    <w>go</w>
+    <w>to</w>
+    <w>a</w>
+    <w>restaurant</w>
+    <w>in</w>
+    <w>there</w>
+    <w>instead</w>
+    <w>to</w>
+    <w>get</w>
+    <w>a</w>
+    <w>pretzel</w>
+    <t type="p"></t>
+
+  </u>
+  <u who="INV" uID="u78">
+    <w>ah</w>
+    <tagMarker type="comma"></tagMarker>
+    <w>okay</w>
+    <t type="p"></t>
+
+  </u>
+  <u who="INV" uID="u79">
+    <w>anything</w>
+    <w>else</w>
+    <w>you</w>
+    <w>want</w>
+    <w>to</w>
+    <w>tell</w>
+    <w>me</w>
+    <t type="q"></t>
+
+  </u>
+  <u who="CHI" uID="u80">
+    <w>well</w>
+    <w>it</w>
+    <w>does</w>
+    <w>look</w>
+    <w>yummy</w>
+    <t type="p"></t>
+
+  </u>
+  <u who="INV" uID="u81">
+    <w>mm</w>
+    <t type="p"></t>
+
+  </u>
+  <u who="CHI" uID="u82">
+    <w>it</w>
+    <w>just</w>
+    <w>doesn't</w>
+    <w>want</w>
+    <w>to</w>
+    <w>go</w>
+    <g><w>down</w><ga type="explanation">referring to page he is turning</ga></g>
+    <t type="p"></t>
+
+  </u>
+  <lazy-gem label="Snake"/>
+  <u who="INV" uID="u83">
+    <w>what</w>
+    <w>is</w>
+    <w>this</w>
+    <t type="q"></t>
+
+  </u>
+  <u who="CHI" uID="u84">
+    <w>hm</w>
+    <tagMarker type="comma"></tagMarker>
+    <w>it</w>
+    <w>looks</w>
+    <w>like</w>
+    <w>a</w>
+    <w>snake</w>
+    <w>that</w>
+    <w>ate</w>
+    <w>a</w>
+    <w>egg</w>
+    <t type="p"></t>
+
+  </u>
+  <u who="INV" uID="u85">
+    <w>mm</w>
+    <t type="p"></t>
+
+  </u>
+  <u who="CHI" uID="u86">
+    <w><shortening>be</shortening>cause</w>
+    <w>its</w>
+    <w>neck</w>
+    <w>is</w>
+    <w>very</w>
+    <w>fat</w>
+    <t type="p"></t>
+
+  </u>
+  <u who="INV" uID="u87">
+    <w>mm</w>
+    <tagMarker type="comma"></tagMarker>
+    <g><w>mm-hm</w><ga type="explanation">yes</ga></g>
+    <t type="p"></t>
+
+  </u>
+  <u who="CHI" uID="u88">
+    <w>it's</w>
+    <w>probably</w>
+    <w>gagging</w>
+    <t type="p"></t>
+
+  </u>
+  <u who="INV" uID="u89">
+    <w>mm</w>
+    <t type="p"></t>
+
+  </u>
+  <u who="INV" uID="u90">
+    <w>what</w>
+    <w>more</w>
+    <w>can</w>
+    <w>you</w>
+    <w>tell</w>
+    <w>me</w>
+    <t type="q"></t>
+
+  </u>
+  <u who="CHI" uID="u91">
+    <w>uh</w>
+    <tagMarker type="comma"></tagMarker>
+    <w>well</w>
+    <w>I</w>
+    <w>think</w>
+    <w>it</w>
+    <w>looks</w>
+    <w>kind</w>
+    <w>of</w>
+    <w>pretty</w>
+    <t type="p"></t>
+
+  </u>
+  <u who="INV" uID="u92">
+    <g><w>mm-hm</w><ga type="explanation">yes</ga></g>
+    <t type="p"></t>
+
+  </u>
+  <u who="CHI" uID="u93">
+    <w>hm</w>
+    <w>well</w>
+    <w>I</w>
+    <w>know</w>
+    <w>it</w>
+    <w>has</w>
+    <w>the</w>
+    <w>letter</w>
+    <w>V</w>
+    <w>on</w>
+    <w>it</w>
+    <t type="p"></t>
+
+  </u>
+  <u who="INV" uID="u94">
+    <w>mm</w>
+    <t type="p"></t>
+
+  </u>
+  <u who="CHI" uID="u95">
+    <w>and</w>
+    <w>the</w>
+    <w>V</w>
+    <w>is</w>
+    <w>a</w>
+    <w>little</w>
+    <w>bit</w>
+    <w>curlicued</w>
+    <t type="p"></t>
+
+  </u>
+  <u who="INV" uID="u96">
+    <g><w>mm-hm</w><ga type="explanation">yes</ga></g>
+    <t type="p"></t>
+
+  </u>
+  <u who="CHI" uID="u97">
+    <w>I</w>
+    <w>like</w>
+    <w>curlycue</w>
+    <t type="p"></t>
+
+  </u>
+  <u who="INV" uID="u98">
+    <w>anything</w>
+    <w>else</w>
+    <w>you</w>
+    <w>want</w>
+    <w>to</w>
+    <w>tell</w>
+    <w>me</w>
+    <t type="q"></t>
+
+  </u>
+  <u who="CHI" uID="u99">
+    <w>well</w>
+    <tagMarker type="comma"></tagMarker>
+    <w>they're</w>
+    <w>slimy</w>
+    <t type="p"></t>
+
+  </u>
+  <u who="INV" uID="u100">
+    <g><w>mm-hm</w><ga type="explanation">yes</ga></g>
+    <t type="p"></t>
+
+  </u>
+  <u who="CHI" uID="u101">
+    <w>I</w>
+    <w>I</w>
+    <w>never</w>
+    <w>I</w>
+    <w>never</w>
+    <w>thought</w>
+    <w>there</w>
+    <w>would</w>
+    <w>be</w>
+    <w>a</w>
+    <w>snake</w>
+    <w>in</w>
+    <w>there</w>
+    <t type="p"></t>
+
+  </u>
+  <u who="INV" uID="u102">
+    <w>mm</w>
+    <t type="p"></t>
+
+  </u>
+  <lazy-gem label="Lion"/>
+  <u who="INV" uID="u103">
+    <w>what</w>
+    <w>is</w>
+    <w>this</w>
+    <t type="q"></t>
+
+  </u>
+  <u who="CHI" uID="u104">
+    <w>a</w>
+    <w>lion</w>
+    <t type="p"></t>
+
+  </u>
+  <u who="INV" uID="u105">
+    <w>what</w>
+    <w>more</w>
+    <w>can</w>
+    <w>you</w>
+    <w>tell</w>
+    <w>me</w>
+    <t type="q"></t>
+
+  </u>
+  <u who="CHI" uID="u106">
+    <w>ow</w>
+    <w>ow</w>
+    <t type="p"></t>
+
+  </u>
+  <u who="INV" uID="u107">
+    <w>mm</w>
+    <w>are</w>
+    <w>you</w>
+    <w>okay</w>
+    <t type="q"></t>
+
+  </u>
+  <u who="CHI" uID="u108">
+    <w>I</w>
+    <w>have</w>
+    <w>got</w>
+    <w>a</w>
+    <w>papercut</w>
+    <w>before</w>
+    <t type="p"></t>
+
+  </u>
+  <u who="INV" uID="u109">
+    <w>mm</w>
+    <t type="p"></t>
+
+  </u>
+  <u who="CHI" uID="u110">
+    <w>I</w>
+    <w>almost</w>
+    <w>got</w>
+    <w>one</w>
+    <t type="p"></t>
+
+  </u>
+  <u who="INV" uID="u111">
+    <w>mm</w>
+    <t type="p"></t>
+
+  </u>
+  <u who="CHI" uID="u112">
+    <overlap-point start-end="start" top-bottom="top"/>
+    <w>I</w>
+    <w>have<overlap-point start-end="end" top-bottom="top"/></w>
+    <t type="p"></t>
+
+  </u>
+  <u who="INV" uID="u113">
+    <w>you're</w>
+    <overlap-point start-end="start" top-bottom="bottom"/>
+    <w>okay<overlap-point start-end="end" top-bottom="bottom"/></w>
+    <t type="q"></t>
+
+  </u>
+  <u who="CHI" uID="u114">
+    <w>I</w>
+    <w>have</w>
+    <w>even</w>
+    <w>got</w>
+    <w>a</w>
+    <w>blister</w>
+    <t type="p"></t>
+
+  </u>
+  <u who="INV" uID="u115">
+    <w>oh</w>
+    <t type="p"></t>
+
+  </u>
+  <u who="CHI" uID="u116">
+    <w>no</w>
+    <w>one</w>
+    <w>could</w>
+    <w>get</w>
+    <w>it</w>
+    <w>out</w>
+    <t type="p"></t>
+
+  </u>
+  <u who="CHI" uID="u117">
+    <w>except</w>
+    <w>my</w>
+    <w>mom</w>
+    <t type="p"></t>
+
+  </u>
+  <u who="CHI" uID="u118">
+    <w>she</w>
+    <w>used</w>
+    <w>tweezers</w>
+    <w>and</w>
+    <w>ripped</w>
+    <w>it</w>
+    <w>out</w>
+    <t type="p"></t>
+
+  </u>
+  <u who="INV" uID="u119">
+    <w>mm</w>
+    <t type="p"></t>
+
+  </u>
+  <u who="CHI" uID="u120">
+    <w>but</w>
+    <w>I</w>
+    <w>had</w>
+    <w>to</w>
+    <w>put</w>
+    <w>a</w>
+    <w>band-aid</w>
+    <w>on</w>
+    <t type="p"></t>
+
+  </u>
+  <u who="INV" uID="u121">
+    <w>mm</w>
+    <t type="p"></t>
+
+  </u>
+  <u who="CHI" uID="u122">
+    <w>band-aid</w>
+    <w>everywhere</w>
+    <t type="p"></t>
+
+  </u>
+  <u who="INV" uID="u123">
+    <w>mm</w>
+    <t type="p"></t>
+
+  </u>
+  <u who="CHI" uID="u124">
+    <w>everywhere</w>
+    <w>I</w>
+    <w>go</w>
+    <w>I</w>
+    <w>seem</w>
+    <w>to</w>
+    <w>get</w>
+    <w>hurt</w>
+    <t type="p"></t>
+
+  </u>
+  <u who="INV" uID="u125">
+    <w>oh</w>
+    <t type="p"></t>
+
+  </u>
+  <u who="INV" uID="u126">
+    <w>what</w>
+    <w>is</w>
+    <w>this</w>
+    <t type="q"></t>
+
+  </u>
+  <u who="CHI" uID="u127">
+    <w>lion</w>
+    <t type="p"></t>
+
+  </u>
+  <u who="CHI" uID="u128">
+    <w>I</w>
+    <w>already</w>
+    <w>said</w>
+    <w>that</w>
+    <t type="p"></t>
+
+  </u>
+  <u who="INV" uID="u129">
+    <w>mm</w>
+    <w>okay</w>
+    <w>okay</w>
+    <t type="p"></t>
+
+  </u>
+  <u who="INV" uID="u130">
+    <w>what</w>
+    <w>more</w>
+    <w>can</w>
+    <w>you</w>
+    <w>tell</w>
+    <w>me</w>
+    <t type="q"></t>
+
+  </u>
+  <u who="CHI" uID="u131">
+    <w>well</w>
+    <w>it</w>
+    <w>says</w>
+    <w>roar</w>
+    <t type="p"></t>
+
+  </u>
+  <u who="INV" uID="u132">
+    <g><w>mm-hm</w><ga type="explanation">yes</ga></g>
+    <t type="p"></t>
+
+  </u>
+  <u who="CHI" uID="u133">
+    <w>so</w>
+    <w>does</w>
+    <w>so</w>
+    <w>do</w>
+    <w>tigers</w>
+    <t type="p"></t>
+
+  </u>
+  <u who="INV" uID="u134">
+    <w>mm</w>
+    <t type="p"></t>
+
+  </u>
+  <u who="INV" uID="u135">
+    <w>what</w>
+    <w>else</w>
+    <w>can</w>
+    <w>you</w>
+    <w>tell</w>
+    <w>me</w>
+    <t type="q"></t>
+
+  </u>
+  <u who="CHI" uID="u136">
+    <w>nothing</w>
+    <w>usually</w>
+    <w>usually</w>
+    <w>nothing</w>
+    <w>comes</w>
+    <w>to</w>
+    <w>my</w>
+    <w>mind</w>
+    <w>usually</w>
+    <t type="p"></t>
+
+  </u>
+  <u who="INV" uID="u137">
+    <w>mm</w>
+    <t type="p"></t>
+
+  </u>
+  <u who="CHI" uID="u138">
+    <w>nothing</w>
+    <w>comes</w>
+    <w>to</w>
+    <w>mind</w>
+    <w>this</w>
+    <w>time</w>
+    <w>of</w>
+    <w>well</w>
+    <w>with</w>
+    <w>me</w>
+    <w>this</w>
+    <w>time</w>
+    <w>of</w>
+    <w>day</w>
+    <w>nothing</w>
+    <w>actually</w>
+    <w>really</w>
+    <w>comes</w>
+    <w>to</w>
+    <w>my</w>
+    <w>mind</w>
+    <t type="p"></t>
+
+  </u>
+  <u who="INV" uID="u139">
+    <w>mm</w>
+    <t type="p"></t>
+
+  </u>
+  <u who="INV" uID="u140">
+    <w>okay</w>
+    <t type="p"></t>
+
+  </u>
+  <lazy-gem label="Farmer"/>
+  <u who="INV" uID="u141">
+    <w>what</w>
+    <w>is</w>
+    <w>this</w>
+    <t type="q"></t>
+
+  </u>
+  <u who="CHI" uID="u142">
+    <w>I</w>
+    <w>don't</w>
+    <w>know</w>
+    <t type="p"></t>
+
+  </u>
+  <u who="INV" uID="u143">
+    <w>hm</w>
+    <t type="p"></t>
+
+  </u>
+  <u who="CHI" uID="u144">
+    <w>I</w>
+    <w>think</w>
+    <w>it's</w>
+    <w>a</w>
+    <w>cowgirl</w>
+    <t type="p"></t>
+
+  </u>
+  <u who="INV" uID="u145">
+    <w>mm</w>
+    <t type="p"></t>
+
+  </u>
+  <u who="INV" uID="u146">
+    <w>what</w>
+    <w>more</w>
+    <w>can</w>
+    <w>you</w>
+    <w>tell</w>
+    <w>me</w>
+    <t type="q"></t>
+
+  </u>
+  <u who="CHI" uID="u147">
+    <w>mm</w>
+    <tagMarker type="comma"></tagMarker>
+    <w>I</w>
+    <w>don't</w>
+    <w>actually</w>
+    <w>know</w>
+    <w>much</w>
+    <w>about</w>
+    <w>cowgirls</w>
+    <t type="p"></t>
+
+  </u>
+  <u who="CHI" uID="u148">
+    <w>I</w>
+    <w>have</w>
+    <w>never</w>
+    <w>read</w>
+    <w>about</w>
+    <w>them</w>
+    <t type="p"></t>
+
+  </u>
+  <u who="INV" uID="u149">
+    <w>oh</w>
+    <t type="p"></t>
+
+  </u>
+  <u who="CHI" uID="u150">
+    <w>I</w>
+    <w>don't</w>
+    <w>know</w>
+    <w>anything</w>
+    <w>about</w>
+    <w>them</w>
+    <t type="p"></t>
+
+  </u>
+  <u who="CHI" uID="u151">
+    <w>well</w>
+    <w>I</w>
+    <w>all</w>
+    <w>I</w>
+    <w>know</w>
+    <w>is</w>
+    <w>that</w>
+    <w>they</w>
+    <w>milk</w>
+    <w>cows</w>
+    <w>and</w>
+    <w>ride</w>
+    <w>horses</w>
+    <t type="p"></t>
+
+  </u>
+  <u who="INV" uID="u152">
+    <w>mm</w>
+    <tagMarker type="comma"></tagMarker>
+    <g><w>mm-hm</w><ga type="explanation">yes</ga></g>
+    <t type="p"></t>
+
+  </u>
+  <u who="CHI" uID="u153">
+    <w>bye</w>
+    <w>bye</w>
+    <t type="p"></t>
+
+  </u>
+  <u who="CHI" uID="u154">
+    <w>I</w>
+    <w>just</w>
+    <w>don't</w>
+    <w>know</w>
+    <w>that</w>
+    <w>much</w>
+    <w>about</w>
+    <w>those</w>
+    <t type="p"></t>
+
+  </u>
+  <lazy-gem label="Weightlifter"/>
+  <u who="INV" uID="u155">
+    <w>what</w>
+    <w>is</w>
+    <w>this</w>
+    <t type="q"></t>
+
+  </u>
+  <u who="CHI" uID="u156">
+    <w>mm</w>
+    <tagMarker type="comma"></tagMarker>
+    <w>it's</w>
+    <w>a</w>
+    <w>a</w>
+    <w>circus</w>
+    <w>actor</w>
+    <t type="p"></t>
+
+  </u>
+  <u who="INV" uID="u157">
+    <w>mm</w>
+    <w>what</w>
+    <w>more</w>
+    <w>can</w>
+    <w>you</w>
+    <w>tell</w>
+    <w>me</w>
+    <t type="q"></t>
+
+  </u>
+  <u who="CHI" uID="u158">
+    <w>well</w>
+    <w>it</w>
+    <w>is</w>
+    <w>strong</w>
+    <t type="p"></t>
+
+  </u>
+  <u who="INV" uID="u159">
+    <g><w>mm-hm</w><ga type="explanation">yes</ga></g>
+    <t type="p"></t>
+
+  </u>
+  <u who="CHI" uID="u160">
+    <w>it</w>
+    <w>it</w>
+    <w>lift</w>
+    <w>a</w>
+    <w>hundred</w>
+    <w>and</w>
+    <w>five</w>
+    <w>weight</w>
+    <t type="p"></t>
+
+  </u>
+  <u who="INV" uID="u161">
+    <w>mm</w>
+    <w>anything</w>
+    <w>else</w>
+    <w>you</w>
+    <w>can</w>
+    <w>tell</w>
+    <w>me</w>
+    <t type="q"></t>
+
+  </u>
+  <u who="CHI" uID="u162">
+    <w>uh</w>
+    <tagMarker type="comma"></tagMarker>
+    <e><happening>shakes:head_no</happening></e>
+    <w>hey</w>
+    <w>it</w>
+    <w>just</w>
+    <w>doesn't</w>
+    <w>want</w>
+    <w>to</w>
+    <w>go</w>
+    <g><w>down</w><ga type="explanation">referring to page CHI is turning</ga></g>
+    <t type="p"></t>
+
+  </u>
+  <u who="INV" uID="u163">
+    <w>mm</w>
+    <t type="p"></t>
+
+  </u>
+  <lazy-gem label="Frog"/>
+  <u who="INV" uID="u164">
+    <w>what</w>
+    <w>is</w>
+    <w>this</w>
+    <t type="q"></t>
+
+  </u>
+  <u who="CHI" uID="u165">
+    <w>um</w>
+    <w>a</w>
+    <w>toad</w>
+    <w>I</w>
+    <w>think</w>
+    <t type="p"></t>
+
+  </u>
+  <u who="INV" uID="u166">
+    <g><w>mm-hm</w><ga type="explanation">yes</ga></g>
+    <t type="p"></t>
+
+  </u>
+  <u who="CHI" uID="u167">
+    <w>it</w>
+    <w>looks</w>
+    <w>like</w>
+    <w>it's</w>
+    <w>actually</w>
+    <w>lookin<shortening>g</shortening></w>
+    <w>at</w>
+    <w>me</w>
+    <t type="p"></t>
+
+  </u>
+  <u who="INV" uID="u168">
+    <w>mm</w>
+    <tagMarker type="comma"></tagMarker>
+    <w>what</w>
+    <w>more</w>
+    <w>can</w>
+    <w>you</w>
+    <w>tell</w>
+    <w>me</w>
+    <t type="q"></t>
+
+  </u>
+  <u who="CHI" uID="u169">
+    <w>mm</w>
+    <tagMarker type="comma"></tagMarker>
+    <w>well</w>
+    <w>they</w>
+    <w>eat</w>
+    <w>bugs</w>
+    <t type="p"></t>
+
+  </u>
+  <u who="INV" uID="u170">
+    <g><w>mm-hm</w><ga type="explanation">yes</ga></g>
+    <t type="p"></t>
+
+  </u>
+  <u who="CHI" uID="u171">
+    <w>I</w>
+    <w>I</w>
+    <w>don't</w>
+    <w>think</w>
+    <w>I'd</w>
+    <w>eat</w>
+    <w>any</w>
+    <w>bugs</w>
+    <t type="p"></t>
+
+  </u>
+  <u who="INV" uID="u172">
+    <w>mm</w>
+    <t type="p"></t>
+
+  </u>
+  <u who="CHI" uID="u173">
+    <w>even</w>
+    <w>if</w>
+    <w>it</w>
+    <w>were</w>
+    <w>a</w>
+    <w>fly</w>
+    <w>I</w>
+    <w>wouldn't</w>
+    <w>eat</w>
+    <w>it</w>
+    <t type="p"></t>
+
+  </u>
+  <u who="INV" uID="u174">
+    <g><w>mm-hm</w><ga type="explanation">yes</ga></g>
+    <t type="p"></t>
+
+  </u>
+  <u who="CHI" uID="u175">
+    <w>I</w>
+    <w>and</w>
+    <w>I</w>
+    <w>know</w>
+    <w>some</w>
+    <w>that</w>
+    <w>I</w>
+    <w>have</w>
+    <w>caught</w>
+    <w>a</w>
+    <w>frog</w>
+    <w>before</w>
+    <t type="p"></t>
+
+  </u>
+  <u who="CHI" uID="u176">
+    <w>it</w>
+    <w>was</w>
+    <w>only</w>
+    <w>this</w>
+    <w>big</w>
+    <t type="p"></t>
+
+  </u>
+  <u who="INV" uID="u177">
+    <w>mm</w>
+    <tagMarker type="comma"></tagMarker>
+    <g><w>mm-hm</w><ga type="explanation">yes</ga></g>
+    <t type="p"></t>
+
+  </u>
+  <u who="CHI" uID="u178">
+    <w>yep</w>
+    <w>it</w>
+    <w>looked</w>
+    <w>like</w>
+    <w>a</w>
+    <w>baby</w>
+    <w>toad</w>
+    <t type="p"></t>
+
+  </u>
+  <u who="INV" uID="u179">
+    <g><w>mm-hm</w><ga type="explanation">yes</ga></g>
+    <t type="p"></t>
+
+  </u>
+  <u who="CHI" uID="u180">
+    <w>it</w>
+    <w>was</w>
+    <w>actually</w>
+    <w>a</w>
+    <w>toad</w>
+    <t type="p"></t>
+
+  </u>
+  <u who="INV" uID="u181">
+    <w>oh</w>
+    <w>okay</w>
+    <t type="p"></t>
+
+  </u>
+  <u who="CHI" uID="u182">
+    <w>it</w>
+    <w>was</w>
+    <w>and</w>
+    <w>I</w>
+    <w>do</w>
+    <w>know</w>
+    <w>one</w>
+    <w>type</w>
+    <w>of</w>
+    <w>poison</w>
+    <w>frog</w>
+    <t type="p"></t>
+
+  </u>
+  <u who="INV" uID="u183">
+    <g><w>mm-hm</w><ga type="explanation">yes</ga></g>
+    <t type="p"></t>
+
+  </u>
+  <u who="CHI" uID="u184">
+    <w>a</w>
+    <w>strawberry</w>
+    <w>poison</w>
+    <w>frog</w>
+    <t type="p"></t>
+
+  </u>
+  <u who="INV" uID="u185">
+    <w>mm</w>
+    <t type="p"></t>
+
+  </u>
+  <u who="CHI" uID="u186">
+    <w>a</w>
+    <w>blue</w>
+    <w>legged</w>
+    <w>poison</w>
+    <w>strawberry</w>
+    <w>frog</w>
+    <t type="p"></t>
+
+  </u>
+  <u who="INV" uID="u187">
+    <w>mm</w>
+    <tagMarker type="comma"></tagMarker>
+    <g><w>mm-hm</w><ga type="explanation">yes</ga></g>
+    <t type="p"></t>
+
+  </u>
+  <u who="CHI" uID="u188">
+    <w>I</w>
+    <w>know</w>
+    <w>a</w>
+    <w>lot</w>
+    <w>about</w>
+    <w>those</w>
+    <w>because</w>
+    <w>I</w>
+    <w>because</w>
+    <w>I</w>
+    <w>have</w>
+    <w>heard</w>
+    <w>a</w>
+    <w>story</w>
+    <w>about</w>
+    <w>a</w>
+    <w>one</w>
+    <w>little</w>
+    <w>strawberry</w>
+    <w>frog</w>
+    <t type="p"></t>
+
+  </u>
+  <u who="INV" uID="u189">
+    <g><w>mm-hm</w><ga type="explanation">yes</ga></g>
+    <t type="p"></t>
+
+  </u>
+  <u who="INV" uID="u190">
+    <w>anything</w>
+    <w>else</w>
+    <w>you</w>
+    <w>want</w>
+    <w>to</w>
+    <w>tell</w>
+    <w>me</w>
+    <t type="q"></t>
+
+  </u>
+  <u who="CHI" uID="u191">
+    <w>I</w>
+    <w>am</w>
+    <w>getting</w>
+    <w>a</w>
+    <w>little</w>
+    <w>tired</w>
+    <w>of</w>
+    <w>reading</w>
+    <t type="p"></t>
+
+  </u>
+  <u who="INV" uID="u192">
+    <w>oh</w>
+    <w>we</w>
+    <w>just</w>
+    <w>have</w>
+    <w>a</w>
+    <w>few</w>
+    <w>more</w>
+    <t type="p"></t>
+
+  </u>
+  <u who="INV" uID="u193">
+    <w>is</w>
+    <w>that</w>
+    <w>okay</w>
+    <t type="q"></t>
+
+  </u>
+  <u who="CHI" uID="u194">
+    <w>it's</w>
+    <w>just</w>
+    <w>that</w>
+    <w>I</w>
+    <w>am</w>
+    <w>not</w>
+    <w>a</w>
+    <w>big</w>
+    <w>fan</w>
+    <w>on</w>
+    <w>reading</w>
+    <t type="p"></t>
+
+  </u>
+  <u who="INV" uID="u195">
+    <w>oh</w>
+    <t type="p"></t>
+
+  </u>
+  <u who="CHI" uID="u196">
+    <w>I</w>
+    <w>never</w>
+    <w>usually</w>
+    <w>actually</w>
+    <w>want</w>
+    <w>to</w>
+    <w>read</w>
+    <t type="p"></t>
+
+  </u>
+  <u who="CHI" uID="u197">
+    <w>I</w>
+    <w>never</w>
+    <w>usually</w>
+    <w>want</w>
+    <w>to</w>
+    <t type="p"></t>
+
+  </u>
+  <u who="INV" uID="u198">
+    <w>well</w>
+    <w>we're</w>
+    <w>almost</w>
+    <w>done</w>
+    <t type="p"></t>
+
+  </u>
+  <lazy-gem label="Pie"/>
+  <u who="INV" uID="u199">
+    <w>what</w>
+    <w>is</w>
+    <w>this</w>
+    <t type="q"></t>
+
+  </u>
+  <u who="CHI" uID="u200">
+    <w>apple</w>
+    <w>pie</w>
+    <t type="p"></t>
+
+  </u>
+  <u who="CHI" uID="u201">
+    <w>I</w>
+    <w>know</w>
+    <w>that</w>
+    <w>because</w>
+    <w>I've</w>
+    <w>made</w>
+    <w>one</w>
+    <t type="p"></t>
+
+  </u>
+  <u who="INV" uID="u202">
+    <w>mm</w>
+    <t type="p"></t>
+
+  </u>
+  <u who="CHI" uID="u203">
+    <w>it</w>
+    <w>was</w>
+    <w>only</w>
+    <w>this</w>
+    <w>big</w>
+    <e><happening>shows:with_hands</happening></e>
+    <t type="p"></t>
+
+  </u>
+  <u who="INV" uID="u204">
+    <g><w>mm-hm</w><ga type="explanation">yes</ga></g>
+    <t type="p"></t>
+
+  </u>
+  <u who="CHI" uID="u205">
+    <w>it</w>
+    <w>was</w>
+    <w>only</w>
+    <w>this</w>
+    <w>big</w>
+    <t type="p"></t>
+
+  </u>
+  <u who="INV" uID="u206">
+    <g><w>mm-hm</w><ga type="explanation">yes</ga></g>
+    <t type="p"></t>
+
+  </u>
+  <u who="CHI" uID="u207">
+    <w>I</w>
+    <w>could</w>
+    <w>I</w>
+    <w>it</w>
+    <w>was</w>
+    <w>a</w>
+    <w>tiny</w>
+    <w>one</w>
+    <t type="p"></t>
+
+  </u>
+  <u who="CHI" uID="u208">
+    <w>tiny</w>
+    <t type="p"></t>
+
+  </u>
+  <u who="INV" uID="u209">
+    <w>oh</w>
+    <t type="p"></t>
+
+  </u>
+  <u who="INV" uID="u210">
+    <w>what</w>
+    <w>more</w>
+    <w>can</w>
+    <w>you</w>
+    <w>tell</w>
+    <w>me</w>
+    <t type="q"></t>
+
+  </u>
+  <u who="CHI" uID="u211">
+    <w>well</w>
+    <w>on</w>
+    <w>tv</w>
+    <tagMarker type="comma"></tagMarker>
+    <w>on</w>
+    <w>the</w>
+    <w>animal</w>
+    <w>show</w>
+    <w>I</w>
+    <w>have</w>
+    <w>seen</w>
+    <w>a</w>
+    <w>silly</w>
+    <w>monkey</w>
+    <w>with</w>
+    <w>their</w>
+    <w>two</w>
+    <w>cousins</w>
+    <t type="p"></t>
+
+  </u>
+  <u who="CHI" uID="u212">
+    <w>he</w>
+    <w>with</w>
+    <w>their</w>
+    <w>two</w>
+    <w>tiny</w>
+    <w>pies</w>
+    <w>they</w>
+    <w>were</w>
+    <w>only</w>
+    <w>this</w>
+    <w>big</w>
+    <t type="p"></t>
+
+  </u>
+  <u who="INV" uID="u213">
+    <g><w>mm-hm</w><ga type="explanation">yes</ga></g>
+    <t type="p"></t>
+
+  </u>
+  <u who="CHI" uID="u214">
+    <w>he</w>
+    <w>threw</w>
+    <w>them</w>
+    <w>up</w>
+    <w>in</w>
+    <w>the</w>
+    <w>air</w>
+    <w>and</w>
+    <w>then</w>
+    <w>pulled</w>
+    <w>some</w>
+    <w>ropes</w>
+    <w>and</w>
+    <w>they</w>
+    <w>turned</w>
+    <w>giant</w>
+    <w>and</w>
+    <w>they</w>
+    <w>came</w>
+    <w>down</w>
+    <w>and</w>
+    <w>splattered</w>
+    <w>all</w>
+    <w>over</w>
+    <w>his</w>
+    <w>cousins</w>
+    <t type="p"></t>
+
+  </u>
+  <u who="INV" uID="u215">
+    <w>anything</w>
+    <w>else</w>
+    <w>you</w>
+    <w>want</w>
+    <w>to</w>
+    <w>tell</w>
+    <w>me</w>
+    <t type="q"></t>
+
+  </u>
+  <lazy-gem label="Surfer"/>
+  <u who="CHI" uID="u216">
+    <w>uh</w>
+    <tagMarker type="comma"></tagMarker>
+    <w>I</w>
+    <w>don't</w>
+    <w>know</w>
+    <w>anything</w>
+    <w>else</w>
+    <w>about</w>
+    <w>these</w>
+    <w>guys</w>
+    <w>except</w>
+    <w>they're</w>
+    <w>a</w>
+    <w>surfer</w>
+    <t type="p"></t>
+
+  </u>
+  <u who="INV" uID="u217">
+    <w>mm</w>
+    <t type="p"></t>
+
+  </u>
+  <u who="INV" uID="u218">
+    <w>well</w>
+    <w>what</w>
+    <w>more</w>
+    <w>can</w>
+    <w>you</w>
+    <w>tell</w>
+    <w>me</w>
+    <t type="q"></t>
+
+  </u>
+  <u who="CHI" uID="u219">
+    <w>I</w>
+    <w>just</w>
+    <w>don't</w>
+    <w>know</w>
+    <w>anything</w>
+    <w>about</w>
+    <w>those</w>
+    <w>guys</w>
+    <t type="p"></t>
+
+  </u>
+  <u who="INV" uID="u220">
+    <w>anything</w>
+    <w>you</w>
+    <w>can</w>
+    <w>tell</w>
+    <w>me</w>
+    <t type="q"></t>
+
+  </u>
+  <u who="CHI" uID="u221">
+    <w>well</w>
+    <w>they</w>
+    <w>go</w>
+    <w>out</w>
+    <w>on</w>
+    <w>the</w>
+    <w>ocean</w>
+    <t type="p"></t>
+
+  </u>
+  <u who="CHI" uID="u222">
+    <w>they</w>
+    <w>they</w>
+    <w>need</w>
+    <w>a</w>
+    <w>bathing</w>
+    <w>suit</w>
+    <w>incase</w>
+    <w>they</w>
+    <w>actually</w>
+    <w>fall</w>
+    <w>off</w>
+    <t type="p"></t>
+
+  </u>
+  <u who="INV" uID="u223">
+    <w>mm</w>
+    <t type="p"></t>
+
+  </u>
+  <u who="CHI" uID="u224">
+    <g><w>by</w>
+    <w>the</w>
+    <w>way</w><k type="best guess"/></g>
+    <t type="p"></t>
+
+  </u>
+  <u who="CHI" uID="u225">
+    <w>I</w>
+    <w>just</w>
+    <w>don't</w>
+    <w>know</w>
+    <w>that</w>
+    <w>much</w>
+    <w>about</w>
+    <w>these</w>
+    <t type="p"></t>
+
+  </u>
+  <u who="CHI" uID="u226">
+    <w>that's</w>
+    <w>about</w>
+    <w>all</w>
+    <w>I</w>
+    <w>know</w>
+    <w>about</w>
+    <w>them</w>
+    <t type="p"></t>
+
+  </u>
+  <u who="INV" uID="u227">
+    <w>okay</w>
+    <t type="p"></t>
+
+  </u>
+  <lazy-gem label="Corn"/>
+  <u who="INV" uID="u228">
+    <w>what</w>
+    <w>is</w>
+    <w>this</w>
+    <t type="q"></t>
+
+  </u>
+  <u who="CHI" uID="u229">
+    <w>mm</w>
+    <tagMarker type="comma"></tagMarker>
+    <w>corn</w>
+    <t type="p"></t>
+
+  </u>
+  <u who="INV" uID="u230">
+    <g><w>mm-hm</w><ga type="explanation">yes</ga></g>
+    <t type="p"></t>
+
+  </u>
+  <u who="CHI" uID="u231">
+    <w>you</w>
+    <w>have</w>
+    <w>to</w>
+    <w>husk</w>
+    <w>it</w>
+    <w>before</w>
+    <w>you</w>
+    <w>eat</w>
+    <w>it</w>
+    <w>and</w>
+    <w>break</w>
+    <w>off</w>
+    <w>the</w>
+    <w>hard</w>
+    <w>part</w>
+    <w>on</w>
+    <w>the</w>
+    <w>top</w>
+    <t type="p"></t>
+
+  </u>
+  <u who="INV" uID="u232">
+    <w>mm</w>
+    <t type="p"></t>
+
+  </u>
+  <u who="CHI" uID="u233">
+    <w>and</w>
+    <w>it</w>
+    <w>and</w>
+    <w>the</w>
+    <w>I</w>
+    <w>know</w>
+    <w>that</w>
+    <w>it</w>
+    <w>isn't</w>
+    <w>cooked</w>
+    <t type="p"></t>
+
+  </u>
+  <u who="INV" uID="u234">
+    <w>ah</w>
+    <tagMarker type="comma"></tagMarker>
+    <w>what</w>
+    <w>more</w>
+    <w>can</w>
+    <w>you</w>
+    <w>tell</w>
+    <w>me</w>
+    <t type="q"></t>
+
+  </u>
+  <u who="CHI" uID="u235">
+    <w>um</w>
+    <w>well</w>
+    <w>it</w>
+    <w>looks</w>
+    <w>yummy</w>
+    <w>when</w>
+    <w>it's</w>
+    <w>cooked</w>
+    <t type="p"></t>
+
+  </u>
+  <u who="INV" uID="u236">
+    <g><w>mm-hm</w><ga type="explanation">yes</ga></g>
+    <t type="p"></t>
+
+  </u>
+  <u who="CHI" uID="u237">
+    <w>but</w>
+    <w>it</w>
+    <w>still</w>
+    <w>looks</w>
+    <w>yummy</w>
+    <w>right</w>
+    <w>now</w>
+    <t type="p"></t>
+
+  </u>
+  <u who="INV" uID="u238">
+    <w>mm</w>
+    <t type="p"></t>
+
+  </u>
+  <lazy-gem label="Police Officer"/>
+  <u who="INV" uID="u239">
+    <w>what</w>
+    <w>is</w>
+    <w>this</w>
+    <t type="q"></t>
+
+  </u>
+  <u who="CHI" uID="u240">
+    <w>a</w>
+    <w>police</w>
+    <w>officer</w>
+    <t type="p"></t>
+
+  </u>
+  <u who="INV" uID="u241">
+    <g><w>mm-hm</w><ga type="explanation">yes</ga></g>
+    <tagMarker type="comma"></tagMarker>
+    <w>what</w>
+    <w>more</w>
+    <w>can</w>
+    <w>you</w>
+    <w>tell</w>
+    <w>me</w>
+    <t type="q"></t>
+
+  </u>
+  <u who="CHI" uID="u242">
+    <w>it's</w>
+    <w>talking</w>
+    <w>on</w>
+    <w>the</w>
+    <w>phone</w>
+    <w>I</w>
+    <w>think</w>
+    <t type="p"></t>
+
+  </u>
+  <u who="INV" uID="u243">
+    <g><w>mm-hm</w><ga type="explanation">yes</ga></g>
+    <t type="p"></t>
+
+  </u>
+  <u who="CHI" uID="u244">
+    <w>maybe</w>
+    <w>something</w>
+    <w>serious</w>
+    <w>have</w>
+    <w>has</w>
+    <w>happened</w>
+    <t type="p"></t>
+
+  </u>
+  <u who="INV" uID="u245">
+    <g><w>mm-hm</w><ga type="explanation">yes</ga></g>
+    <t type="p"></t>
+
+  </u>
+  <u who="CHI" uID="u246">
+    <w>and</w>
+    <w>they</w>
+    <w>might</w>
+    <w>be</w>
+    <w>have</w>
+    <w>to</w>
+    <w>have</w>
+    <w>send</w>
+    <w>to</w>
+    <w>have</w>
+    <w>to</w>
+    <w>be</w>
+    <w>sent</w>
+    <w>to</w>
+    <w>jail</w>
+    <t type="p"></t>
+
+  </u>
+  <u who="INV" uID="u247">
+    <w>mm</w>
+    <t type="p"></t>
+
+  </u>
+  <lazy-gem label="Milk"/>
+  <u who="CHI" uID="u248">
+    <w>this</w>
+    <w>is</w>
+    <w>about</w>
+    <w>the</w>
+    <w>last</w>
+    <w>one</w>
+    <t type="p"></t>
+
+  </u>
+  <u who="INV" uID="u249">
+    <w>oh</w>
+    <w>okay</w>
+    <t type="p"></t>
+
+  </u>
+  <u who="CHI" uID="u250">
+    <w>I</w>
+    <w>have</w>
+    <w>looked</w>
+    <w>at</w>
+    <w>it</w>
+    <t type="p"></t>
+
+  </u>
+  <u who="INV" uID="u251">
+    <w>what</w>
+    <w>is</w>
+    <w>this</w>
+    <t type="q"></t>
+
+  </u>
+  <u who="CHI" uID="u252">
+    <w>mm</w>
+    <w>I</w>
+    <w>think</w>
+    <w>it</w>
+    <w>is</w>
+    <w>milk</w>
+    <t type="p"></t>
+
+  </u>
+  <u who="INV" uID="u253">
+    <g><w>mm-hm</w><ga type="explanation">yes</ga></g>
+    <t type="p"></t>
+
+  </u>
+  <u who="CHI" uID="u254">
+    <w>mm</w>
+    <w>I</w>
+    <w>can't</w>
+    <w>actually</w>
+    <w>you</w>
+    <w>know</w>
+    <w>what</w>
+    <t type="q"></t>
+
+  </u>
+  <u who="CHI" uID="u255">
+    <w>I</w>
+    <w>um</w>
+    <w>I</w>
+    <w>can't</w>
+    <w>drink</w>
+    <w>milk</w>
+    <t type="p"></t>
+
+  </u>
+  <u who="INV" uID="u256">
+    <w>mm</w>
+    <t type="p"></t>
+
+  </u>
+  <u who="CHI" uID="u257">
+    <w>I</w>
+    <w>might</w>
+    <w>have</w>
+    <w>a</w>
+    <w>I</w>
+    <w>might</w>
+    <w>be</w>
+    <w>allergic</w>
+    <w>I</w>
+    <w>am</w>
+    <w>allergic</w>
+    <w>to</w>
+    <w>milk</w>
+    <t type="p"></t>
+
+  </u>
+  <u who="INV" uID="u258">
+    <w>mm</w>
+    <t type="p"></t>
+
+  </u>
+  <u who="CHI" uID="u259">
+    <w>milk</w>
+    <w>makes</w>
+    <w>my</w>
+    <w>throat</w>
+    <w>itch</w>
+    <w>all</w>
+    <w>the</w>
+    <w>time</w>
+    <t type="p"></t>
+
+  </u>
+  <u who="INV" uID="u260">
+    <w>mm</w>
+    <t type="p"></t>
+
+  </u>
+  <u who="INV" uID="u261">
+    <w>what</w>
+    <w>more</w>
+    <w>can</w>
+    <w>you</w>
+    <w>tell</w>
+    <w>me</w>
+    <t type="q"></t>
+
+  </u>
+  <u who="CHI" uID="u262">
+    <w>well</w>
+    <tagMarker type="comma"></tagMarker>
+    <w>my</w>
+    <w>sister</w>
+    <w>likes</w>
+    <w>it</w>
+    <t type="p"></t>
+
+  </u>
+  <u who="CHI" uID="u263">
+    <w>she</w>
+    <w>thinks</w>
+    <w>it's</w>
+    <w>yummy</w>
+    <t type="p"></t>
+
+  </u>
+  <u who="INV" uID="u264">
+    <w>mm</w>
+    <t type="p"></t>
+
+  </u>
+  <u who="CHI" uID="u265">
+    <w>I</w>
+    <w>can</w>
+    <w>only</w>
+    <w>drink</w>
+    <w>I</w>
+    <w>can</w>
+    <w>only</w>
+    <w>drink</w>
+    <w>powdered</w>
+    <w>milk</w>
+    <t type="p"></t>
+
+  </u>
+  <u who="INV" uID="u266">
+    <g><w>mm-hm</w><ga type="explanation">yes</ga></g>
+    <t type="p"></t>
+
+  </u>
+  <u who="CHI" uID="u267">
+    <w>that's</w>
+    <w>about</w>
+    <w>all</w>
+    <w>I</w>
+    <w>know</w>
+    <w>about</w>
+    <w>it</w>
+    <t type="p"></t>
+
+  </u>
+  <u who="INV" uID="u268">
+    <w>anything</w>
+    <w>else</w>
+    <w>you</w>
+    <w>want</w>
+    <w>to</w>
+    <w>tell</w>
+    <w>me</w>
+    <t type="q"></t>
+
+  </u>
+  <u who="CHI" uID="u269">
+    <w>no</w>
+    <t type="p"></t>
+
+  </u>
+  <u who="INV" uID="u270">
+    <w>okay</w>
+    <t type="p"></t>
+
+  </u>
+  <u who="CHI" uID="u271">
+    <w>okay</w>
+    <w>over</w>
+    <t type="p"></t>
+
+  </u>
+  <u who="INV" uID="u272">
+    <w>over</w>
+    <t type="p"></t>
+
+  </u>
+  <u who="INV" uID="u273">
+    <w>do</w>
+    <w>you</w>
+    <w>want</w>
+    <w>to</w>
+    <w>look</w>
+    <w>again</w>
+    <t type="q"></t>
+
+  </u>
+  <u who="CHI" uID="u274">
+    <e><happening>shakes:head_no</happening></e>
+    <t type="p"></t>
+
+  </u>
+  <u who="INV" uID="u275">
+    <w>alright</w>
+    <w>well</w>
+    <w>do</w>
+    <w>we</w>
+    <w>want</w>
+    <w>to</w>
+    <w>put</w>
+    <w>Zorg</w>
+    <w>back</w>
+    <w>into</w>
+    <w>his</w>
+    <w>home</w>
+    <t type="q"></t>
+
+  </u>
+  <u who="CHI" uID="u276">
+    <w>that's</w>
+    <w>his</w>
+    <w>home</w>
+    <w>in</w>
+    <w>a</w>
+    <w>box</w>
+    <t type="q"></t>
+
+  </u>
+  <u who="INV" uID="u277">
+    <w>yeah</w>
+    <t type="p"></t>
+
+  </u>
+  <u who="INV" uID="u278">
+    <w>do</w>
+    <w>you</w>
+    <w>want</w>
+    <w>to</w>
+    <w>put</w>
+    <w>him</w>
+    <w>back</w>
+    <w>in</w>
+    <t type="q"></t>
+
+  </u>
+  <u who="INV" uID="u279">
+    <w>thank</w>
+    <w>you</w>
+    <w>very</w>
+    <w>much</w>
+    <w>for</w>
+    <w>doing</w>
+    <w>that</w>
+    <w>with</w>
+    <w>me</w>
+    <t type="p"></t>
+
+  </u>
+  <u who="INV" uID="u280">
+    <w>that</w>
+    <w>was</w>
+    <w>a</w>
+    <w>lot</w>
+    <w>of</w>
+    <w>fun</w>
+    <t type="p"></t>
+
+  </u>
+</CHAT>

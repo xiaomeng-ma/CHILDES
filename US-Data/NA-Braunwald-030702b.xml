@@ -1,0 +1,94 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<CHAT xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+      xmlns="http://www.talkbank.org/ns/talkbank"
+      xsi:schemaLocation="http://www.talkbank.org/ns/talkbank https://talkbank.org/software/talkbank.xsd"
+      Media="030702b" Mediatypes="audio"
+            DesignType="long"
+            ActivityType="toyplay"
+            GroupType="TD"
+      PID="11312/c-00010475-1"
+      Version="2.16.0"
+      Lang="eng"
+      Corpus="Braunwald"
+      Date="1974-09-22"
+      >
+  <Participants>
+    <participant
+      id="CHI"
+    name="Laura"
+      role="Target_Child"
+      language="eng"
+      age="P3Y07M02D"
+      sex="female"
+
+    />
+    <participant
+      id="FAT"
+      role="Father"
+      language="eng"
+      sex="male"
+
+    />
+    <participant
+      id="MOT"
+      role="Mother"
+      language="eng"
+      sex="female"
+
+    />
+    <participant
+      id="SIS"
+      role="Sister"
+      language="eng"
+
+    />
+  </Participants>
+  <comment type="Date">22-SEP-1974</comment>
+  <comment type="Transcriber">Lianne Heys</comment>
+  <comment type="Location">USA</comment>
+  <comment type="Situation">playing</comment>
+  <comment type="Types">long, toyplay, TD</comment>
+  <u who="MOT" uID="u0">
+    <w untranscribed="untranscribed">www</w>
+    <t type="p"></t>
+    <media
+      start="0.000"
+      end="1.486"
+      unit="s"
+    />
+  </u>
+  <u who="MOT" uID="u1">
+    <w>and<mor type="mor"><mw><pos><c>coord</c></pos><stem>and</stem></mw><gra type="gra" index="1" head="5" relation="LINK"/></mor></w>
+    <w>you<mor type="mor"><mw><pos><c>pro</c><s>per</s></pos><stem>you</stem></mw><gra type="gra" index="2" head="5" relation="SUBJ"/></mor></w>
+    <w>too<mor type="mor"><mw><pos><c>adv</c></pos><stem>too</stem></mw><gra type="gra" index="3" head="4" relation="JCT"/></mor></w>
+    <tagMarker type="comma"><mor type="mor"><mw><pos><c>cm</c></pos><stem>cm</stem></mw><gra type="gra" index="4" head="2" relation="LP"/></mor></tagMarker>
+    <w>Laura<mor type="mor"><mw><pos><c>n</c><s>prop</s></pos><stem>Laura</stem></mw><gra type="gra" index="5" head="0" relation="ROOT"/></mor></w>
+    <t type="p"><mor type="mor"><mt type="p"/><gra type="gra" index="6" head="5" relation="PUNCT"/></mor></t>
+    <media
+      start="1.498"
+      end="2.624"
+      unit="s"
+    />
+  </u>
+  <u who="CHI" uID="u2">
+    <w>oh<mor type="mor"><mw><pos><c>co</c></pos><stem>oh</stem></mw><gra type="gra" index="1" head="0" relation="INCROOT"/></mor></w>
+    <t type="p"><mor type="mor"><mt type="p"/><gra type="gra" index="2" head="1" relation="PUNCT"/></mor></t>
+    <media
+      start="2.600"
+      end="3.169"
+      unit="s"
+    />
+    <a type="comments">FRI and MOT talking</a>
+  </u>
+  <u who="CHI" uID="u3">
+    <g><w>who<mor type="mor"><mw><pos><c>pro</c><s>rel</s></pos><stem>who</stem></mw><gra type="gra" index="1" head="0" relation="INCROOT"/></mor></w><k type="best guess"/></g>
+    <t type="p"><mor type="mor"><mt type="p"/><gra type="gra" index="2" head="1" relation="PUNCT"/></mor></t>
+    <media
+      start="12.409"
+      end="13.152"
+      unit="s"
+    />
+    <a type="comments">MOT and FRI talking</a>
+  </u>
+</CHAT>

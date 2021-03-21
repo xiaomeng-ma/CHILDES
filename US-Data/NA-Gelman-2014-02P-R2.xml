@@ -1,0 +1,6727 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<CHAT xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+      xmlns="http://www.talkbank.org/ns/talkbank"
+      xsi:schemaLocation="http://www.talkbank.org/ns/talkbank https://talkbank.org/software/talkbank.xsd"
+            DesignType="cross"
+            ActivityType="narrative"
+            GroupType="TD"
+      PID="11312/a-00031979-1"
+      Version="2.16.0"
+      Lang="eng"
+      Options="CA"
+      Corpus="Gelman"
+      >
+  <Participants>
+    <participant
+      id="MOT"
+      role="Mother"
+      language="eng"
+
+    />
+    <participant
+      id="INV"
+      role="Investigator"
+      language="eng"
+
+    />
+  </Participants>
+  <lazy-gem label="Turtle"/>
+  <comment type="Types">cross, narrative, TD</comment>
+  <u who="INV" uID="u0">
+    <w>what</w>
+    <w>is</w>
+    <w>this</w>
+    <t type="q"></t>
+
+  </u>
+  <u who="MOT" uID="u1">
+    <w>that</w>
+    <w>is</w>
+    <w>a</w>
+    <w>turtle</w>
+    <t type="p"></t>
+
+  </u>
+  <u who="INV" uID="u2">
+    <e><happening>nods:yes</happening></e>
+    <g><w>mm-hm</w><ga type="explanation">yes</ga></g>
+    <t type="p"></t>
+
+  </u>
+  <u who="MOT" uID="u3">
+    <w>turtles</w>
+    <w>live</w>
+    <tagMarker type="comma"></tagMarker>
+    <w>in</w>
+    <w>the</w>
+    <w>water</w>
+    <w>and</w>
+    <overlap-point start-end="start" top-bottom="top"/>
+    <w>on</w>
+    <w>the</w>
+    <w>land</w>
+    <w>around</w>
+    <w>the</w>
+    <w>water<overlap-point start-end="end" top-bottom="top"/></w>
+    <t type="p"></t>
+
+  </u>
+  <u who="INV" uID="u4">
+    <overlap-point start-end="start" top-bottom="bottom"/>
+    <e><happening>nods:yes</happening></e>
+    <g><w>mm-hm<overlap-point start-end="end" top-bottom="bottom"/></w><ga type="explanation">yes</ga></g>
+    <t type="p"></t>
+
+  </u>
+  <u who="MOT" uID="u5">
+    <w>and</w>
+    <w>their</w>
+    <w>heads</w>
+    <w>can</w>
+    <w>go</w>
+    <w>back</w>
+    <w>in</w>
+    <w>in</w>
+    <w>and</w>
+    <w>out</w>
+    <w>of</w>
+    <w>their</w>
+    <w>shells</w>
+    <t type="p"></t>
+
+  </u>
+  <u who="MOT" uID="u6">
+    <w>um</w>
+    <w>they</w>
+    <w>can</w>
+    <w>also</w>
+    <w>pull</w>
+    <w>their</w>
+    <w>legs</w>
+    <w>and</w>
+    <w>their</w>
+    <w>tails</w>
+    <w>into</w>
+    <w>their</w>
+    <w>shell</w>
+    <w>so</w>
+    <w>they</w>
+    <w>just</w>
+    <w>look</w>
+    <w>like</w>
+    <w>a</w>
+    <w>rock</w>
+    <t type="p"></t>
+
+  </u>
+  <u who="INV" uID="u7">
+    <w>okay</w>
+    <w>what</w>
+    <w>more</w>
+    <w>can</w>
+    <w>you</w>
+    <w>tell</w>
+    <w>me</w>
+    <t type="q"></t>
+
+  </u>
+  <u who="MOT" uID="u8">
+    <w>um</w>
+    <w>a</w>
+    <w>turtle's</w>
+    <w>shell</w>
+    <w>is</w>
+    <w>very</w>
+    <w>hard</w>
+    <t type="p"></t>
+
+  </u>
+  <u who="INV" uID="u9">
+    <g><w>mm-hm</w><ga type="explanation">yes</ga></g>
+    <t type="p"></t>
+
+  </u>
+  <u who="MOT" uID="u10">
+    <w>they</w>
+    <w>can't</w>
+    <w>take</w>
+    <w>it</w>
+    <w>off</w>
+    <t type="p"></t>
+
+  </u>
+  <u who="MOT" uID="u11">
+    <w>they</w>
+    <w>can't</w>
+    <w>come</w>
+    <w>out</w>
+    <w>of</w>
+    <w>their</w>
+    <w>shell</w>
+    <t type="p"></t>
+
+  </u>
+  <u who="MOT" uID="u12">
+    <w>it's</w>
+    <w>part</w>
+    <w>of</w>
+    <w>their</w>
+    <w>body</w>
+    <t type="p"></t>
+
+  </u>
+  <u who="MOT" uID="u13">
+    <w>um</w>
+    <t type="p"></t>
+
+  </u>
+  <u who="INV" uID="u14">
+    <e><happening>drops:cards</happening></e>
+    <e><happening>reaches:cards</happening></e>
+    <w>sorry</w>
+    <t type="p"></t>
+
+  </u>
+  <u who="MOT" uID="u15">
+    <e><happening>laughs</happening></e>
+    <w>the</w>
+    <w>cousin</w>
+    <w>of</w>
+    <w>the</w>
+    <w>turtle</w>
+    <w>is</w>
+    <w>the</w>
+    <w>tortoise</w>
+    <t type="p"></t>
+
+  </u>
+  <u who="INV" uID="u16">
+    <e><happening>laughs</happening></e>
+    <t type="p"></t>
+
+  </u>
+  <u who="MOT" uID="u17">
+    <w>and</w>
+    <w>they</w>
+    <w>live</w>
+    <w>on</w>
+    <w>land</w>
+    <t type="p"></t>
+
+  </u>
+  <u who="INV" uID="u18">
+    <g><w>mm-hm</w><ga type="explanation">yes</ga></g>
+    <t type="p"></t>
+
+  </u>
+  <u who="INV" uID="u19">
+    <e><happening>takes:cards</happening></e>
+    <t type="p"></t>
+
+  </u>
+  <u who="MOT" uID="u20">
+    <w>um</w>
+    <w>turtles</w>
+    <w>are</w>
+    <w>usually</w>
+    <w>vegetarians</w>
+    <t type="p"></t>
+
+  </u>
+  <u who="INV" uID="u21">
+    <e><happening>nods:yes</happening></e>
+    <t type="p"></t>
+
+  </u>
+  <u who="MOT" uID="u22">
+    <w>but</w>
+    <w>some</w>
+    <w>turtles</w>
+    <w>do</w>
+    <w>eat</w>
+    <w>fish</w>
+    <t type="p"></t>
+
+  </u>
+  <u who="MOT" uID="u23">
+    <w>and</w>
+    <w>bugs</w>
+    <t type="p"></t>
+
+  </u>
+  <u who="MOT" uID="u24">
+    <w>um</w>
+    <t type="p"></t>
+
+  </u>
+  <u who="MOT" uID="u25">
+    <w>they</w>
+    <w>usually</w>
+    <w>live</w>
+    <tagMarker type="comma"></tagMarker>
+    <w>they</w>
+    <w>usually</w>
+    <w>like</w>
+    <w>cool</w>
+    <w>cool</w>
+    <w>places</w>
+    <w>but</w>
+    <w>places</w>
+    <w>where</w>
+    <w>they</w>
+    <w>can</w>
+    <w>also</w>
+    <w>find</w>
+    <w>sunny</w>
+    <w>spots</w>
+    <w>to</w>
+    <w>lay</w>
+    <w>out</w>
+    <w>in</w>
+    <w>the</w>
+    <w>sun</w>
+    <w><shortening>be</shortening>cause</w>
+    <w>the're</w>
+    <w>cold</w>
+    <w>blooded</w>
+    <t type="p"></t>
+
+  </u>
+  <u who="MOT" uID="u26">
+    <overlap-point start-end="start" top-bottom="top"/>
+    <w>um<overlap-point start-end="end" top-bottom="top"/></w>
+    <t type="p"></t>
+
+  </u>
+  <u who="INV" uID="u27">
+    <overlap-point start-end="start" top-bottom="bottom"/>
+    <w>mm-hm<overlap-point start-end="end" top-bottom="bottom"/></w>
+    <t type="p"></t>
+
+  </u>
+  <u who="MOT" uID="u28">
+    <w>they're</w>
+    <w>reptiles</w>
+    <t type="p"></t>
+
+  </u>
+  <u who="INV" uID="u29">
+    <e><happening>nods:yes</happening></e>
+    <g><w>mm-hm</w><ga type="explanation">yes</ga></g>
+    <t type="p"></t>
+
+  </u>
+  <u who="MOT" uID="u30">
+    <w>and</w>
+    <w>um</w>
+    <t type="p"></t>
+
+  </u>
+  <u who="INV" uID="u31">
+    <w>anything</w>
+    <w>else</w>
+    <w>you</w>
+    <w>want</w>
+    <w>to</w>
+    <w>tell</w>
+    <w>me</w>
+    <t type="q"></t>
+
+  </u>
+  <u who="MOT" uID="u32">
+    <w>ah</w>
+    <w>in</w>
+    <w>the</w>
+    <w>winter</w>
+    <w>time</w>
+    <w>turtles</w>
+    <w>go</w>
+    <w>down</w>
+    <w>under</w>
+    <w>the</w>
+    <w>water</w>
+    <w>and</w>
+    <w>they</w>
+    <w>burrow</w>
+    <w>into</w>
+    <w>the</w>
+    <w>mud</w>
+    <w>and</w>
+    <w>they</w>
+    <tagMarker type="comma"></tagMarker>
+    <w>cover</w>
+    <w>themselves</w>
+    <w>up</w>
+    <w>in</w>
+    <w>the</w>
+    <w>mud</w>
+    <t type="p"></t>
+
+  </u>
+  <u who="MOT" uID="u33">
+    <w>and</w>
+    <w>they</w>
+    <overlap-point start-end="start" top-bottom="top"/>
+    <w>go</w>
+    <w>to</w>
+    <w>sleep</w>
+    <w>for</w>
+    <w>the</w>
+    <w>winter<overlap-point start-end="end" top-bottom="top"/></w>
+    <t type="p"></t>
+
+  </u>
+  <u who="INV" uID="u34">
+    <e><happening>nods</happening></e>
+    <overlap-point start-end="start" top-bottom="bottom"/>
+    <w>hm<overlap-point start-end="end" top-bottom="bottom"/></w>
+    <t type="p"></t>
+
+  </u>
+  <u who="INV" uID="u35">
+    <w>oh</w>
+    <t type="p"></t>
+
+  </u>
+  <u who="MOT" uID="u36">
+    <w>they</w>
+    <w>hibernate</w>
+    <t type="p"></t>
+
+  </u>
+  <u who="INV" uID="u37">
+    <w>okay</w>
+    <t type="p"></t>
+
+  </u>
+  <lazy-gem label="Cheese"/>
+  <u who="INV" uID="u38">
+    <w>what</w>
+    <w>is</w>
+    <w>this</w>
+    <t type="q"></t>
+
+  </u>
+  <u who="MOT" uID="u39">
+    <w>this</w>
+    <w>is</w>
+    <w>a</w>
+    <w>piece</w>
+    <w>of</w>
+    <w>cheese</w>
+    <t type="p"></t>
+
+  </u>
+  <u who="INV" uID="u40">
+    <e><happening>nods:yes</happening></e>
+    <g><w>mm-hm</w><ga type="explanation">yes</ga></g>
+    <t type="p"></t>
+
+  </u>
+  <u who="MOT" uID="u41">
+    <w>and</w>
+    <w>cheese</w>
+    <w>is</w>
+    <w>made</w>
+    <w>from</w>
+    <w>milk</w>
+    <t type="p"></t>
+
+  </u>
+  <u who="INV" uID="u42">
+    <e><happening>nods:yes</happening></e>
+    <t type="p"></t>
+
+  </u>
+  <u who="MOT" uID="u43">
+    <w>and</w>
+    <w>it's</w>
+    <w>really</w>
+    <w>good</w>
+    <w>if</w>
+    <w>you</w>
+    <w>slice</w>
+    <w>it</w>
+    <w>and</w>
+    <w>put</w>
+    <w>it</w>
+    <w>on</w>
+    <w>a</w>
+    <w>sandwich</w>
+    <t type="p"></t>
+
+  </u>
+  <u who="INV" uID="u44">
+    <e><happening>nods:yes</happening></e>
+    <overlap-point start-end="start" top-bottom="top"/>
+    <g><w>mm-hm<overlap-point start-end="end" top-bottom="top"/></w><ga type="explanation">yes</ga></g>
+    <t type="p"></t>
+
+  </u>
+  <u who="MOT" uID="u45">
+    <overlap-point start-end="start" top-bottom="bottom"/>
+    <w>um<overlap-point start-end="end" top-bottom="bottom"/></w>
+    <w>you</w>
+    <w>can</w>
+    <w>also</w>
+    <w>eat</w>
+    <w>it</w>
+    <w>in</w>
+    <w>cubes</w>
+    <t type="p"></t>
+
+  </u>
+  <u who="MOT" uID="u46">
+    <w>um</w>
+    <t type="p"></t>
+
+  </u>
+  <u who="INV" uID="u47">
+    <w>what</w>
+    <w>else</w>
+    <w>can</w>
+    <w>you</w>
+    <w>tell</w>
+    <w>me</w>
+    <t type="q"></t>
+
+  </u>
+  <u who="MOT" uID="u48">
+    <w>in</w>
+    <w>storybooks</w>
+    <w>they</w>
+    <w>say</w>
+    <w>that</w>
+    <w>mice</w>
+    <w>like</w>
+    <w>to</w>
+    <w>eat</w>
+    <w>cheese</w>
+    <t type="p"></t>
+
+  </u>
+  <u who="MOT" uID="u49">
+    <w>but</w>
+    <w>they</w>
+    <w>don't</w>
+    <w>really</w>
+    <e><happening>laughs</happening></e>
+    <overlap-point start-end="start" top-bottom="top"/>
+    <w>like</w>
+    <w>to</w>
+    <w>eat</w>
+    <w>cheese<overlap-point start-end="end" top-bottom="top"/></w>
+    <t type="p"></t>
+
+  </u>
+  <u who="INV" uID="u50">
+    <overlap-point start-end="start" top-bottom="bottom"/>
+    <w>oh<overlap-point start-end="end" top-bottom="bottom"/></w>
+    <t type="p"></t>
+
+  </u>
+  <u who="INV" uID="u51">
+    <e><happening>laughs</happening></e>
+    <w>oh</w>
+    <w>I</w>
+    <w>didn't</w>
+    <w>know</w>
+    <w>that</w>
+    <t type="p"></t>
+
+  </u>
+  <u who="MOT" uID="u52">
+    <w>um</w>
+    <w>yeah</w>
+    <w>mice</w>
+    <w>mostly</w>
+    <w>eat</w>
+    <w>grains</w>
+    <w>and</w>
+    <t type="trail off"></t>
+
+  </u>
+  <u who="INV" uID="u53">
+    <g><w>mm-hm</w><ga type="explanation">yes</ga></g>
+    <t type="p"></t>
+
+  </u>
+  <u who="MOT" uID="u54">
+    <w>they</w>
+    <w>don't</w>
+    <w>really</w>
+    <w>like</w>
+    <w>cheese</w>
+    <w>but</w>
+    <w>um</w>
+    <t type="p"></t>
+
+  </u>
+  <u who="MOT" uID="u55">
+    <w>what</w>
+    <w>else</w>
+    <w>about</w>
+    <w>cheese</w>
+    <t type="q"></t>
+
+  </u>
+  <u who="INV" uID="u56">
+    <w>hm</w>
+    <t type="p"></t>
+
+  </u>
+  <u who="MOT" uID="u57">
+    <w>sometimes</w>
+    <w>people</w>
+    <w>eat</w>
+    <w>cheese</w>
+    <w>with</w>
+    <w>fruit</w>
+    <w>for</w>
+    <w>dessert</w>
+    <t type="p"></t>
+
+  </u>
+  <u who="INV" uID="u58">
+    <e><happening>nods:yes</happening></e>
+    <g><w>mm-hm</w><ga type="explanation">yes</ga></g>
+    <t type="p"></t>
+
+  </u>
+  <u who="MOT" uID="u59">
+    <w>sometimes</w>
+    <w>people</w>
+    <w>shr</w>
+    <w>shred</w>
+    <w>up</w>
+    <w>the</w>
+    <w>cheese</w>
+    <w>and</w>
+    <w>sprinkle</w>
+    <w>it</w>
+    <w>on</w>
+    <w>hot</w>
+    <w>foods</w>
+    <w>so</w>
+    <w>that'll</w>
+    <w>melt</w>
+    <w>over</w>
+    <w>that</w>
+    <t type="p"></t>
+
+  </u>
+  <u who="INV" uID="u60">
+    <e><happening>nods:yes</happening></e>
+    <t type="p"></t>
+
+  </u>
+  <u who="MOT" uID="u61">
+    <w>um</w>
+    <w>this</w>
+    <w>kind</w>
+    <w>of</w>
+    <w>cheese</w>
+    <w>with</w>
+    <w>holes</w>
+    <w>in</w>
+    <w>it</w>
+    <overlap-point start-end="start" top-bottom="top"/>
+    <w>looks</w>
+    <w>like</w>
+    <w>it's</w>
+    <w>Swiss<overlap-point start-end="end" top-bottom="top"/></w>
+    <w>cheese</w>
+    <t type="p"></t>
+
+  </u>
+  <u who="INV" uID="u62">
+    <overlap-point start-end="start" top-bottom="bottom"/>
+    <w>mm-hm<overlap-point start-end="end" top-bottom="bottom"/></w>
+    <t type="p"></t>
+
+  </u>
+  <u who="INV" uID="u63">
+    <e><happening>nods:yes</happening></e>
+    <t type="p"></t>
+
+  </u>
+  <u who="MOT" uID="u64">
+    <w>which</w>
+    <w>is</w>
+    <w>kind</w>
+    <w>of</w>
+    <w>sharp</w>
+    <w>and</w>
+    <w>bitter</w>
+    <t type="p"></t>
+
+  </u>
+  <u who="INV" uID="u65">
+    <e><happening>nods:yes</happening></e>
+    <g><w>mm-hm</w><ga type="explanation">yes</ga></g>
+    <t type="p"></t>
+
+  </u>
+  <u who="MOT" uID="u66">
+    <w>and</w>
+    <w>I</w>
+    <w>don't</w>
+    <w>personally</w>
+    <w>care</w>
+    <w>for</w>
+    <w>Swiss</w>
+    <w>cheese</w>
+    <e><happening>laughs</happening></e>
+    <w>but</w>
+    <t type="trail off"></t>
+
+  </u>
+  <u who="MOT" uID="u67">
+    <w>um</w>
+    <t type="p"></t>
+
+  </u>
+  <u who="INV" uID="u68">
+    <w>anything</w>
+    <w>else</w>
+    <w>you</w>
+    <w>want</w>
+    <w>to</w>
+    <w>tell</w>
+    <w>me</w>
+    <t type="q"></t>
+
+  </u>
+  <u who="MOT" uID="u69">
+    <e><happening>shakes:head</happening></e>
+    <w>not</w>
+    <w>that</w>
+    <w>I</w>
+    <w>can</w>
+    <w>think</w>
+    <w>about</w>
+    <t type="p"></t>
+
+  </u>
+  <u who="INV" uID="u70">
+    <e><happening>nods:yes</happening></e>
+    <w>okay</w>
+    <t type="p"></t>
+
+  </u>
+  <u who="MOT" uID="u71">
+    <w>I</w>
+    <w>can</w>
+    <w>think</w>
+    <w>of</w>
+    <t type="p"></t>
+
+  </u>
+  <u who="INV" uID="u72">
+    <e><happening>laughs</happening></e>
+    <w>okay</w>
+    <t type="p"></t>
+
+  </u>
+  <lazy-gem label="Cookie"/>
+  <u who="INV" uID="u73">
+    <w>what</w>
+    <w>is</w>
+    <w>this</w>
+    <t type="q"></t>
+
+  </u>
+  <u who="MOT" uID="u74">
+    <w>um</w>
+    <w>looks</w>
+    <w>like</w>
+    <w>a</w>
+    <w>cookie</w>
+    <t type="p"></t>
+
+  </u>
+  <u who="INV" uID="u75">
+    <e><happening>nods:yes</happening></e>
+    <g><w>mm-hm</w><ga type="explanation">yes</ga></g>
+    <t type="p"></t>
+
+  </u>
+  <u who="MOT" uID="u76">
+    <w>um</w>
+    <w>looks</w>
+    <w>like</w>
+    <w>there's</w>
+    <w>some</w>
+    <w>cookie</w>
+    <w>crumbs</w>
+    <overlap-point start-end="start" top-bottom="top"/>
+    <w>that</w>
+    <w>somebody</w>
+    <w>might</w>
+    <w>of</w>
+    <w>tried</w>
+    <w>to</w>
+    <w>break</w>
+    <w>the</w>
+    <w>cookie</w>
+    <w>or</w>
+    <w>the</w>
+    <w>cookie</w>
+    <w>got</w>
+    <w>bumped</w>
+    <w>around</w>
+    <w>a</w>
+    <w>little</w>
+    <w>bit<overlap-point start-end="end" top-bottom="top"/></w>
+    <t type="p"></t>
+
+  </u>
+  <u who="INV" uID="u77">
+    <overlap-point start-end="start" top-bottom="bottom"/>
+    <e><happening>nods:yes</happening></e>
+    <overlap-point start-end="end" top-bottom="bottom"/>
+    <g><w>mm-hm</w><ga type="explanation">yes</ga></g>
+    <t type="p"></t>
+
+  </u>
+  <u who="MOT" uID="u78">
+    <w>um</w>
+    <w>looks</w>
+    <w>like</w>
+    <w>it</w>
+    <w>might</w>
+    <w>be</w>
+    <w>a</w>
+    <w>chocolate</w>
+    <w>chip</w>
+    <w>cookie</w>
+    <w>but</w>
+    <w>it's</w>
+    <w>kind</w>
+    <w>of</w>
+    <w>hard</w>
+    <w>to</w>
+    <w>tell</w>
+    <w>from</w>
+    <w>the</w>
+    <w>picture</w>
+    <t type="p"></t>
+
+  </u>
+  <u who="INV" uID="u79">
+    <e><happening>nods:yes</happening></e>
+    <g><w>mm-hm</w><ga type="explanation">yes</ga></g>
+    <t type="p"></t>
+
+  </u>
+  <u who="MOT" uID="u80">
+    <w>um</w>
+    <t type="p"></t>
+
+  </u>
+  <u who="INV" uID="u81">
+    <w>I'd</w>
+    <w>like</w>
+    <w>to</w>
+    <w>hear</w>
+    <w>more</w>
+    <t type="p"></t>
+
+  </u>
+  <u who="INV" uID="u82">
+    <w>what</w>
+    <w>else</w>
+    <w>can</w>
+    <w>you</w>
+    <w>tell</w>
+    <w>me</w>
+    <t type="q"></t>
+
+  </u>
+  <u who="MOT" uID="u83">
+    <w>cookies</w>
+    <w>are</w>
+    <w>made</w>
+    <w>from</w>
+    <w>flour</w>
+    <w>and</w>
+    <w>sugar</w>
+    <w>and</w>
+    <w>eggs</w>
+    <overlap-point start-end="start" top-bottom="top"/>
+    <w>and</w>
+    <w>butter<overlap-point start-end="end" top-bottom="top"/></w>
+    <t type="p"></t>
+
+  </u>
+  <u who="INV" uID="u84">
+    <overlap-point start-end="start" top-bottom="bottom"/>
+    <e><happening>nods</happening></e>
+    <g><w>mm-hm<overlap-point start-end="end" top-bottom="bottom"/></w><ga type="explanation">yes</ga></g>
+    <t type="p"></t>
+
+  </u>
+  <u who="MOT" uID="u85">
+    <w>and</w>
+    <w>um</w>
+    <w>you</w>
+    <w>mix</w>
+    <w>it</w>
+    <w>up</w>
+    <w>and</w>
+    <w>you</w>
+    <w>bake</w>
+    <w>it</w>
+    <t type="p"></t>
+
+  </u>
+  <u who="MOT" uID="u86">
+    <w>and</w>
+    <w>it</w>
+    <tagMarker type="comma"></tagMarker>
+    <w>bakes</w>
+    <w>up</w>
+    <w>into</w>
+    <w>a</w>
+    <w>very</w>
+    <w>sweet</w>
+    <w>crunchy</w>
+    <tagMarker type="comma"></tagMarker>
+    <w>cookie</w>
+    <t type="p"></t>
+
+  </u>
+  <u who="MOT" uID="u87">
+    <w>sometimes</w>
+    <w>we</w>
+    <w>eat</w>
+    <w>cookies</w>
+    <w>for</w>
+    <w>dessert</w>
+    <t type="p"></t>
+
+  </u>
+  <u who="MOT" uID="u88">
+    <w>sometimes</w>
+    <w>for</w>
+    <w>a</w>
+    <w>snack</w>
+    <t type="p"></t>
+
+  </u>
+  <u who="INV" uID="u89">
+    <overlap-point start-end="start" top-bottom="top"/>
+    <g><w>mm-hm<overlap-point start-end="end" top-bottom="top"/></w><ga type="explanation">yes</ga></g>
+    <t type="p"></t>
+
+  </u>
+  <u who="MOT" uID="u90">
+    <overlap-point start-end="start" top-bottom="bottom"/>
+    <w>um<overlap-point start-end="end" top-bottom="bottom"/></w>
+    <w>we</w>
+    <w>don't</w>
+    <w>usually</w>
+    <w>eat</w>
+    <w>cookies</w>
+    <w>for</w>
+    <w>our</w>
+    <w>entire</w>
+    <w>meal</w>
+    <t type="p"></t>
+
+  </u>
+  <u who="INV" uID="u91">
+    <e><happening>laughs</happening></e>
+    <t type="p"></t>
+
+  </u>
+  <u who="MOT" uID="u92">
+    <w>although</w>
+    <w>that</w>
+    <w>has</w>
+    <w>happened</w>
+    <t type="p"></t>
+
+  </u>
+  <u who="INV" uID="u93">
+    <e><happening>laughs</happening></e>
+    <t type="p"></t>
+
+  </u>
+  <u who="MOT" uID="u94">
+    <e><happening>laughs</happening></e>
+    <w>depending</w>
+    <w>on</w>
+    <w>the</w>
+    <w>cookie</w>
+    <w>and</w>
+    <w>the</w>
+    <w>time</w>
+    <w>of</w>
+    <w>day</w>
+    <t type="p"></t>
+
+  </u>
+  <u who="INV" uID="u95">
+    <w>mm</w>
+    <t type="p"></t>
+
+  </u>
+  <u who="MOT" uID="u96">
+    <w>um</w>
+    <t type="p"></t>
+
+  </u>
+  <u who="MOT" uID="u97">
+    <w>cookies</w>
+    <w>can</w>
+    <w>also</w>
+    <w>be</w>
+    <w>baked</w>
+    <w>in</w>
+    <w>different</w>
+    <w>shapes</w>
+    <t type="p"></t>
+
+  </u>
+  <u who="INV" uID="u98">
+    <e><happening>nods:yes</happening></e>
+    <overlap-point start-end="start" top-bottom="top"/>
+    <g><w>mm-hm<overlap-point start-end="end" top-bottom="top"/></w><ga type="explanation">yes</ga></g>
+    <t type="p"></t>
+
+  </u>
+  <u who="MOT" uID="u99">
+    <overlap-point start-end="start" top-bottom="bottom"/>
+    <w>um<overlap-point start-end="end" top-bottom="bottom"/></w>
+    <w>or</w>
+    <w>you</w>
+    <w>can</w>
+    <w>roll</w>
+    <w>them</w>
+    <w>out</w>
+    <w>and</w>
+    <w>cut</w>
+    <w>them</w>
+    <w>out</w>
+    <w>with</w>
+    <w>a</w>
+    <w>cookie</w>
+    <w>cutter</w>
+    <t type="p"></t>
+
+  </u>
+  <u who="INV" uID="u100">
+    <e><happening>nods:yes</happening></e>
+    <t type="p"></t>
+
+  </u>
+  <u who="MOT" uID="u101">
+    <w>and</w>
+    <w>you</w>
+    <w>can</w>
+    <w>make</w>
+    <w>different</w>
+    <w>shapes</w>
+    <t type="p"></t>
+
+  </u>
+  <u who="INV" uID="u102">
+    <g><w>mm-hm</w><ga type="explanation">yes</ga></g>
+    <t type="p"></t>
+
+  </u>
+  <u who="INV" uID="u103">
+    <w>can</w>
+    <w>you</w>
+    <w>tell</w>
+    <w>me</w>
+    <w>more</w>
+    <t type="q"></t>
+
+  </u>
+  <u who="MOT" uID="u104">
+    <w>um</w>
+    <w>there</w>
+    <w>are</w>
+    <w>lots</w>
+    <w>of</w>
+    <w>different</w>
+    <w>things</w>
+    <w>that</w>
+    <w>you</w>
+    <w>can</w>
+    <w>put</w>
+    <w>into</w>
+    <w>cookies</w>
+    <t type="p"></t>
+
+  </u>
+  <u who="INV" uID="u105">
+    <g><w>mm-hm</w><ga type="explanation">yes</ga></g>
+    <t type="p"></t>
+
+  </u>
+  <u who="MOT" uID="u106">
+    <w>some</w>
+    <w>people</w>
+    <w>prefer</w>
+    <w>chocolate</w>
+    <w>chips</w>
+    <t type="p"></t>
+
+  </u>
+  <u who="MOT" uID="u107">
+    <w>some</w>
+    <w>people</w>
+    <w>don't</w>
+    <w>like</w>
+    <w>anything</w>
+    <w>in</w>
+    <w>their</w>
+    <w>cookies</w>
+    <t type="p"></t>
+
+  </u>
+  <u who="MOT" uID="u108">
+    <w>they</w>
+    <w>just</w>
+    <w>like</w>
+    <w>sugar</w>
+    <w>cookies</w>
+    <t type="p"></t>
+
+  </u>
+  <u who="MOT" uID="u109">
+    <w>um</w>
+    <w>but</w>
+    <w>you</w>
+    <w>can</w>
+    <w>put</w>
+    <w>oatmeal</w>
+    <w>and</w>
+    <w>raisins</w>
+    <w>and</w>
+    <overlap-point start-end="start" top-bottom="top"/>
+    <w>dried</w>
+    <w>cherries</w>
+    <w>and</w>
+    <w>different</w>
+    <w>kinds</w>
+    <w>of</w>
+    <w>nuts<overlap-point start-end="end" top-bottom="top"/></w>
+    <w>and</w>
+    <w>sprinkles</w>
+    <w>and</w>
+    <w>all</w>
+    <w>different</w>
+    <w>things</w>
+    <w>to</w>
+    <overlap-point start-end="start" top-bottom="top"/>
+    <w>make</w>
+    <w>the</w>
+    <w>cookies<overlap-point start-end="end" top-bottom="top"/></w>
+    <tagMarker type="comma"></tagMarker>
+    <w>more</w>
+    <w>festive</w>
+    <w>and</w>
+    <w>better</w>
+    <w>tasting</w>
+    <w>to</w>
+    <w>some</w>
+    <w>people</w>
+    <t type="p"></t>
+
+  </u>
+  <u who="INV" uID="u110">
+    <overlap-point start-end="start" top-bottom="bottom"/>
+    <e><happening>nods</happening></e>
+    <overlap-point start-end="end" top-bottom="bottom"/>
+    <t type="p"></t>
+
+  </u>
+  <u who="INV" uID="u111">
+    <overlap-point start-end="start" top-bottom="bottom"/>
+    <w>mm-hm<overlap-point start-end="end" top-bottom="bottom"/></w>
+    <t type="p"></t>
+
+  </u>
+  <u who="INV" uID="u112">
+    <g><w>mm-hm</w><ga type="explanation">yes</ga></g>
+    <t type="p"></t>
+
+  </u>
+  <u who="INV" uID="u113">
+    <w>okay</w>
+    <t type="p"></t>
+
+  </u>
+  <u who="INV" uID="u114">
+    <w>you're</w>
+    <w>doing</w>
+    <w>a</w>
+    <w>really</w>
+    <w>great</w>
+    <w>job</w>
+    <t type="p"></t>
+
+  </u>
+  <u who="INV" uID="u115">
+    <e><happening>laughs</happening></e>
+    <t type="p"></t>
+
+  </u>
+  <lazy-gem label="Pirate"/>
+  <u who="INV" uID="u116">
+    <w>what</w>
+    <w>is</w>
+    <w>this</w>
+    <t type="q"></t>
+
+  </u>
+  <u who="MOT" uID="u117">
+    <w>um</w>
+    <w>this</w>
+    <w>looks</w>
+    <w>to</w>
+    <w>me</w>
+    <w>like</w>
+    <w>a</w>
+    <w>pirate</w>
+    <t type="p"></t>
+
+  </u>
+  <u who="INV" uID="u118">
+    <e><happening>nods:yes</happening></e>
+    <g><w>mm-hm</w><ga type="explanation">yes</ga></g>
+    <t type="p"></t>
+
+  </u>
+  <u who="MOT" uID="u119">
+    <w>um</w>
+    <w>pirates</w>
+    <w>were</w>
+    <w>known</w>
+    <w>for</w>
+    <w>sailing</w>
+    <w>ships</w>
+    <w>and</w>
+    <w>um</w>
+    <w>attacking</w>
+    <w>other</w>
+    <w>ships</w>
+    <w>and</w>
+    <w>stealing</w>
+    <w>the</w>
+    <w>things</w>
+    <w>that</w>
+    <w>were</w>
+    <w>on</w>
+    <w>those</w>
+    <w>ships</w>
+    <t type="p"></t>
+
+  </u>
+  <u who="MOT" uID="u120">
+    <w>and</w>
+    <w>um</w>
+    <w>so</w>
+    <w>there's</w>
+    <w>this</w>
+    <w>treasure</w>
+    <w>chest</w>
+    <overlap-point start-end="start" top-bottom="top"/>
+    <w>to</w>
+    <w>represent</w>
+    <w>all</w>
+    <w>the</w>
+    <w>stuff</w>
+    <w>that's</w>
+    <w>he's</w>
+    <w>got</w>
+    <w>all</w>
+    <w>the</w>
+    <w>gold</w>
+    <w>and</w>
+    <w>different</w>
+    <w>things<overlap-point start-end="end" top-bottom="top"/></w>
+    <t type="p"></t>
+
+  </u>
+  <u who="INV" uID="u121">
+    <overlap-point start-end="start" top-bottom="bottom"/>
+    <w>mm-hm<overlap-point start-end="end" top-bottom="bottom"/></w>
+    <t type="p"></t>
+
+  </u>
+  <u who="MOT" uID="u122">
+    <w>um</w>
+    <w>and</w>
+    <w>pirates</w>
+    <w>often</w>
+    <w>then</w>
+    <w>sail</w>
+    <w>to</w>
+    <w>different</w>
+    <w>islands</w>
+    <w>or</w>
+    <w>places</w>
+    <overlap-point start-end="start" top-bottom="top"/>
+    <w>and</w>
+    <w>um<overlap-point start-end="end" top-bottom="top"/></w>
+    <tagMarker type="comma"></tagMarker>
+    <w>bury</w>
+    <w>their</w>
+    <w>treasure</w>
+    <w>in</w>
+    <w>a</w>
+    <w>special</w>
+    <w>spot</w>
+    <w>so</w>
+    <w>that</w>
+    <w>no</w>
+    <w>one</w>
+    <w>else</w>
+    <w>would</w>
+    <w>be</w>
+    <w>able</w>
+    <w>to</w>
+    <w>find</w>
+    <w>it</w>
+    <t type="p"></t>
+
+  </u>
+  <u who="INV" uID="u123">
+    <overlap-point start-end="start" top-bottom="bottom"/>
+    <e><happening>nods:yes</happening></e>
+    <overlap-point start-end="end" top-bottom="bottom"/>
+    <g><w>mm-hm</w><ga type="explanation">yes</ga></g>
+    <t type="p"></t>
+
+  </u>
+  <u who="INV" uID="u124">
+    <overlap-point start-end="start" top-bottom="top"/>
+    <e><happening>nods</happening></e>
+    <g><w>mm-hm<overlap-point start-end="end" top-bottom="top"/></w><ga type="explanation">yes</ga></g>
+    <t type="p"></t>
+
+  </u>
+  <u who="MOT" uID="u125">
+    <overlap-point start-end="start" top-bottom="bottom"/>
+    <w>um</w>
+    <w>this<overlap-point start-end="end" top-bottom="bottom"/></w>
+    <w>pirate</w>
+    <w>has</w>
+    <w>a</w>
+    <w>wooden</w>
+    <w>leg</w>
+    <w>so</w>
+    <w>he</w>
+    <w>obviously</w>
+    <w>lost</w>
+    <w>his</w>
+    <w>leg</w>
+    <w>in</w>
+    <w>some</w>
+    <w>sort</w>
+    <w>of</w>
+    <w>a</w>
+    <w>fight</w>
+    <t type="p"></t>
+
+  </u>
+  <u who="MOT" uID="u126">
+    <w>um</w>
+    <w>he</w>
+    <w>also</w>
+    <w>has</w>
+    <w>a</w>
+    <w>patch</w>
+    <w>over</w>
+    <w>his</w>
+    <w>eye</w>
+    <w>so</w>
+    <w>he</w>
+    <w>may</w>
+    <w>have</w>
+    <w>lost</w>
+    <w>his</w>
+    <w>eye</w>
+    <w>in</w>
+    <w>a</w>
+    <w>fight</w>
+    <t type="p"></t>
+
+  </u>
+  <u who="MOT" uID="u127">
+    <w>um</w>
+    <w>or</w>
+    <w>sometimes</w>
+    <w>pirates</w>
+    <w>would</w>
+    <w>just</w>
+    <w>wear</w>
+    <w>those</w>
+    <w>patches</w>
+    <w>to</w>
+    <w>look</w>
+    <w>tough</w>
+    <e><happening>laughs</happening></e>
+    <w>like</w>
+    <w>they</w>
+    <w>had</w>
+    <w>been</w>
+    <w>in</w>
+    <w>a</w>
+    <w>fight</w>
+    <t type="p"></t>
+
+  </u>
+  <u who="MOT" uID="u128">
+    <w>um</w>
+    <tagMarker type="comma"></tagMarker>
+    <w>they</w>
+    <w>sometimes</w>
+    <w>had</w>
+    <w>pet</w>
+    <w>parrots</w>
+    <t type="p"></t>
+
+  </u>
+  <u who="INV" uID="u129">
+    <g><w>mm-hm</w><ga type="explanation">yes</ga></g>
+    <t type="p"></t>
+
+  </u>
+  <u who="MOT" uID="u130">
+    <w><shortening>be</shortening>cause</w>
+    <w>the</w>
+    <w>parrots</w>
+    <w>um</w>
+    <w>they</w>
+    <w>would</w>
+    <w>train</w>
+    <w>them</w>
+    <w>to</w>
+    <w>talk</w>
+    <w>and</w>
+    <w>then</w>
+    <w>the</w>
+    <w>parrots</w>
+    <w>could</w>
+    <w>fly</w>
+    <w>up</w>
+    <w>to</w>
+    <w>the</w>
+    <w>top</w>
+    <w>of</w>
+    <w>the</w>
+    <w>ship</w>
+    <overlap-point start-end="start" top-bottom="top"/>
+    <w>and</w>
+    <w>look</w>
+    <w>out<overlap-point start-end="end" top-bottom="top"/></w>
+    <t type="p"></t>
+
+  </u>
+  <u who="INV" uID="u131">
+    <overlap-point start-end="start" top-bottom="bottom"/>
+    <w>mm-hm<overlap-point start-end="end" top-bottom="bottom"/></w>
+    <t type="p"></t>
+
+  </u>
+  <u who="MOT" uID="u132">
+    <w>and</w>
+    <w>see</w>
+    <w>and</w>
+    <w>if</w>
+    <w>they</w>
+    <w>saw</w>
+    <w>anything</w>
+    <w>then</w>
+    <w>could</w>
+    <w>actually</w>
+    <w>fly</w>
+    <w>down</w>
+    <w>and</w>
+    <w>tell</w>
+    <w>the</w>
+    <w>um</w>
+    <tagMarker type="comma"></tagMarker>
+    <w>tell</w>
+    <w>the</w>
+    <w>um</w>
+    <w>tell</w>
+    <w>the</w>
+    <w>pirates</w>
+    <overlap-point start-end="start" top-bottom="top"/>
+    <w>what</w>
+    <w>they</w>
+    <w>had</w>
+    <w>seen<overlap-point start-end="end" top-bottom="top"/></w>
+    <t type="p"></t>
+
+  </u>
+  <u who="INV" uID="u133">
+    <overlap-point start-end="start" top-bottom="bottom"/>
+    <w>hm<overlap-point start-end="end" top-bottom="bottom"/></w>
+    <t type="p"></t>
+
+  </u>
+  <u who="MOT" uID="u134">
+    <w>um</w>
+    <w>l</w>
+    <t type="p"></t>
+
+  </u>
+  <u who="INV" uID="u135">
+    <w>tell</w>
+    <w>me</w>
+    <w>more</w>
+    <t type="p"></t>
+
+  </u>
+  <u who="MOT" uID="u136">
+    <w>looks</w>
+    <w>like</w>
+    <w>he</w>
+    <w>has</w>
+    <w>a</w>
+    <w>gun</w>
+    <t type="p"></t>
+
+  </u>
+  <u who="INV" uID="u137">
+    <g><w>mm-hm</w><ga type="explanation">yes</ga></g>
+    <t type="p"></t>
+
+  </u>
+  <u who="MOT" uID="u138">
+    <w>and</w>
+    <w>some</w>
+    <w>bullets</w>
+    <w>in</w>
+    <w>his</w>
+    <w>belt</w>
+    <t type="p"></t>
+
+  </u>
+  <u who="MOT" uID="u139">
+    <w>um</w>
+    <w>in</w>
+    <w>case</w>
+    <w>they</w>
+    <w>get</w>
+    <w>in</w>
+    <w>a</w>
+    <w>dangerous</w>
+    <w>fight</w>
+    <t type="p"></t>
+
+  </u>
+  <u who="MOT" uID="u140">
+    <w>um</w>
+    <w>he's</w>
+    <w>also</w>
+    <w>got</w>
+    <w>a</w>
+    <w>bottle</w>
+    <w>of</w>
+    <w>wine</w>
+    <t type="p"></t>
+
+  </u>
+  <u who="INV" uID="u141">
+    <e><happening>nods:yes</happening></e>
+    <t type="p"></t>
+
+  </u>
+  <u who="MOT" uID="u142">
+    <w>um</w>
+    <w>because</w>
+    <w>pirates</w>
+    <w>like</w>
+    <w>to</w>
+    <w>drink</w>
+    <w>a</w>
+    <w>lot</w>
+    <w>on</w>
+    <w>their</w>
+    <w>ships</w>
+    <t type="p"></t>
+
+  </u>
+  <u who="INV" uID="u143">
+    <e><happening>nods:yes</happening></e>
+    <overlap-point start-end="start" top-bottom="top"/>
+    <g><w>mm-hm<overlap-point start-end="end" top-bottom="top"/></w><ga type="explanation">yes</ga></g>
+    <t type="p"></t>
+
+  </u>
+  <u who="MOT" uID="u144">
+    <overlap-point start-end="start" top-bottom="bottom"/>
+    <w>and<overlap-point start-end="end" top-bottom="bottom"/></w>
+    <w>um</w>
+    <t type="p"></t>
+
+  </u>
+  <u who="INV" uID="u145">
+    <w>okay</w>
+    <t type="p"></t>
+
+  </u>
+  <u who="MOT" uID="u146">
+    <w>that's</w>
+    <w>about</w>
+    <w>it</w>
+    <e><happening>laughs</happening></e>
+    <t type="p"></t>
+
+  </u>
+  <u who="INV" uID="u147">
+    <w>okay</w>
+    <t type="p"></t>
+
+  </u>
+  <lazy-gem label="Pig"/>
+  <u who="INV" uID="u148">
+    <w>what</w>
+    <w>is</w>
+    <w>this</w>
+    <t type="q"></t>
+
+  </u>
+  <u who="MOT" uID="u149">
+    <w>um</w>
+    <w>this</w>
+    <w>is</w>
+    <w>a</w>
+    <w>pig</w>
+    <t type="p"></t>
+
+  </u>
+  <u who="INV" uID="u150">
+    <g><w>mm-hm</w><ga type="explanation">yes</ga></g>
+    <t type="p"></t>
+
+  </u>
+  <u who="MOT" uID="u151">
+    <w>um</w>
+    <t type="p"></t>
+
+  </u>
+  <u who="MOT" uID="u152">
+    <w>pigs</w>
+    <w>are</w>
+    <w>farm</w>
+    <w>animals</w>
+    <w>generally</w>
+    <t type="p"></t>
+
+  </u>
+  <u who="INV" uID="u153">
+    <g><w>mm-hm</w><ga type="explanation">yes</ga></g>
+    <t type="p"></t>
+
+  </u>
+  <u who="MOT" uID="u154">
+    <w>and</w>
+    <w>um</w>
+    <t type="p"></t>
+
+  </u>
+  <u who="MOT" uID="u155">
+    <w>they</w>
+    <w>are</w>
+    <w>sometimes</w>
+    <w>used</w>
+    <w>to</w>
+    <w>find</w>
+    <w>things</w>
+    <t type="p"></t>
+
+  </u>
+  <u who="MOT" uID="u156">
+    <w>they</w>
+    <w>have</w>
+    <w>great</w>
+    <w>senses</w>
+    <w>of</w>
+    <w>smell</w>
+    <t type="p"></t>
+
+  </u>
+  <u who="MOT" uID="u157">
+    <w>some</w>
+    <w>some</w>
+    <w>farmers</w>
+    <w>use</w>
+    <w>pigs</w>
+    <w>to</w>
+    <w>um</w>
+    <w>sniff</w>
+    <w>for</w>
+    <w>truffles</w>
+    <t type="p"></t>
+
+  </u>
+  <u who="MOT" uID="u158">
+    <w>which</w>
+    <w>are</w>
+    <w>mushrooms</w>
+    <w>that</w>
+    <w>grow</w>
+    <w>underground</w>
+    <t type="p"></t>
+
+  </u>
+  <u who="INV" uID="u159">
+    <w>hm</w>
+    <t type="p"></t>
+
+  </u>
+  <u who="MOT" uID="u160">
+    <w>or</w>
+    <w>close</w>
+    <w>to</w>
+    <w>the</w>
+    <w>ground</w>
+    <t type="p"></t>
+
+  </u>
+  <u who="MOT" uID="u161">
+    <w>so</w>
+    <w>there're</w>
+    <w>some</w>
+    <w>pigs</w>
+    <w>that</w>
+    <w>sniff</w>
+    <w>those</w>
+    <w>out</w>
+    <t type="p"></t>
+
+  </u>
+  <u who="MOT" uID="u162">
+    <w>um</w>
+    <w>I</w>
+    <w>think</w>
+    <w>mostly</w>
+    <w>in</w>
+    <w>France</w>
+    <t type="p"></t>
+
+  </u>
+  <u who="INV" uID="u163">
+    <w>oh</w>
+    <t type="p"></t>
+
+  </u>
+  <u who="MOT" uID="u164">
+    <w>I</w>
+    <w>know</w>
+    <w>that's</w>
+    <w>in</w>
+    <w>France</w>
+    <w>and</w>
+    <w>they</w>
+    <w>sniff</w>
+    <w>for</w>
+    <w>truffles</w>
+    <w>and</w>
+    <w>then</w>
+    <w>the</w>
+    <w>farmers</w>
+    <w>dig</w>
+    <w>them</w>
+    <w>up</w>
+    <t type="p"></t>
+
+  </u>
+  <u who="MOT" uID="u165">
+    <w>and</w>
+    <w>then</w>
+    <w>give</w>
+    <w>the</w>
+    <w>pigs</w>
+    <w>something</w>
+    <w>else</w>
+    <w>to</w>
+    <w>eat</w>
+    <t type="p"></t>
+
+  </u>
+  <u who="MOT" uID="u166">
+    <w>not</w>
+    <w>the</w>
+    <w>truffles</w>
+    <t type="p"></t>
+
+  </u>
+  <u who="INV" uID="u167">
+    <e><happening>laughs</happening></e>
+    <t type="p"></t>
+
+  </u>
+  <u who="MOT" uID="u168">
+    <w>um</w>
+    <t type="p"></t>
+
+  </u>
+  <u who="INV" uID="u169">
+    <w>go</w>
+    <w>ahead</w>
+    <w>and</w>
+    <w>say</w>
+    <w>a</w>
+    <w>little</w>
+    <w>bit</w>
+    <w>more</w>
+    <t type="p"></t>
+
+  </u>
+  <u who="MOT" uID="u170">
+    <w>pigs</w>
+    <w>like</w>
+    <w>to</w>
+    <w>roll</w>
+    <w>around</w>
+    <w>in</w>
+    <w>the</w>
+    <w>mud</w>
+    <t type="p"></t>
+
+  </u>
+  <u who="INV" uID="u171">
+    <e><happening>nods</happening></e>
+    <g><w>mm-hm</w><ga type="explanation">yes</ga></g>
+    <t type="p"></t>
+
+  </u>
+  <u who="MOT" uID="u172">
+    <w>to</w>
+    <w>help</w>
+    <w>them</w>
+    <w>keep</w>
+    <w>cool</w>
+    <w>and</w>
+    <w>to</w>
+    <w>help</w>
+    <w>keep</w>
+    <w>the</w>
+    <w>flies</w>
+    <w>off</w>
+    <t type="p"></t>
+
+  </u>
+  <u who="MOT" uID="u173">
+    <w>but</w>
+    <w>they're</w>
+    <w>not</w>
+    <w>generally</w>
+    <w>dirty</w>
+    <w>animals</w>
+    <t type="p"></t>
+
+  </u>
+  <u who="INV" uID="u174">
+    <e><happening>nods:yes</happening></e>
+    <t type="p"></t>
+
+  </u>
+  <u who="MOT" uID="u175">
+    <w>they</w>
+    <w>just</w>
+    <w>like</w>
+    <w>to</w>
+    <w>they</w>
+    <w>do</w>
+    <w>that</w>
+    <w>to</w>
+    <w>keep</w>
+    <w>cool</w>
+    <t type="p"></t>
+
+  </u>
+  <u who="INV" uID="u176">
+    <g><w>mm-hm</w><ga type="explanation">yes</ga></g>
+    <t type="p"></t>
+
+  </u>
+  <u who="MOT" uID="u177">
+    <w>some</w>
+    <w>people</w>
+    <w>keep</w>
+    <w>certain</w>
+    <w>kinds</w>
+    <w>of</w>
+    <w>pigs</w>
+    <w>as</w>
+    <w>pets</w>
+    <w>in</w>
+    <w>their</w>
+    <w>house</w>
+    <t type="p"></t>
+
+  </u>
+  <u who="MOT" uID="u178">
+    <w>um</w>
+    <tagMarker type="comma"></tagMarker>
+    <w>and</w>
+    <w>can</w>
+    <w>even</w>
+    <w>train</w>
+    <w>the</w>
+    <w>pigs</w>
+    <w>to</w>
+    <w>go</w>
+    <w>outside</w>
+    <w>to</w>
+    <w>go</w>
+    <w>to</w>
+    <w>the</w>
+    <w>bathroom</w>
+    <w>and</w>
+    <t type="p"></t>
+
+  </u>
+  <u who="MOT" uID="u179">
+    <w>um</w>
+    <w>pigs</w>
+    <w>usually</w>
+    <w>have</w>
+    <w>little</w>
+    <w>curly</w>
+    <w>tails</w>
+    <t type="p"></t>
+
+  </u>
+  <u who="INV" uID="u180">
+    <e><happening>nods:yes</happening></e>
+    <g><w>mm-hm</w><ga type="explanation">yes</ga></g>
+    <t type="p"></t>
+
+  </u>
+  <u who="MOT" uID="u181">
+    <w>they</w>
+    <w>have</w>
+    <w>snouts</w>
+    <t type="p"></t>
+
+  </u>
+  <u who="MOT" uID="u182">
+    <w>they</w>
+    <w>have</w>
+    <w>um</w>
+    <tagMarker type="comma"></tagMarker>
+    <overlap-point start-end="start" top-bottom="top"/>
+    <w>hair<overlap-point start-end="end" top-bottom="top"/></w>
+    <tagMarker type="comma"></tagMarker>
+    <w>bristley</w>
+    <w>hair</w>
+    <w>kind</w>
+    <w>of</w>
+    <w>all</w>
+    <w>over</w>
+    <w>their</w>
+    <w>bodies</w>
+    <t type="p"></t>
+
+  </u>
+  <u who="INV" uID="u183">
+    <overlap-point start-end="start" top-bottom="bottom"/>
+    <e><happening>nods:yes</happening></e>
+    <overlap-point start-end="end" top-bottom="bottom"/>
+    <t type="p"></t>
+
+  </u>
+  <u who="INV" uID="u184">
+    <g><w>mm-hm</w><ga type="explanation">yes</ga></g>
+    <t type="p"></t>
+
+  </u>
+  <u who="MOT" uID="u185">
+    <w>um</w>
+    <tagMarker type="comma"></tagMarker>
+    <w>and</w>
+    <w>they're</w>
+    <w>mammals</w>
+    <t type="p"></t>
+
+  </u>
+  <u who="MOT" uID="u186">
+    <w>which</w>
+    <w>means</w>
+    <w>that</w>
+    <w>they</w>
+    <w>have</w>
+    <w>babies</w>
+    <w>born</w>
+    <w>alive</w>
+    <t type="p"></t>
+
+  </u>
+  <u who="MOT" uID="u187">
+    <w>and</w>
+    <w>um</w>
+    <w>they</w>
+    <w>feed</w>
+    <w>their</w>
+    <w>babies</w>
+    <w>milk</w>
+    <t type="p"></t>
+
+  </u>
+  <u who="MOT" uID="u188">
+    <w>and</w>
+    <w>they</w>
+    <w>um</w>
+    <w>are</w>
+    <w>warm</w>
+    <w>blooded</w>
+    <t type="p"></t>
+
+  </u>
+  <u who="INV" uID="u189">
+    <g><w>mm-hm</w><ga type="explanation">yes</ga></g>
+    <t type="p"></t>
+
+  </u>
+  <u who="MOT" uID="u190">
+    <w>so</w>
+    <w>they</w>
+    <w>can</w>
+    <w>keep</w>
+    <w>their</w>
+    <w>temperature</w>
+    <w>warm</w>
+    <w>even</w>
+    <w>if</w>
+    <w>it</w>
+    <w>gets</w>
+    <w>cold</w>
+    <w>outside</w>
+    <t type="p"></t>
+
+  </u>
+  <u who="INV" uID="u191">
+    <e><happening>nods</happening></e>
+    <w>okay</w>
+    <w>anything</w>
+    <w>else</w>
+    <w>you</w>
+    <w>want</w>
+    <w>to</w>
+    <w>tell</w>
+    <w>me</w>
+    <t type="q"></t>
+
+  </u>
+  <u who="MOT" uID="u192">
+    <w>um</w>
+    <w>pigs</w>
+    <w>are</w>
+    <w>also</w>
+    <w>animals</w>
+    <w>that</w>
+    <w>we</w>
+    <w>eat</w>
+    <t type="p"></t>
+
+  </u>
+  <u who="INV" uID="u193">
+    <e><happening>nods:yes</happening></e>
+    <t type="p"></t>
+
+  </u>
+  <u who="MOT" uID="u194">
+    <w>so</w>
+    <w>sometimes</w>
+    <w>people</w>
+    <w>kill</w>
+    <w>the</w>
+    <w>pigs</w>
+    <w>and</w>
+    <w>make</w>
+    <w>um</w>
+    <w>different</w>
+    <w>pork</w>
+    <w>products</w>
+    <w>out</w>
+    <w>of</w>
+    <w>them</w>
+    <t type="p"></t>
+
+  </u>
+  <u who="INV" uID="u195">
+    <g><w>mm-hm</w><ga type="explanation">yes</ga></g>
+    <t type="p"></t>
+
+  </u>
+  <u who="MOT" uID="u196">
+    <w>bacon</w>
+    <w>and</w>
+    <w>pork</w>
+    <w>chops</w>
+    <w>and</w>
+    <w>things</w>
+    <w>like</w>
+    <w>that</w>
+    <t type="p"></t>
+
+  </u>
+  <u who="INV" uID="u197">
+    <e><happening>smiles</happening></e>
+    <w>okay</w>
+    <t type="p"></t>
+
+  </u>
+  <u who="MOT" uID="u198">
+    <w>and</w>
+    <w>that's</w>
+    <w>about</w>
+    <w>all</w>
+    <w>I</w>
+    <w>can</w>
+    <w>think</w>
+    <w>of</w>
+    <t type="p"></t>
+
+  </u>
+  <u who="INV" uID="u199">
+    <w>good</w>
+    <t type="p"></t>
+
+  </u>
+  <lazy-gem label="Bread"/>
+  <u who="INV" uID="u200">
+    <w>what</w>
+    <w>is</w>
+    <w>this</w>
+    <t type="q"></t>
+
+  </u>
+  <u who="MOT" uID="u201">
+    <w>this</w>
+    <w>is</w>
+    <w>a</w>
+    <w>loaf</w>
+    <w>of</w>
+    <w>bread</w>
+    <t type="p"></t>
+
+  </u>
+  <u who="INV" uID="u202">
+    <g><w>mm-hm</w><ga type="explanation">yes</ga></g>
+    <t type="p"></t>
+
+  </u>
+  <u who="MOT" uID="u203">
+    <w>um</w>
+    <tagMarker type="comma"></tagMarker>
+    <w>bread</w>
+    <w>is</w>
+    <w>made</w>
+    <w>out</w>
+    <w>of</w>
+    <w>a</w>
+    <w>lot</w>
+    <w>of</w>
+    <w>the</w>
+    <w>same</w>
+    <w>ingredients</w>
+    <w>as</w>
+    <w>cookies</w>
+    <t type="p"></t>
+
+  </u>
+  <u who="INV" uID="u204">
+    <e><happening>smiles</happening></e>
+    <e><happening>nods</happening></e>
+    <t type="p"></t>
+
+  </u>
+  <u who="MOT" uID="u205">
+    <w>except</w>
+    <w>for</w>
+    <w>a</w>
+    <w>little</w>
+    <w>less</w>
+    <w>sugar</w>
+    <t type="p"></t>
+
+  </u>
+  <u who="INV" uID="u206">
+    <g><w>mm-hm</w><ga type="explanation">yes</ga></g>
+    <t type="p"></t>
+
+  </u>
+  <u who="MOT" uID="u207">
+    <w>um</w>
+    <w>and</w>
+    <w>bread</w>
+    <w>is</w>
+    <w>also</w>
+    <w>most</w>
+    <w>often</w>
+    <w>made</w>
+    <w>with</w>
+    <w>something</w>
+    <w>called</w>
+    <w>yeast</w>
+    <w>which</w>
+    <w>helps</w>
+    <w>the</w>
+    <w>bread</w>
+    <w>to</w>
+    <w>rise</w>
+    <t type="p"></t>
+
+  </u>
+  <u who="MOT" uID="u208">
+    <w>um</w>
+    <t type="p"></t>
+
+  </u>
+  <u who="INV" uID="u209">
+    <overlap-point start-end="start" top-bottom="top"/>
+    <w>mm<overlap-point start-end="end" top-bottom="top"/></w>
+    <t type="p"></t>
+
+  </u>
+  <u who="MOT" uID="u210">
+    <overlap-point start-end="start" top-bottom="bottom"/>
+    <w>and<overlap-point start-end="end" top-bottom="bottom"/></w>
+    <w>puff</w>
+    <w>up</w>
+    <w>when</w>
+    <w>you</w>
+    <w>bake</w>
+    <w>it</w>
+    <t type="p"></t>
+
+  </u>
+  <u who="INV" uID="u211">
+    <g><w>mm-hm</w><ga type="explanation">yes</ga></g>
+    <t type="p"></t>
+
+  </u>
+  <u who="MOT" uID="u212">
+    <w>and</w>
+    <w>um</w>
+    <t type="p"></t>
+
+  </u>
+  <u who="MOT" uID="u213">
+    <w>we</w>
+    <w>use</w>
+    <w>bread</w>
+    <w>for</w>
+    <w>lots</w>
+    <w>of</w>
+    <w>things</w>
+    <t type="p"></t>
+
+  </u>
+  <u who="MOT" uID="u214">
+    <w>mostly</w>
+    <w>for</w>
+    <w>sandwiches</w>
+    <w>and</w>
+    <w>toast</w>
+    <w>and</w>
+    <overlap-point start-end="start" top-bottom="top"/>
+    <w>things</w>
+    <w>like</w>
+    <w>that</w>
+    <w>to</w>
+    <w>hold</w>
+    <w>other</w>
+    <w>things<overlap-point start-end="end" top-bottom="top"/></w>
+    <t type="p"></t>
+
+  </u>
+  <u who="INV" uID="u215">
+    <overlap-point start-end="start" top-bottom="bottom"/>
+    <e><happening>nods:yes</happening></e>
+    <w>mm<overlap-point start-end="end" top-bottom="bottom"/></w>
+    <t type="p"></t>
+
+  </u>
+  <u who="MOT" uID="u216">
+    <w>but</w>
+    <w>sometimes</w>
+    <w>we</w>
+    <w>just</w>
+    <w>eat</w>
+    <w>it</w>
+    <w>plain</w>
+    <t type="p"></t>
+
+  </u>
+  <u who="INV" uID="u217">
+    <e><happening>nods</happening></e>
+    <g><w>mm-hm</w><ga type="explanation">yes</ga></g>
+    <t type="p"></t>
+
+  </u>
+  <u who="MOT" uID="u218">
+    <overlap-point start-end="start" top-bottom="top"/>
+    <w>um<overlap-point start-end="end" top-bottom="top"/></w>
+    <t type="p"></t>
+
+  </u>
+  <u who="INV" uID="u219">
+    <overlap-point start-end="start" top-bottom="bottom"/>
+    <w>what<overlap-point start-end="end" top-bottom="bottom"/></w>
+    <w>more</w>
+    <w>can</w>
+    <w>you</w>
+    <w>tell</w>
+    <w>me</w>
+    <t type="q"></t>
+
+  </u>
+  <u who="MOT" uID="u220">
+    <w>there</w>
+    <w>are</w>
+    <w>lots</w>
+    <w>of</w>
+    <w>different</w>
+    <w>kinds</w>
+    <w>of</w>
+    <w>bread</w>
+    <t type="p"></t>
+
+  </u>
+  <u who="INV" uID="u221">
+    <e><happening>nods</happening></e>
+    <g><w>mm-hm</w><ga type="explanation">yes</ga></g>
+    <t type="p"></t>
+
+  </u>
+  <u who="MOT" uID="u222">
+    <w>um</w>
+    <w>white</w>
+    <w>bread</w>
+    <w>wheat</w>
+    <w>bread</w>
+    <w>rye</w>
+    <w>bread</w>
+    <t type="p"></t>
+
+  </u>
+  <u who="MOT" uID="u223">
+    <w>um</w>
+    <w>pumpernickel</w>
+    <w>bread</w>
+    <t type="p"></t>
+
+  </u>
+  <u who="MOT" uID="u224">
+    <w>you</w>
+    <w>can</w>
+    <w>have</w>
+    <w>different</w>
+    <w>flavors</w>
+    <w>of</w>
+    <w>bread</w>
+    <t type="p"></t>
+
+  </u>
+  <u who="MOT" uID="u225">
+    <w>some</w>
+    <w>people</w>
+    <w>do</w>
+    <w>put</w>
+    <w>sugar</w>
+    <w>and</w>
+    <w>cinnamon</w>
+    <w>and</w>
+    <overlap-point start-end="start" top-bottom="top"/>
+    <w>different</w>
+    <w>things</w>
+    <w>in</w>
+    <w>their</w>
+    <w>breads</w>
+    <w>when</w>
+    <w>they</w>
+    <w>bake</w>
+    <w>them</w>
+    <w>um</w>
+    <w>to</w>
+    <w>make</w>
+    <w><shortening>th</shortening>em</w>
+    <w>sweeter<overlap-point start-end="end" top-bottom="top"/></w>
+    <t type="p"></t>
+
+  </u>
+  <u who="INV" uID="u226">
+    <overlap-point start-end="start" top-bottom="bottom"/>
+    <e><happening>nods:yes</happening></e>
+    <overlap-point start-end="end" top-bottom="bottom"/>
+    <t type="p"></t>
+
+  </u>
+  <u who="MOT" uID="u227">
+    <w>um</w>
+    <t type="p"></t>
+
+  </u>
+  <u who="MOT" uID="u228">
+    <w>some</w>
+    <w>people</w>
+    <w>even</w>
+    <w>put</w>
+    <w>chocolate</w>
+    <w>chips</w>
+    <w>in</w>
+    <w>it</w>
+    <w>or</w>
+    <t type="p"></t>
+
+  </u>
+  <u who="INV" uID="u229">
+    <e><happening>laughs</happening></e>
+    <t type="p"></t>
+
+  </u>
+  <u who="MOT" uID="u230">
+    <w>or</w>
+    <w>cherries</w>
+    <w>or</w>
+    <w>things</w>
+    <w>like</w>
+    <w>that</w>
+    <t type="p"></t>
+
+  </u>
+  <u who="MOT" uID="u231">
+    <w>um</w>
+    <t type="p"></t>
+
+  </u>
+  <u who="INV" uID="u232">
+    <w>okay</w>
+    <t type="p"></t>
+
+  </u>
+  <lazy-gem label="Doctor"/>
+  <u who="MOT" uID="u233">
+    <e><happening>whispers</happening></e>
+    <w>let's</w>
+    <w>see</w>
+    <t type="p"></t>
+
+  </u>
+  <u who="INV" uID="u234">
+    <w>what</w>
+    <w>is</w>
+    <w>this</w>
+    <t type="q"></t>
+
+  </u>
+  <u who="MOT" uID="u235">
+    <w>this</w>
+    <w>looks</w>
+    <w>like</w>
+    <w>um</w>
+    <w>a</w>
+    <w>little</w>
+    <w>girl</w>
+    <w>who</w>
+    <w>is</w>
+    <w>sick</w>
+    <t type="p"></t>
+
+  </u>
+  <u who="MOT" uID="u236">
+    <w>and</w>
+    <w>a</w>
+    <w>doctor</w>
+    <w>who</w>
+    <w>is</w>
+    <tagMarker type="comma"></tagMarker>
+    <w>taking</w>
+    <w>care</w>
+    <w>of</w>
+    <w>her</w>
+    <t type="p"></t>
+
+  </u>
+  <u who="INV" uID="u237">
+    <g><w>mm-hm</w><ga type="explanation">yes</ga></g>
+    <t type="p"></t>
+
+  </u>
+  <u who="MOT" uID="u238">
+    <w>and</w>
+    <w>um</w>
+    <e><happening>points</happening></e>
+    <w>looks</w>
+    <w>like</w>
+    <w>the</w>
+    <w>little</w>
+    <w>girl</w>
+    <w>has</w>
+    <w>a</w>
+    <w>broken</w>
+    <w>arm</w>
+    <w><shortening>be</shortening>cause</w>
+    <w>she</w>
+    <w>has</w>
+    <w>a</w>
+    <w>cast</w>
+    <w>on</w>
+    <w>her</w>
+    <w>arm</w>
+    <t type="p"></t>
+
+  </u>
+  <u who="INV" uID="u239">
+    <g><w>mm-hm</w><ga type="explanation">yes</ga></g>
+    <t type="p"></t>
+
+  </u>
+  <u who="MOT" uID="u240">
+    <w>um</w>
+    <t type="p"></t>
+
+  </u>
+  <u who="MOT" uID="u241">
+    <w>and</w>
+    <w>the</w>
+    <w>doctor</w>
+    <w>has</w>
+    <w>been</w>
+    <w>taking</w>
+    <w>care</w>
+    <w>of</w>
+    <w>her</w>
+    <w>and</w>
+    <w>looks</w>
+    <w>like</w>
+    <w>she</w>
+    <w>is</w>
+    <w>writing</w>
+    <w>something</w>
+    <w>down</w>
+    <w>in</w>
+    <w>her</w>
+    <w>chart</w>
+    <w>about</w>
+    <w>how</w>
+    <w>the</w>
+    <w>little</w>
+    <w>girl</w>
+    <w>is</w>
+    <w>doing</w>
+    <t type="p"></t>
+
+  </u>
+  <u who="MOT" uID="u242">
+    <g><w>mm-hm</w><ga type="explanation">yes</ga></g>
+    <t type="p"></t>
+
+  </u>
+  <u who="MOT" uID="u243">
+    <overlap-point start-end="start" top-bottom="top"/>
+    <w>what</w>
+    <w>else</w>
+    <w>can</w>
+    <w>you</w>
+    <w>tell</w>
+    <w>me<overlap-point start-end="end" top-bottom="top"/></w>
+    <t type="q"></t>
+
+  </u>
+  <u who="INV" uID="u244">
+    <overlap-point start-end="start" top-bottom="bottom"/>
+    <w>mm<overlap-point start-end="end" top-bottom="bottom"/></w>
+    <t type="p"></t>
+
+  </u>
+  <u who="MOT" uID="u245">
+    <w>well</w>
+    <w>usually</w>
+    <w>kids</w>
+    <w>who</w>
+    <w>break</w>
+    <w>their</w>
+    <w>arms</w>
+    <w>don't</w>
+    <w>have</w>
+    <w>to</w>
+    <w>stay</w>
+    <w>in</w>
+    <w>the</w>
+    <w>hospital</w>
+    <w>very</w>
+    <w>long</w>
+    <t type="p"></t>
+
+  </u>
+  <u who="MOT" uID="u246">
+    <w>so</w>
+    <w>if</w>
+    <w>she's</w>
+    <w>staying</w>
+    <w>in</w>
+    <w>the</w>
+    <w>hospital</w>
+    <w>then</w>
+    <w>she</w>
+    <w>probably</w>
+    <w>has</w>
+    <w>something</w>
+    <w>else</w>
+    <w>wrong</w>
+    <w>with</w>
+    <w>her</w>
+    <w>besides</w>
+    <w>just</w>
+    <w>her</w>
+    <w>broken</w>
+    <w>arm</w>
+    <t type="p"></t>
+
+  </u>
+  <u who="INV" uID="u247">
+    <w>hm</w>
+    <t type="p"></t>
+
+  </u>
+  <u who="MOT" uID="u248">
+    <w>um</w>
+    <tagMarker type="comma"></tagMarker>
+    <w>at</w>
+    <w>least</w>
+    <w>nowadays</w>
+    <t type="p"></t>
+
+  </u>
+  <u who="INV" uID="u249">
+    <e><happening>laughs</happening></e>
+    <t type="p"></t>
+
+  </u>
+  <u who="MOT" uID="u250">
+    <e><happening>laughs</happening></e>
+    <t type="p"></t>
+
+  </u>
+  <u who="MOT" uID="u251">
+    <w>um</w>
+    <w>and</w>
+    <w>the</w>
+    <w>doctor</w>
+    <w>has</w>
+    <w>a</w>
+    <w>stethoscope</w>
+    <w>around</w>
+    <w>her</w>
+    <w>neck</w>
+    <t type="p"></t>
+
+  </u>
+  <u who="MOT" uID="u252">
+    <w>which</w>
+    <w>can</w>
+    <w>be</w>
+    <w>used</w>
+    <w>to</w>
+    <w>listen</w>
+    <w>to</w>
+    <w>your</w>
+    <w>heart</w>
+    <w>and</w>
+    <w>your</w>
+    <w>your</w>
+    <w>breathing</w>
+    <t type="p"></t>
+
+  </u>
+  <u who="INV" uID="u253">
+    <g><w>mm-hm</w><ga type="explanation">yes</ga></g>
+    <t type="p"></t>
+
+  </u>
+  <u who="MOT" uID="u254">
+    <w>um</w>
+    <t type="p"></t>
+
+  </u>
+  <u who="INV" uID="u255">
+    <w>can</w>
+    <w>you</w>
+    <w>tell</w>
+    <w>me</w>
+    <w>anything</w>
+    <w>else</w>
+    <t type="q"></t>
+
+  </u>
+  <u who="MOT" uID="u256">
+    <w>um</w>
+    <t type="p"></t>
+
+  </u>
+  <u who="MOT" uID="u257">
+    <w>you</w>
+    <w>can</w>
+    <w>tell</w>
+    <w>it's</w>
+    <w>a</w>
+    <w>hospital</w>
+    <w>because</w>
+    <w>there's</w>
+    <w>a</w>
+    <w>little</w>
+    <w>button</w>
+    <w>over</w>
+    <w>here</w>
+    <overlap-point start-end="start" top-bottom="top"/>
+    <w>ah</w>
+    <w>attached</w>
+    <w>to</w>
+    <w>a</w>
+    <w>cord</w>
+    <w>on</w>
+    <w>her</w>
+    <w>bed<overlap-point start-end="end" top-bottom="top"/></w>
+    <t type="p"></t>
+
+  </u>
+  <u who="INV" uID="u258">
+    <overlap-point start-end="start" top-bottom="bottom"/>
+    <w>hm<overlap-point start-end="end" top-bottom="bottom"/></w>
+    <t type="p"></t>
+
+  </u>
+  <u who="INV" uID="u259">
+    <g><w>mm-hm</w><ga type="explanation">yes</ga></g>
+    <t type="p"></t>
+
+  </u>
+  <u who="MOT" uID="u260">
+    <w>on</w>
+    <w>her</w>
+    <w>pillow</w>
+    <t type="p"></t>
+
+  </u>
+  <u who="MOT" uID="u261">
+    <w>um</w>
+    <w>and</w>
+    <w>that</w>
+    <w>little</w>
+    <w>button</w>
+    <w>you</w>
+    <w>push</w>
+    <w>to</w>
+    <w>call</w>
+    <w>the</w>
+    <w>nurse</w>
+    <t type="p"></t>
+
+  </u>
+  <u who="MOT" uID="u262">
+    <w>um</w>
+    <w>sometimes</w>
+    <w>they</w>
+    <w>also</w>
+    <w>have</w>
+    <w>buttons</w>
+    <w>like</w>
+    <w>that</w>
+    <w>so</w>
+    <w>that</w>
+    <w>you</w>
+    <w>can</w>
+    <w>push</w>
+    <w>to</w>
+    <w>use</w>
+    <w>the</w>
+    <w>tv</w>
+    <t type="p"></t>
+
+  </u>
+  <u who="INV" uID="u263">
+    <e><happening>nods:yes</happening></e>
+    <t type="p"></t>
+
+  </u>
+  <u who="MOT" uID="u264">
+    <w>or</w>
+    <w>change</w>
+    <w>the</w>
+    <w>channels</w>
+    <t type="p"></t>
+
+  </u>
+  <u who="INV" uID="u265">
+    <e><happening>nods</happening></e>
+    <w>hm</w>
+    <t type="p"></t>
+
+  </u>
+  <u who="MOT" uID="u266">
+    <w>and</w>
+    <w>things</w>
+    <t type="p"></t>
+
+  </u>
+  <u who="INV" uID="u267">
+    <w>okay</w>
+    <t type="p"></t>
+
+  </u>
+  <lazy-gem label="Ladybug"/>
+  <u who="INV" uID="u268">
+    <w>what</w>
+    <w>is</w>
+    <w>this</w>
+    <t type="q"></t>
+
+  </u>
+  <u who="MOT" uID="u269">
+    <w>this</w>
+    <w>is</w>
+    <w>a</w>
+    <w>ladybug</w>
+    <t type="p"></t>
+
+  </u>
+  <u who="INV" uID="u270">
+    <g><w>mm-hm</w><ga type="explanation">yes</ga></g>
+    <t type="p"></t>
+
+  </u>
+  <u who="MOT" uID="u271">
+    <w>and</w>
+    <w>ladybugs</w>
+    <w>can</w>
+    <w>be</w>
+    <w>very</w>
+    <w>helpful</w>
+    <w>in</w>
+    <w>the</w>
+    <w>garden</w>
+    <w><shortening>be</shortening>cause</w>
+    <w>they</w>
+    <w>can</w>
+    <tagMarker type="comma"></tagMarker>
+    <w>they</w>
+    <w>eat</w>
+    <w>aphids</w>
+    <t type="p"></t>
+
+  </u>
+  <u who="MOT" uID="u272">
+    <w>which</w>
+    <w>are</w>
+    <w>little</w>
+    <w>green</w>
+    <w>bugs</w>
+    <w>that</w>
+    <w>eat</w>
+    <tagMarker type="comma"></tagMarker>
+    <w>um</w>
+    <w>that</w>
+    <w>suck</w>
+    <w>the</w>
+    <w>sap</w>
+    <w>out</w>
+    <w>of</w>
+    <w>plants</w>
+    <t type="p"></t>
+
+  </u>
+  <u who="INV" uID="u273">
+    <w>hm</w>
+    <t type="p"></t>
+
+  </u>
+  <u who="MOT" uID="u274">
+    <w>um</w>
+    <t type="p"></t>
+
+  </u>
+  <u who="MOT" uID="u275">
+    <w>baby</w>
+    <w>ladybugs</w>
+    <w>don't</w>
+    <w>look</w>
+    <w>like</w>
+    <w>that</w>
+    <t type="p"></t>
+
+  </u>
+  <u who="MOT" uID="u276">
+    <w>they</w>
+    <w>look</w>
+    <w>like</w>
+    <tagMarker type="comma"></tagMarker>
+    <w>kinda</w>
+    <w>like</w>
+    <w>little</w>
+    <w>caterpillar</w>
+    <w>wormy</w>
+    <w>type</w>
+    <w>things</w>
+    <t type="p"></t>
+
+  </u>
+  <u who="MOT" uID="u277">
+    <w>and</w>
+    <w>then</w>
+    <w>gradually</w>
+    <w>their</w>
+    <w>shells</w>
+    <w>grow</w>
+    <w>over</w>
+    <w>their</w>
+    <w>bodies</w>
+    <t type="p"></t>
+
+  </u>
+  <u who="INV" uID="u278">
+    <g><w>mm-hm</w><ga type="explanation">yes</ga></g>
+    <t type="p"></t>
+
+  </u>
+  <u who="MOT" uID="u279">
+    <w>um</w>
+    <t type="p"></t>
+
+  </u>
+  <u who="INV" uID="u280">
+    <w>I'd</w>
+    <w>like</w>
+    <w>to</w>
+    <w>hear</w>
+    <w>more</w>
+    <t type="p"></t>
+
+  </u>
+  <u who="INV" uID="u281">
+    <w>what</w>
+    <w>else</w>
+    <w>can</w>
+    <w>you</w>
+    <w>tell</w>
+    <w>me</w>
+    <t type="q"></t>
+
+  </u>
+  <u who="MOT" uID="u282">
+    <w>some</w>
+    <w>ladybugs</w>
+    <tagMarker type="comma"></tagMarker>
+    <w>well</w>
+    <w>most</w>
+    <w>ladybugs</w>
+    <w>are</w>
+    <w>good</w>
+    <w>for</w>
+    <w>the</w>
+    <w>garden</w>
+    <w>and</w>
+    <w>eat</w>
+    <w>aphids</w>
+    <w>but</w>
+    <w>there</w>
+    <w>are</w>
+    <w>there's</w>
+    <w>a</w>
+    <w>new</w>
+    <w>kind</w>
+    <w>of</w>
+    <w>ladybug</w>
+    <w>that's</w>
+    <w>come</w>
+    <w>along</w>
+    <w>recently</w>
+    <t type="p"></t>
+
+  </u>
+  <u who="INV" uID="u283">
+    <overlap-point start-end="start" top-bottom="top"/>
+    <g><w>mm-hm<overlap-point start-end="end" top-bottom="top"/></w><ga type="explanation">yes</ga></g>
+    <t type="p"></t>
+
+  </u>
+  <u who="MOT" uID="u284">
+    <overlap-point start-end="start" top-bottom="bottom"/>
+    <w>that's<overlap-point start-end="end" top-bottom="bottom"/></w>
+    <w>um</w>
+    <w>a</w>
+    <w>different</w>
+    <w>type</w>
+    <w>of</w>
+    <w>a</w>
+    <w>beetle</w>
+    <w>that</w>
+    <w>actually</w>
+    <w>doesn't</w>
+    <w>eat</w>
+    <w>aphids</w>
+    <t type="p"></t>
+
+  </u>
+  <u who="MOT" uID="u285">
+    <w>and</w>
+    <w>bites</w>
+    <t type="p"></t>
+
+  </u>
+  <u who="INV" uID="u286">
+    <e><happening>laughs</happening></e>
+    <t type="p"></t>
+
+  </u>
+  <u who="MOT" uID="u287">
+    <w>and</w>
+    <w>tends</w>
+    <w>to</w>
+    <w>be</w>
+    <w>all</w>
+    <w>over</w>
+    <w>the</w>
+    <w>place</w>
+    <t type="p"></t>
+
+  </u>
+  <u who="INV" uID="u288">
+    <e><happening>laughs</happening></e>
+    <g><w>mm-hm</w><ga type="explanation">yes</ga></g>
+    <t type="p"></t>
+
+  </u>
+  <u who="MOT" uID="u289">
+    <w>and</w>
+    <w>we</w>
+    <w>get</w>
+    <w>them</w>
+    <w>in</w>
+    <w>the</w>
+    <w>house</w>
+    <w>in</w>
+    <w>the</w>
+    <w>wintertime</w>
+    <t type="p"></t>
+
+  </u>
+  <u who="MOT" uID="u290">
+    <w>and</w>
+    <w>in</w>
+    <w>the</w>
+    <w>spring</w>
+    <w>they</w>
+    <w>kind</w>
+    <w>of</w>
+    <w>swarm</w>
+    <w>all</w>
+    <w>over</w>
+    <w>the</w>
+    <w>place</w>
+    <t type="p"></t>
+
+  </u>
+  <u who="MOT" uID="u291">
+    <w>um</w>
+    <t type="p"></t>
+
+  </u>
+  <u who="INV" uID="u292">
+    <g><w>mm-hm</w><ga type="explanation">yes</ga></g>
+    <t type="p"></t>
+
+  </u>
+  <u who="MOT" uID="u293">
+    <w>so</w>
+    <w>usually</w>
+    <w>the</w>
+    <w>real</w>
+    <w>ladybugs</w>
+    <w>are</w>
+    <w>the</w>
+    <w>ones</w>
+    <w>that</w>
+    <w>are</w>
+    <w>redder</w>
+    <e><happening>points:picture</happening></e>
+    <w>or</w>
+    <w>more</w>
+    <w>pink</w>
+    <t type="p"></t>
+
+  </u>
+  <u who="MOT" uID="u294">
+    <w>um</w>
+    <w>and</w>
+    <w>those</w>
+    <w>are</w>
+    <w>very</w>
+    <tagMarker type="comma"></tagMarker>
+    <w>very</w>
+    <w>good</w>
+    <w>helpers</w>
+    <w>in</w>
+    <w>the</w>
+    <w>garden</w>
+    <t type="p"></t>
+
+  </u>
+  <u who="MOT" uID="u295">
+    <w>and</w>
+    <w>can</w>
+    <w>help</w>
+    <w>keep</w>
+    <w>the</w>
+    <w>plants</w>
+    <w>healthy</w>
+    <t type="p"></t>
+
+  </u>
+  <u who="INV" uID="u296">
+    <g><w>mm-hm</w><ga type="explanation">yes</ga></g>
+    <t type="p"></t>
+
+  </u>
+  <u who="INV" uID="u297">
+    <w>okay</w>
+    <t type="p"></t>
+
+  </u>
+  <lazy-gem label="Baseball Player"/>
+  <u who="INV" uID="u298">
+    <w>what</w>
+    <w>is</w>
+    <w>this</w>
+    <t type="q"></t>
+
+  </u>
+  <u who="MOT" uID="u299">
+    <w>um</w>
+    <w>this</w>
+    <w>looks</w>
+    <w>like</w>
+    <w>a</w>
+    <w>baseball</w>
+    <w>player</w>
+    <w>to</w>
+    <w>me</w>
+    <t type="p"></t>
+
+  </u>
+  <u who="INV" uID="u300">
+    <g><w>mm-hm</w><ga type="explanation">yes</ga></g>
+    <t type="p"></t>
+
+  </u>
+  <u who="MOT" uID="u301">
+    <w>um</w>
+    <w>he's</w>
+    <w>wearing</w>
+    <w>a</w>
+    <w>uniform</w>
+    <t type="p"></t>
+
+  </u>
+  <u who="INV" uID="u302">
+    <e><happening>nods:yes</happening></e>
+    <t type="p"></t>
+
+  </u>
+  <u who="MOT" uID="u303">
+    <w>with</w>
+    <w>um</w>
+    <w>pants</w>
+    <w>and</w>
+    <w>then</w>
+    <w>um</w>
+    <w>that</w>
+    <w>come</w>
+    <w>all</w>
+    <w>the</w>
+    <w>way</w>
+    <w>down</w>
+    <w>and</w>
+    <w>go</w>
+    <w>into</w>
+    <w>his</w>
+    <w>shoes</w>
+    <t type="p"></t>
+
+  </u>
+  <u who="INV" uID="u304">
+    <g><w>mm-hm</w><ga type="explanation">yes</ga></g>
+    <t type="p"></t>
+
+  </u>
+  <u who="MOT" uID="u305">
+    <w>to</w>
+    <w>hold</w>
+    <w>his</w>
+    <w>um</w>
+    <w>to</w>
+    <w>keep</w>
+    <w>the</w>
+    <w>pants</w>
+    <w>from</w>
+    <w>sliding</w>
+    <w>down</w>
+    <w>and</w>
+    <w>socks</w>
+    <w>from</w>
+    <w>going</w>
+    <w>down</w>
+    <t type="p"></t>
+
+  </u>
+  <u who="MOT" uID="u306">
+    <w>and</w>
+    <w>um</w>
+    <w>he's</w>
+    <w>holding</w>
+    <w>a</w>
+    <w>baseball</w>
+    <w>bat</w>
+    <t type="p"></t>
+
+  </u>
+  <u who="INV" uID="u307">
+    <e><happening>nods:yes</happening></e>
+    <t type="p"></t>
+
+  </u>
+  <u who="MOT" uID="u308">
+    <w>and</w>
+    <w>he's</w>
+    <w>wearing</w>
+    <w>a</w>
+    <w>baseball</w>
+    <w>hat</w>
+    <t type="p"></t>
+
+  </u>
+  <u who="INV" uID="u309">
+    <g><w>mm-hm</w><ga type="explanation">yes</ga></g>
+    <t type="p"></t>
+
+  </u>
+  <u who="MOT" uID="u310">
+    <w>um</w>
+    <tagMarker type="comma"></tagMarker>
+    <w>although</w>
+    <w>interestingly</w>
+    <w>he's</w>
+    <w>not</w>
+    <w>wearing</w>
+    <w>a</w>
+    <w>batting</w>
+    <w>helmet</w>
+    <e><happening>laughs</happening></e>
+    <w>he's</w>
+    <w>wearing</w>
+    <w>an</w>
+    <w>outfielder's</w>
+    <w>helmet</w>
+    <w>but</w>
+    <w>um</w>
+    <w>or</w>
+    <w>hat</w>
+    <t type="p"></t>
+
+  </u>
+  <u who="INV" uID="u311">
+    <e><happening>laughs</happening></e>
+    <t type="p"></t>
+
+  </u>
+  <u who="MOT" uID="u312">
+    <w>but</w>
+    <w>um</w>
+    <t type="p"></t>
+
+  </u>
+  <u who="MOT" uID="u313">
+    <w>so</w>
+    <w>baseball's</w>
+    <w>a</w>
+    <w>game</w>
+    <w>where</w>
+    <w>you</w>
+    <w>hit</w>
+    <w>a</w>
+    <w>ball</w>
+    <w>with</w>
+    <w>a</w>
+    <w>bat</w>
+    <t type="p"></t>
+
+  </u>
+  <u who="INV" uID="u314">
+    <e><happening>nods:yes</happening></e>
+    <g><w>mm-hm</w><ga type="explanation">yes</ga></g>
+    <t type="p"></t>
+
+  </u>
+  <u who="MOT" uID="u315">
+    <w>and</w>
+    <w>um</w>
+    <w>depending</w>
+    <w>on</w>
+    <w>how</w>
+    <w>far</w>
+    <w>the</w>
+    <w>ball</w>
+    <w>goes</w>
+    <w>before</w>
+    <w>somebody</w>
+    <w>gets</w>
+    <w>to</w>
+    <w>it</w>
+    <w>you</w>
+    <w>run</w>
+    <w>around</w>
+    <w>bases</w>
+    <t type="p"></t>
+
+  </u>
+  <u who="MOT" uID="u316">
+    <w>um</w>
+    <w>and</w>
+    <w>you</w>
+    <w>try</w>
+    <w>to</w>
+    <w>run</w>
+    <w>all</w>
+    <w>the</w>
+    <w>way</w>
+    <w>around</w>
+    <w>back</w>
+    <w>to</w>
+    <w>where</w>
+    <w>you</w>
+    <w>came</w>
+    <w>from</w>
+    <t type="p"></t>
+
+  </u>
+  <u who="MOT" uID="u317">
+    <w>on</w>
+    <w>a</w>
+    <w>baseball</w>
+    <w>diamond</w>
+    <t type="p"></t>
+
+  </u>
+  <u who="INV" uID="u318">
+    <g><w>mm-hm</w><ga type="explanation">yes</ga></g>
+    <t type="p"></t>
+
+  </u>
+  <u who="INV" uID="u319">
+    <w>go</w>
+    <w>ahead</w>
+    <w>and</w>
+    <w>say</w>
+    <w>a</w>
+    <w>little</w>
+    <w>bit</w>
+    <w>more</w>
+    <t type="p"></t>
+
+  </u>
+  <u who="MOT" uID="u320">
+    <w>um</w>
+    <w>baseball</w>
+    <w>players</w>
+    <w>also</w>
+    <w>usually</w>
+    <w>wear</w>
+    <w>special</w>
+    <w>shoes</w>
+    <t type="p"></t>
+
+  </u>
+  <u who="INV" uID="u321">
+    <overlap-point start-end="start" top-bottom="top"/>
+    <g><w>mm-hm<overlap-point start-end="end" top-bottom="top"/></w><ga type="explanation">yes</ga></g>
+    <t type="p"></t>
+
+  </u>
+  <u who="MOT" uID="u322">
+    <overlap-point start-end="start" top-bottom="bottom"/>
+    <w>with<overlap-point start-end="end" top-bottom="bottom"/></w>
+    <w>kinda</w>
+    <w>the</w>
+    <w>spikes</w>
+    <w>on</w>
+    <w>them</w>
+    <w>so</w>
+    <w>that</w>
+    <w>they</w>
+    <w>can</w>
+    <w>get</w>
+    <w>good</w>
+    <w>traction</w>
+    <w>running</w>
+    <w>around</w>
+    <w>the</w>
+    <w>bases</w>
+    <w>so</w>
+    <w>they</w>
+    <w>don't</w>
+    <w>slip</w>
+    <t type="p"></t>
+
+  </u>
+  <u who="MOT" uID="u323">
+    <w>um</w>
+    <t type="p"></t>
+
+  </u>
+  <u who="INV" uID="u324">
+    <g><w>mm-hm</w><ga type="explanation">yes</ga></g>
+    <t type="p"></t>
+
+  </u>
+  <u who="MOT" uID="u325">
+    <w>baseball's</w>
+    <w>played</w>
+    <w>on</w>
+    <w>a</w>
+    <w>team</w>
+    <t type="p"></t>
+
+  </u>
+  <u who="INV" uID="u326">
+    <e><happening>nods:yes</happening></e>
+    <t type="p"></t>
+
+  </u>
+  <u who="MOT" uID="u327">
+    <w>and</w>
+    <w>I</w>
+    <w>could</w>
+    <w>not</w>
+    <w>tell</w>
+    <w>you</w>
+    <w>how</w>
+    <w>many</w>
+    <w>players</w>
+    <w>are</w>
+    <w>on</w>
+    <w>the</w>
+    <w>field</w>
+    <t type="p"></t>
+
+  </u>
+  <u who="INV" uID="u328">
+    <e><happening>laughs</happening></e>
+    <t type="p"></t>
+
+  </u>
+  <u who="MOT" uID="u329">
+    <e><happening>laughs</happening></e>
+    <t type="p"></t>
+
+  </u>
+  <u who="INV" uID="u330">
+    <w>that's</w>
+    <w>alright</w>
+    <t type="p"></t>
+
+  </u>
+  <u who="MOT" uID="u331">
+    <w>eight</w>
+    <w>I</w>
+    <w>believe</w>
+    <t type="p"></t>
+
+  </u>
+  <u who="MOT" uID="u332">
+    <w>but</w>
+    <w>I</w>
+    <w>don't</w>
+    <w>know</w>
+    <t type="p"></t>
+
+  </u>
+  <u who="MOT" uID="u333">
+    <w>um</w>
+    <w>eight</w>
+    <w>or</w>
+    <w>nine</w>
+    <t type="p"></t>
+
+  </u>
+  <u who="INV" uID="u334">
+    <e><happening>nods:yes</happening></e>
+    <t type="p"></t>
+
+  </u>
+  <u who="MOT" uID="u335">
+    <w>and</w>
+    <w>um</w>
+    <t type="p"></t>
+
+  </u>
+  <u who="MOT" uID="u336">
+    <w>it's</w>
+    <w>a</w>
+    <w>sport</w>
+    <w>that's</w>
+    <w>played</w>
+    <w>by</w>
+    <w>people</w>
+    <w>of</w>
+    <w>all</w>
+    <w>different</w>
+    <w>ages</w>
+    <t type="p"></t>
+
+  </u>
+  <u who="MOT" uID="u337">
+    <w>there's</w>
+    <w>the</w>
+    <w>leagues</w>
+    <w>for</w>
+    <w>little</w>
+    <w>kids</w>
+    <t type="p"></t>
+
+  </u>
+  <u who="INV" uID="u338">
+    <overlap-point start-end="start" top-bottom="top"/>
+    <g><w>mm-hm<overlap-point start-end="end" top-bottom="top"/></w><ga type="explanation">yes</ga></g>
+    <t type="p"></t>
+
+  </u>
+  <u who="MOT" uID="u339">
+    <overlap-point start-end="start" top-bottom="bottom"/>
+    <w>and</w>
+    <w>um<overlap-point start-end="end" top-bottom="bottom"/></w>
+    <w>all</w>
+    <w>the</w>
+    <w>way</w>
+    <w>to</w>
+    <w>grown</w>
+    <w>ups</w>
+    <w>who</w>
+    <w>play</w>
+    <w>um</w>
+    <t type="p"></t>
+
+  </u>
+  <u who="MOT" uID="u340">
+    <w>and</w>
+    <w>older</w>
+    <w>grown</w>
+    <w>ups</w>
+    <w>who</w>
+    <w>still</w>
+    <w>play</w>
+    <w>for</w>
+    <w>fun</w>
+    <t type="p"></t>
+
+  </u>
+  <u who="INV" uID="u341">
+    <g><w>mm-hm</w><ga type="explanation">yes</ga></g>
+    <t type="p"></t>
+
+  </u>
+  <u who="MOT" uID="u342">
+    <w>um</w>
+    <w>you</w>
+    <w>can</w>
+    <w>play</w>
+    <w>softball</w>
+    <w>which</w>
+    <w>has</w>
+    <w>a</w>
+    <w>has</w>
+    <w>a</w>
+    <w>has</w>
+    <w>a</w>
+    <w>much</w>
+    <w>bigger</w>
+    <w>ball</w>
+    <t type="p"></t>
+
+  </u>
+  <u who="MOT" uID="u343">
+    <w>or</w>
+    <w>baseball</w>
+    <w>which</w>
+    <w>has</w>
+    <w>a</w>
+    <w>harder</w>
+    <w>ball</w>
+    <t type="p"></t>
+
+  </u>
+  <u who="MOT" uID="u344">
+    <overlap-point start-end="start" top-bottom="top"/>
+    <w>but</w>
+    <w>they</w>
+    <w>both</w>
+    <w>are</w>
+    <w>pretty</w>
+    <w>much</w>
+    <w>the</w>
+    <w>same<overlap-point start-end="end" top-bottom="top"/></w>
+    <t type="p"></t>
+
+  </u>
+  <u who="INV" uID="u345">
+    <overlap-point start-end="start" top-bottom="bottom"/>
+    <w>mm-hm<overlap-point start-end="end" top-bottom="bottom"/></w>
+    <t type="p"></t>
+
+  </u>
+  <u who="INV" uID="u346">
+    <e><happening>nods</happening></e>
+    <w>okay</w>
+    <t type="p"></t>
+
+  </u>
+  <lazy-gem label="Puppy"/>
+  <u who="INV" uID="u347">
+    <w>what</w>
+    <w>is</w>
+    <w>this</w>
+    <t type="q"></t>
+
+  </u>
+  <u who="MOT" uID="u348">
+    <w>this</w>
+    <w>looks</w>
+    <w>like</w>
+    <w>a</w>
+    <w>puppy</w>
+    <t type="p"></t>
+
+  </u>
+  <u who="INV" uID="u349">
+    <e><happening>laughs</happening></e>
+    <t type="p"></t>
+
+  </u>
+  <u who="MOT" uID="u350">
+    <w>it's</w>
+    <w>a</w>
+    <w>small</w>
+    <w>version</w>
+    <w>of</w>
+    <w>a</w>
+    <w>dog</w>
+    <t type="p"></t>
+
+  </u>
+  <u who="INV" uID="u351">
+    <overlap-point start-end="start" top-bottom="top"/>
+    <g><w>mm-hm<overlap-point start-end="end" top-bottom="top"/></w><ga type="explanation">yes</ga></g>
+    <t type="p"></t>
+
+  </u>
+  <u who="MOT" uID="u352">
+    <overlap-point start-end="start" top-bottom="bottom"/>
+    <w>but<overlap-point start-end="end" top-bottom="bottom"/></w>
+    <w>you</w>
+    <w>can</w>
+    <w>tell</w>
+    <w>he's</w>
+    <w>a</w>
+    <w>puppy</w>
+    <w><shortening>be</shortening>cause</w>
+    <w>his</w>
+    <w>paws</w>
+    <w>are</w>
+    <w>still</w>
+    <w>really</w>
+    <w>big</w>
+    <t type="p"></t>
+
+  </u>
+  <u who="INV" uID="u353">
+    <g><w>mm-hm</w><ga type="explanation">yes</ga></g>
+    <e><happening>nods:yes</happening></e>
+    <t type="p"></t>
+
+  </u>
+  <u who="MOT" uID="u354">
+    <w>um</w>
+    <w>and</w>
+    <w>his</w>
+    <w>face</w>
+    <w>is</w>
+    <w>really</w>
+    <w>round</w>
+    <t type="p"></t>
+
+  </u>
+  <u who="MOT" uID="u355">
+    <w>and</w>
+    <w>he's</w>
+    <w>still</w>
+    <w>kinda</w>
+    <w>chubby</w>
+    <t type="p"></t>
+
+  </u>
+  <u who="INV" uID="u356">
+    <e><happening>laughs</happening></e>
+    <t type="p"></t>
+
+  </u>
+  <u who="MOT" uID="u357">
+    <w>um</w>
+    <t type="p"></t>
+
+  </u>
+  <u who="INV" uID="u358">
+    <w>tell</w>
+    <w>me</w>
+    <w>more</w>
+    <t type="p"></t>
+
+  </u>
+  <u who="MOT" uID="u359">
+    <w>and</w>
+    <w>puppies</w>
+    <w>usually</w>
+    <w>have</w>
+    <w>a</w>
+    <w>lot</w>
+    <w>of</w>
+    <w>energy</w>
+    <t type="p"></t>
+
+  </u>
+  <u who="INV" uID="u360">
+    <e><happening>nods:yes</happening></e>
+    <t type="p"></t>
+
+  </u>
+  <u who="MOT" uID="u361">
+    <w>and</w>
+    <w>they</w>
+    <w>like</w>
+    <w>to</w>
+    <w>chew</w>
+    <w>on</w>
+    <w>things</w>
+    <w><shortening>be</shortening>cause</w>
+    <w>their</w>
+    <w>teeth</w>
+    <w>they're</w>
+    <w>still</w>
+    <w>trying</w>
+    <w>to</w>
+    <w>growin<shortening>g</shortening></w>
+    <w>their</w>
+    <w>big</w>
+    <w>strong</w>
+    <w>grown</w>
+    <w>up</w>
+    <w>teeth</w>
+    <t type="p"></t>
+
+  </u>
+  <u who="INV" uID="u362">
+    <e><happening>nods:yes</happening></e>
+    <overlap-point start-end="start" top-bottom="top"/>
+    <g><w>mm-hm<overlap-point start-end="end" top-bottom="top"/></w><ga type="explanation">yes</ga></g>
+    <t type="p"></t>
+
+  </u>
+  <u who="MOT" uID="u363">
+    <overlap-point start-end="start" top-bottom="bottom"/>
+    <w>and<overlap-point start-end="end" top-bottom="bottom"/></w>
+    <w>so</w>
+    <w>they</w>
+    <w>chew</w>
+    <w>and</w>
+    <w>chew</w>
+    <w>and</w>
+    <w>chew</w>
+    <w>all</w>
+    <w>the</w>
+    <w>time</w>
+    <t type="p"></t>
+
+  </u>
+  <u who="MOT" uID="u364">
+    <w>um</w>
+    <tagMarker type="comma"></tagMarker>
+    <w>just</w>
+    <w>like</w>
+    <w>any</w>
+    <w>baby</w>
+    <w>puts</w>
+    <w>a</w>
+    <w>lot</w>
+    <w>of</w>
+    <w>stuff</w>
+    <w>in</w>
+    <w>its</w>
+    <w>mouth</w>
+    <t type="p"></t>
+
+  </u>
+  <u who="INV" uID="u365">
+    <overlap-point start-end="start" top-bottom="top"/>
+    <g><w>mm-hm<overlap-point start-end="end" top-bottom="top"/></w><ga type="explanation">yes</ga></g>
+    <e><happening>nods:yes</happening></e>
+    <t type="p"></t>
+
+  </u>
+  <u who="MOT" uID="u366">
+    <overlap-point start-end="start" top-bottom="bottom"/>
+    <w>puppies<overlap-point start-end="end" top-bottom="bottom"/></w>
+    <w>put</w>
+    <w>a</w>
+    <w>lot</w>
+    <w>of</w>
+    <w>things</w>
+    <w>in</w>
+    <w>their</w>
+    <w>mouth</w>
+    <w>too</w>
+    <t type="p"></t>
+
+  </u>
+  <u who="MOT" uID="u367">
+    <w>but</w>
+    <w>their</w>
+    <w>teeth</w>
+    <w>are</w>
+    <w>really</w>
+    <w>sharp</w>
+    <t type="p"></t>
+
+  </u>
+  <u who="MOT" uID="u368">
+    <w>um</w>
+    <w>they</w>
+    <w>like</w>
+    <w>to</w>
+    <w>be</w>
+    <w>played</w>
+    <w>with</w>
+    <w>a</w>
+    <w>lot</w>
+    <t type="p"></t>
+
+  </u>
+  <u who="MOT" uID="u369">
+    <w>and</w>
+    <w>they</w>
+    <w>do</w>
+    <w>have</w>
+    <w>a</w>
+    <w>lot</w>
+    <w>of</w>
+    <w>energy</w>
+    <w>so</w>
+    <w>you</w>
+    <w>kinda</w>
+    <w>have</w>
+    <w>to</w>
+    <w>entertain</w>
+    <w>them</w>
+    <tagMarker type="comma"></tagMarker>
+    <overlap-point start-end="start" top-bottom="top"/>
+    <w>a</w>
+    <w>lot<overlap-point start-end="end" top-bottom="top"/></w>
+    <t type="p"></t>
+
+  </u>
+  <u who="INV" uID="u370">
+    <overlap-point start-end="start" top-bottom="bottom"/>
+    <w>mm-hm<overlap-point start-end="end" top-bottom="bottom"/></w>
+    <t type="p"></t>
+
+  </u>
+  <u who="MOT" uID="u371">
+    <w>um</w>
+    <w>make</w>
+    <w>sure</w>
+    <w>they</w>
+    <w>get</w>
+    <w>enough</w>
+    <w>exercise</w>
+    <t type="p"></t>
+
+  </u>
+  <u who="INV" uID="u372">
+    <e><happening>nods:yes</happening></e>
+    <t type="p"></t>
+
+  </u>
+  <u who="MOT" uID="u373">
+    <w>um</w>
+    <w>and</w>
+    <w>they're</w>
+    <w>not</w>
+    <w>bored</w>
+    <w>so</w>
+    <w>they</w>
+    <w>don't</w>
+    <w>chew</w>
+    <w>your</w>
+    <w>stuff</w>
+    <w>up</w>
+    <t type="p"></t>
+
+  </u>
+  <u who="MOT" uID="u374">
+    <w>and</w>
+    <w>um</w>
+    <t type="p"></t>
+
+  </u>
+  <u who="MOT" uID="u375">
+    <w>but</w>
+    <w>then</w>
+    <w>they</w>
+    <w>also</w>
+    <w>sleep</w>
+    <w>a</w>
+    <w>lot</w>
+    <overlap-point start-end="start" top-bottom="top"/>
+    <w><shortening>be</shortening>cause</w>
+    <w>they're</w>
+    <w>growing<overlap-point start-end="end" top-bottom="top"/></w>
+    <t type="p"></t>
+
+  </u>
+  <u who="INV" uID="u376">
+    <overlap-point start-end="start" top-bottom="bottom"/>
+    <w>mm-hm<overlap-point start-end="end" top-bottom="bottom"/></w>
+    <e><happening>nods</happening></e>
+    <t type="p"></t>
+
+  </u>
+  <u who="MOT" uID="u377">
+    <w>so</w>
+    <w>they</w>
+    <w>they</w>
+    <w>usually</w>
+    <w>need</w>
+    <w>to</w>
+    <w>eat</w>
+    <w>special</w>
+    <w>puppy</w>
+    <w>food</w>
+    <w>to</w>
+    <w>help</w>
+    <w>them</w>
+    <w>grow</w>
+    <w>big</w>
+    <w>and</w>
+    <w>strong</w>
+    <t type="p"></t>
+
+  </u>
+  <u who="MOT" uID="u378">
+    <w>and</w>
+    <w>they</w>
+    <w>need</w>
+    <w>lots</w>
+    <w>of</w>
+    <w>sleep</w>
+    <w>and</w>
+    <w>lots</w>
+    <w>of</w>
+    <w>love</w>
+    <t type="p"></t>
+
+  </u>
+  <u who="INV" uID="u379">
+    <e><happening>laughs</happening></e>
+    <t type="p"></t>
+
+  </u>
+  <u who="INV" uID="u380">
+    <w>okay</w>
+    <t type="p"></t>
+
+  </u>
+  <lazy-gem label="Painter"/>
+  <u who="INV" uID="u381">
+    <w>what</w>
+    <w>is</w>
+    <w>this</w>
+    <t type="q"></t>
+
+  </u>
+  <u who="MOT" uID="u382">
+    <w>um</w>
+    <w>this</w>
+    <w>is</w>
+    <w>a</w>
+    <w>woman</w>
+    <w>painting</w>
+    <w>a</w>
+    <w>picture</w>
+    <t type="p"></t>
+
+  </u>
+  <u who="INV" uID="u383">
+    <e><happening>nods:yes</happening></e>
+    <g><w>mm-hm</w><ga type="explanation">yes</ga></g>
+    <t type="p"></t>
+
+  </u>
+  <u who="MOT" uID="u384">
+    <w>and</w>
+    <w>she's</w>
+    <w>not</w>
+    <w>painting</w>
+    <w>a</w>
+    <w>picture</w>
+    <w>from</w>
+    <w>her</w>
+    <w>memory</w>
+    <t type="p"></t>
+
+  </u>
+  <u who="MOT" uID="u385">
+    <w>she's</w>
+    <w>painting</w>
+    <w>a</w>
+    <w>picture</w>
+    <w>from</w>
+    <w>looks</w>
+    <w>like</w>
+    <w>from</w>
+    <w>maybe</w>
+    <w>a</w>
+    <w>drawing</w>
+    <w>that</w>
+    <w>she</w>
+    <overlap-point start-end="start" top-bottom="top"/>
+    <w>did</w>
+    <w>earlier<overlap-point start-end="end" top-bottom="top"/></w>
+    <t type="p"></t>
+
+  </u>
+  <u who="INV" uID="u386">
+    <e><happening>leans</happening></e>
+    <overlap-point start-end="start" top-bottom="bottom"/>
+    <w>hm<overlap-point start-end="end" top-bottom="bottom"/></w>
+    <t type="p"></t>
+
+  </u>
+  <u who="MOT" uID="u387">
+    <w>so</w>
+    <overlap-point start-end="start" top-bottom="top"/>
+    <w>maybe</w>
+    <w>she</w>
+    <w>went</w>
+    <w>outside</w>
+    <w>and</w>
+    <w>saw</w>
+    <w>this</w>
+    <w>tree<overlap-point start-end="end" top-bottom="top"/></w>
+    <t type="p"></t>
+
+  </u>
+  <u who="INV" uID="u388">
+    <overlap-point start-end="start" top-bottom="bottom"/>
+    <w>mm-hm<overlap-point start-end="end" top-bottom="bottom"/></w>
+    <t type="p"></t>
+
+  </u>
+  <u who="INV" uID="u389">
+    <e><happening>nods</happening></e>
+    <t type="p"></t>
+
+  </u>
+  <u who="MOT" uID="u390">
+    <w>and</w>
+    <w>so</w>
+    <w>she</w>
+    <w>drew</w>
+    <w>the</w>
+    <w>picture</w>
+    <t type="p"></t>
+
+  </u>
+  <u who="MOT" uID="u391">
+    <w>and</w>
+    <w>then</w>
+    <w>she</w>
+    <w>took</w>
+    <w>the</w>
+    <w>picture</w>
+    <w>that</w>
+    <w>she</w>
+    <w>drew</w>
+    <w>and</w>
+    <w>she</w>
+    <w>took</w>
+    <w>it</w>
+    <w>home</w>
+    <t type="p"></t>
+
+  </u>
+  <u who="MOT" uID="u392">
+    <w>and</w>
+    <w>now</w>
+    <w>she's</w>
+    <w>making</w>
+    <w>a</w>
+    <w>bigger</w>
+    <w>version</w>
+    <w>and</w>
+    <w>she's</w>
+    <w>painting</w>
+    <w>it</w>
+    <t type="p"></t>
+
+  </u>
+  <u who="INV" uID="u393">
+    <e><happening>nods:yes</happening></e>
+    <t type="p"></t>
+
+  </u>
+  <u who="MOT" uID="u394">
+    <w>so</w>
+    <w>she's</w>
+    <w>painting</w>
+    <w>some</w>
+    <w>of</w>
+    <w>the</w>
+    <w>colors</w>
+    <w>and</w>
+    <w>things</w>
+    <overlap-point start-end="start" top-bottom="top"/>
+    <w>from</w>
+    <w>her</w>
+    <w>memory</w>
+    <w>but</w>
+    <w>um<overlap-point start-end="end" top-bottom="top"/></w>
+    <t type="p"></t>
+
+  </u>
+  <u who="INV" uID="u395">
+    <overlap-point start-end="start" top-bottom="bottom"/>
+    <w>mm-hm<overlap-point start-end="end" top-bottom="bottom"/></w>
+    <t type="p"></t>
+
+  </u>
+  <u who="MOT" uID="u396">
+    <w>the</w>
+    <w>picture</w>
+    <w>of</w>
+    <w>the</w>
+    <w>actual</w>
+    <w>tree</w>
+    <w>she</w>
+    <w>drew</w>
+    <w>outside</w>
+    <t type="p"></t>
+
+  </u>
+  <u who="MOT" uID="u397">
+    <w>and</w>
+    <w>that</w>
+    <w>way</w>
+    <w>if</w>
+    <w>you</w>
+    <w>paint</w>
+    <w>outside</w>
+    <w>sometimes</w>
+    <w>little</w>
+    <w>bugs</w>
+    <w>and</w>
+    <w>things</w>
+    <overlap-point start-end="start" top-bottom="top"/>
+    <w>get</w>
+    <w>stuck</w>
+    <w>in</w>
+    <w>the</w>
+    <w>paint<overlap-point start-end="end" top-bottom="top"/></w>
+    <t type="p"></t>
+
+  </u>
+  <u who="INV" uID="u398">
+    <g><w>mm-hm</w><ga type="explanation">yes</ga></g>
+    <t type="p"></t>
+
+  </u>
+  <u who="INV" uID="u399">
+    <overlap-point start-end="start" top-bottom="bottom"/>
+    <e><happening>nods</happening></e>
+    <w>mm<overlap-point start-end="end" top-bottom="bottom"/></w>
+    <t type="p"></t>
+
+  </u>
+  <u who="INV" uID="u400">
+    <w>so</w>
+    <w>she</w>
+    <w>probably</w>
+    <w>just</w>
+    <w>drew</w>
+    <w>the</w>
+    <w>picture</w>
+    <w>when</w>
+    <w>she</w>
+    <w>was</w>
+    <w>out</w>
+    <t type="p"></t>
+
+  </u>
+  <u who="INV" uID="u401">
+    <g><w>mm-hm</w><ga type="explanation">yes</ga></g>
+    <t type="p"></t>
+
+  </u>
+  <u who="MOT" uID="u402">
+    <w>plus</w>
+    <w>it's</w>
+    <w>harder</w>
+    <w>to</w>
+    <w>bring</w>
+    <w>all</w>
+    <w>your</w>
+    <w>supplies</w>
+    <w>and</w>
+    <w>everything</w>
+    <w>outside</w>
+    <w>with</w>
+    <w>you</w>
+    <t type="p"></t>
+
+  </u>
+  <u who="INV" uID="u403">
+    <e><happening>nods</happening></e>
+    <g><w>mm-hm</w><ga type="explanation">yes</ga></g>
+    <t type="p"></t>
+
+  </u>
+  <u who="MOT" uID="u404">
+    <w>so</w>
+    <w>she</w>
+    <w>probably</w>
+    <w>just</w>
+    <w>takes</w>
+    <w>a</w>
+    <w>little</w>
+    <w>sketchbook</w>
+    <w>with</w>
+    <w>her</w>
+    <w>and</w>
+    <w>when</w>
+    <w>she</w>
+    <w>sees</w>
+    <w>something</w>
+    <w>that</w>
+    <w>looks</w>
+    <w>like</w>
+    <w>it's</w>
+    <w>nice</w>
+    <w>to</w>
+    <w>paint</w>
+    <t type="p"></t>
+
+  </u>
+  <u who="MOT" uID="u405">
+    <w>draws</w>
+    <w>a</w>
+    <w>quick</w>
+    <w>little</w>
+    <w>sketch</w>
+    <w>of</w>
+    <w>that</w>
+    <w>to</w>
+    <w>try</w>
+    <w>to</w>
+    <w>remind</w>
+    <w>her</w>
+    <w>of</w>
+    <w>what</w>
+    <w>it</w>
+    <w>looked</w>
+    <w>like</w>
+    <t type="p"></t>
+
+  </u>
+  <u who="MOT" uID="u406">
+    <w>and</w>
+    <w>then</w>
+    <w>she</w>
+    <w>can</w>
+    <w>take</w>
+    <w>it</w>
+    <w>back</w>
+    <w>to</w>
+    <w>her</w>
+    <w>house</w>
+    <w>or</w>
+    <w>her</w>
+    <e><happening>yawns</happening></e>
+    <w>excuse</w>
+    <w>me</w>
+    <overlap-point start-end="start" top-bottom="top"/>
+    <w>or</w>
+    <w>her</w>
+    <w>studio<overlap-point start-end="end" top-bottom="top"/></w>
+    <t type="p"></t>
+
+  </u>
+  <u who="INV" uID="u407">
+    <overlap-point start-end="start" top-bottom="bottom"/>
+    <w>mm-hm<overlap-point start-end="end" top-bottom="bottom"/></w>
+    <t type="p"></t>
+
+  </u>
+  <u who="MOT" uID="u408">
+    <w>and</w>
+    <w>paint</w>
+    <w>it</w>
+    <t type="p"></t>
+
+  </u>
+  <u who="INV" uID="u409">
+    <w>hm</w>
+    <t type="p"></t>
+
+  </u>
+  <u who="INV" uID="u410">
+    <w>what</w>
+    <w>more</w>
+    <w>can</w>
+    <w>you</w>
+    <w>tell</w>
+    <w>me</w>
+    <t type="q"></t>
+
+  </u>
+  <u who="MOT" uID="u411">
+    <w>um</w>
+    <w>it</w>
+    <w>looks</w>
+    <w>like</w>
+    <w>she</w>
+    <w>is</w>
+    <w>painting</w>
+    <w>with</w>
+    <tagMarker type="comma"></tagMarker>
+    <w>oil</w>
+    <w>paints</w>
+    <overlap-point start-end="start" top-bottom="top"/>
+    <w>rather</w>
+    <w>than</w>
+    <w>watercolors<overlap-point start-end="end" top-bottom="top"/></w>
+    <t type="p"></t>
+
+  </u>
+  <u who="INV" uID="u412">
+    <overlap-point start-end="start" top-bottom="bottom"/>
+    <w>mm-hm<overlap-point start-end="end" top-bottom="bottom"/></w>
+    <t type="p"></t>
+
+  </u>
+  <u who="MOT" uID="u413">
+    <w>because</w>
+    <w>she</w>
+    <w>doesn't</w>
+    <w>have</w>
+    <w>um</w>
+    <w>she</w>
+    <w>doesn't</w>
+    <w>appear</w>
+    <w>to</w>
+    <w>have</w>
+    <w>a</w>
+    <w>bunch</w>
+    <w>of</w>
+    <w>have</w>
+    <w>water</w>
+    <w>around</w>
+    <w>her</w>
+    <t type="p"></t>
+
+  </u>
+  <u who="INV" uID="u414">
+    <e><happening>nods</happening></e>
+    <w>mm</w>
+    <t type="p"></t>
+
+  </u>
+  <u who="MOT" uID="u415">
+    <w>plus</w>
+    <w>she's</w>
+    <w>painting</w>
+    <w>with</w>
+    <w>smaller</w>
+    <w>little</w>
+    <w>strokes</w>
+    <t type="p"></t>
+
+  </u>
+  <u who="INV" uID="u416">
+    <e><happening>nods:yes</happening></e>
+    <t type="p"></t>
+
+  </u>
+  <u who="MOT" uID="u417">
+    <w>and</w>
+    <w>it</w>
+    <w>looks</w>
+    <w>more</w>
+    <w>like</w>
+    <w>she's</w>
+    <w>painting</w>
+    <w>with</w>
+    <w>oil</w>
+    <w>paints</w>
+    <w>or</w>
+    <w>acrylic</w>
+    <w>paints</w>
+    <t type="p"></t>
+
+  </u>
+  <u who="MOT" uID="u418">
+    <overlap-point start-end="start" top-bottom="top"/>
+    <w>um<overlap-point start-end="end" top-bottom="top"/></w>
+    <t type="p"></t>
+
+  </u>
+  <u who="INV" uID="u419">
+    <overlap-point start-end="start" top-bottom="bottom"/>
+    <w>mm-hm<overlap-point start-end="end" top-bottom="bottom"/></w>
+    <t type="p"></t>
+
+  </u>
+  <u who="MOT" uID="u420">
+    <w>she</w>
+    <w>appears</w>
+    <w>to</w>
+    <w>be</w>
+    <w>working</w>
+    <w>on</w>
+    <w>painting</w>
+    <w>the</w>
+    <w>the</w>
+    <w>leaves</w>
+    <w>on</w>
+    <w>one</w>
+    <w>of</w>
+    <w>the</w>
+    <w>branches</w>
+    <t type="p"></t>
+
+  </u>
+  <u who="INV" uID="u421">
+    <g><w>mm-hm</w><ga type="explanation">yes</ga></g>
+    <t type="p"></t>
+
+  </u>
+  <u who="MOT" uID="u422">
+    <w>or</w>
+    <w>the</w>
+    <w>needles</w>
+    <w>on</w>
+    <w>one</w>
+    <w>of</w>
+    <w>the</w>
+    <w>branches</w>
+    <t type="p"></t>
+
+  </u>
+  <u who="MOT" uID="u423">
+    <w>um</w>
+    <t type="p"></t>
+
+  </u>
+  <u who="INV" uID="u424">
+    <w>okay</w>
+    <w>can</w>
+    <w>you</w>
+    <w>tell</w>
+    <w>me</w>
+    <w>anything</w>
+    <w>else</w>
+    <t type="q"></t>
+
+  </u>
+  <u who="MOT" uID="u425">
+    <w>she's</w>
+    <w>wearing</w>
+    <w>a</w>
+    <w>smock</w>
+    <t type="p"></t>
+
+  </u>
+  <u who="INV" uID="u426">
+    <e><happening>nods</happening></e>
+    <t type="p"></t>
+
+  </u>
+  <u who="MOT" uID="u427">
+    <w>which</w>
+    <w>is</w>
+    <w>covered</w>
+    <g><w>with</w><k type="best guess"/></g>
+    <w>paint</w>
+    <w>so</w>
+    <w>that</w>
+    <w>keeps</w>
+    <w>the</w>
+    <w>paint</w>
+    <w>from</w>
+    <w>getting</w>
+    <w>on</w>
+    <w>her</w>
+    <w>clothes</w>
+    <w>underneath</w>
+    <t type="p"></t>
+
+  </u>
+  <u who="INV" uID="u428">
+    <overlap-point start-end="start" top-bottom="top"/>
+    <g><w>mm-hm<overlap-point start-end="end" top-bottom="top"/></w><ga type="explanation">yes</ga></g>
+    <t type="p"></t>
+
+  </u>
+  <u who="MOT" uID="u429">
+    <overlap-point start-end="start" top-bottom="bottom"/>
+    <w>and<overlap-point start-end="end" top-bottom="bottom"/></w>
+    <w>protects</w>
+    <w>those</w>
+    <t type="p"></t>
+
+  </u>
+  <u who="MOT" uID="u430">
+    <w>she</w>
+    <w>has</w>
+    <w>special</w>
+    <w>painting</w>
+    <w>clothes</w>
+    <w>that</w>
+    <w>she</w>
+    <w>wears</w>
+    <t type="p"></t>
+
+  </u>
+  <u who="MOT" uID="u431">
+    <w>um</w>
+    <t type="p"></t>
+
+  </u>
+  <u who="INV" uID="u432">
+    <w>okay</w>
+    <t type="p"></t>
+
+  </u>
+  <u who="MOT" uID="u433">
+    <w>and</w>
+    <w>that's</w>
+    <w>about</w>
+    <w>it</w>
+    <t type="p"></t>
+
+  </u>
+  <u who="INV" uID="u434">
+    <w>okay</w>
+    <t type="p"></t>
+
+  </u>
+  <u who="INV" uID="u435">
+    <w>yeah</w>
+    <t type="p"></t>
+
+  </u>
+  <lazy-gem label="Duck"/>
+  <u who="INV" uID="u436">
+    <w>what</w>
+    <w>is</w>
+    <w>this</w>
+    <t type="q"></t>
+
+  </u>
+  <u who="MOT" uID="u437">
+    <w>that</w>
+    <w>is</w>
+    <w>a</w>
+    <w>duck</w>
+    <t type="p"></t>
+
+  </u>
+  <u who="INV" uID="u438">
+    <g><w>mm-hm</w><ga type="explanation">yes</ga></g>
+    <e><happening>nods:yes</happening></e>
+    <t type="p"></t>
+
+  </u>
+  <u who="MOT" uID="u439">
+    <w>and</w>
+    <w>that</w>
+    <w>is</w>
+    <w>a</w>
+    <w>um</w>
+    <w>looks</w>
+    <w>like</w>
+    <w>a</w>
+    <w>mallard</w>
+    <w>duck</w>
+    <t type="p"></t>
+
+  </u>
+  <u who="MOT" uID="u440">
+    <w>which</w>
+    <w>is</w>
+    <w>a</w>
+    <w>kind</w>
+    <w>of</w>
+    <w>duck</w>
+    <w>that</w>
+    <w>has</w>
+    <w>a</w>
+    <w>green</w>
+    <w>head</w>
+    <t type="p"></t>
+
+  </u>
+  <u who="INV" uID="u441">
+    <g><w>mm-hm</w><ga type="explanation">yes</ga></g>
+    <t type="p"></t>
+
+  </u>
+  <u who="MOT" uID="u442">
+    <w>and</w>
+    <w>this</w>
+    <w>is</w>
+    <w>a</w>
+    <w>male</w>
+    <w>mallard</w>
+    <t type="p"></t>
+
+  </u>
+  <u who="MOT" uID="u443">
+    <w>which</w>
+    <w>is</w>
+    <w>called</w>
+    <w>a</w>
+    <w>drake</w>
+    <t type="p"></t>
+
+  </u>
+  <u who="INV" uID="u444">
+    <w>hm</w>
+    <t type="p"></t>
+
+  </u>
+  <u who="MOT" uID="u445">
+    <w>and</w>
+    <w>um</w>
+    <t type="p"></t>
+
+  </u>
+  <u who="MOT" uID="u446">
+    <w>yup</w>
+    <w>mallards</w>
+    <w>usually</w>
+    <w>have</w>
+    <w>green</w>
+    <w>heads</w>
+    <t type="p"></t>
+
+  </u>
+  <u who="MOT" uID="u447">
+    <w>and</w>
+    <w>then</w>
+    <w>they</w>
+    <w>have</w>
+    <w>a</w>
+    <w>blue</w>
+    <w>kind</w>
+    <w>of</w>
+    <w>a</w>
+    <w>blue</w>
+    <w>stripe</w>
+    <w>on</w>
+    <w>their</w>
+    <w>wings</w>
+    <t type="p"></t>
+
+  </u>
+  <u who="INV" uID="u448">
+    <g><w>mm-hm</w><ga type="explanation">yes</ga></g>
+    <t type="p"></t>
+
+  </u>
+  <u who="MOT" uID="u449">
+    <w>um</w>
+    <t type="p"></t>
+
+  </u>
+  <u who="INV" uID="u450">
+    <w>what</w>
+    <w>else</w>
+    <w>can</w>
+    <w>you</w>
+    <w>tell</w>
+    <w>me</w>
+    <t type="q"></t>
+
+  </u>
+  <u who="MOT" uID="u451">
+    <w>ducks</w>
+    <w>like</w>
+    <w>to</w>
+    <w>swim</w>
+    <w>a</w>
+    <w>lot</w>
+    <t type="p"></t>
+
+  </u>
+  <u who="MOT" uID="u452">
+    <w>they</w>
+    <w>can</w>
+    <w>fly</w>
+    <w>like</w>
+    <w>regular</w>
+    <w>like</w>
+    <w>birds</w>
+    <t type="p"></t>
+
+  </u>
+  <u who="INV" uID="u453">
+    <g><w>mm-hm</w><ga type="explanation">yes</ga></g>
+    <t type="p"></t>
+
+  </u>
+  <u who="MOT" uID="u454">
+    <w>but</w>
+    <w>they</w>
+    <w>also</w>
+    <w>have</w>
+    <w>special</w>
+    <w>webbed</w>
+    <w>um</w>
+    <w>feet</w>
+    <t type="p"></t>
+
+  </u>
+  <u who="MOT" uID="u455">
+    <w>and</w>
+    <w>their</w>
+    <w>feet</w>
+    <w>are</w>
+    <w>kind</w>
+    <w>of</w>
+    <w>leathery</w>
+    <t type="p"></t>
+
+  </u>
+  <u who="MOT" uID="u456">
+    <w>and</w>
+    <w>they</w>
+    <w>have</w>
+    <w>um</w>
+    <w>webbing</w>
+    <w>in</w>
+    <w>between</w>
+    <w>their</w>
+    <w>toes</w>
+    <w>to</w>
+    <w>make</w>
+    <w>their</w>
+    <w>feet</w>
+    <w>more</w>
+    <w>like</w>
+    <w>paddles</w>
+    <t type="p"></t>
+
+  </u>
+  <u who="INV" uID="u457">
+    <e><happening>nods:yes</happening></e>
+    <g><w>mm-hm</w><ga type="explanation">yes</ga></g>
+    <t type="p"></t>
+
+  </u>
+  <u who="MOT" uID="u458">
+    <w>so</w>
+    <w>they</w>
+    <w>can</w>
+    <w>swim</w>
+    <w>um</w>
+    <w>all</w>
+    <w>the</w>
+    <w>time</w>
+    <t type="p"></t>
+
+  </u>
+  <u who="MOT" uID="u459">
+    <w>and</w>
+    <w>um</w>
+    <w>every</w>
+    <w>year</w>
+    <w>ducks</w>
+    <w>molt</w>
+    <t type="p"></t>
+
+  </u>
+  <u who="INV" uID="u460">
+    <overlap-point start-end="start" top-bottom="top"/>
+    <g><w>mm-hm<overlap-point start-end="end" top-bottom="top"/></w><ga type="explanation">yes</ga></g>
+    <e><happening>nods:yes</happening></e>
+    <t type="p"></t>
+
+  </u>
+  <u who="MOT" uID="u461">
+    <overlap-point start-end="start" top-bottom="bottom"/>
+    <w>which<overlap-point start-end="end" top-bottom="bottom"/></w>
+    <w>is</w>
+    <w>when</w>
+    <w>their</w>
+    <w>feathers</w>
+    <w>fall</w>
+    <w>out</w>
+    <t type="p"></t>
+
+  </u>
+  <u who="INV" uID="u462">
+    <g><w>mm-hm</w><ga type="explanation">yes</ga></g>
+    <t type="p"></t>
+
+  </u>
+  <u who="MOT" uID="u463">
+    <w>um</w>
+    <w>and</w>
+    <w>they</w>
+    <w>use</w>
+    <w>those</w>
+    <w>feathers</w>
+    <w>to</w>
+    <w>line</w>
+    <w>their</w>
+    <w>nests</w>
+    <t type="p"></t>
+
+  </u>
+  <u who="MOT" uID="u464">
+    <w>and</w>
+    <w>keep</w>
+    <w>their</w>
+    <w>keep</w>
+    <w>their</w>
+    <w>eggs</w>
+    <w>warm</w>
+    <t type="p"></t>
+
+  </u>
+  <u who="MOT" uID="u465">
+    <w>so</w>
+    <w>when</w>
+    <w>their</w>
+    <w>feathers</w>
+    <w>have</w>
+    <w>molted</w>
+    <w>they</w>
+    <w>have</w>
+    <w>a</w>
+    <w>lil-</w>
+    <w>period</w>
+    <w>of</w>
+    <w>time</w>
+    <w>where</w>
+    <w>they</w>
+    <w>can't</w>
+    <w>fly</w>
+    <t type="p"></t>
+
+  </u>
+  <u who="INV" uID="u466">
+    <w>hm</w>
+    <t type="p"></t>
+
+  </u>
+  <u who="MOT" uID="u467">
+    <w>um</w>
+    <w>so</w>
+    <w>they</w>
+    <w>can</w>
+    <w>only</w>
+    <w>walk</w>
+    <w>around</w>
+    <t type="p"></t>
+
+  </u>
+  <u who="MOT" uID="u468">
+    <w>but</w>
+    <w>if</w>
+    <w>they</w>
+    <w>that's</w>
+    <w>so</w>
+    <w>they</w>
+    <w>usually</w>
+    <w>build</w>
+    <w>their</w>
+    <w>nests</w>
+    <w>near</w>
+    <w>near</w>
+    <w>the</w>
+    <w>water</w>
+    <t type="p"></t>
+
+  </u>
+  <u who="INV" uID="u469">
+    <g><w>mm-hm</w><ga type="explanation">yes</ga></g>
+    <t type="p"></t>
+
+  </u>
+  <u who="MOT" uID="u470">
+    <w>so</w>
+    <w>that</w>
+    <w>they</w>
+    <w>can</w>
+    <w>still</w>
+    <w>swim</w>
+    <w>and</w>
+    <w>and</w>
+    <w>get</w>
+    <w>places</w>
+    <w>quickly</w>
+    <t type="p"></t>
+
+  </u>
+  <u who="INV" uID="u471">
+    <e><happening>nods:yes</happening></e>
+    <g><w>mm-hm</w><ga type="explanation">yes</ga></g>
+    <t type="p"></t>
+
+  </u>
+  <u who="MOT" uID="u472">
+    <w>um</w>
+    <t type="p"></t>
+
+  </u>
+  <u who="INV" uID="u473">
+    <w>okay</w>
+    <t type="p"></t>
+
+  </u>
+  <lazy-gem label="Baby"/>
+  <u who="INV" uID="u474">
+    <w>what</w>
+    <w>is</w>
+    <w>this</w>
+    <t type="q"></t>
+
+  </u>
+  <u who="MOT" uID="u475">
+    <w>and</w>
+    <w>this</w>
+    <w>looks</w>
+    <w>like</w>
+    <w>a</w>
+    <w>baby</w>
+    <t type="p"></t>
+
+  </u>
+  <u who="INV" uID="u476">
+    <g><w>mm-hm</w><ga type="explanation">yes</ga></g>
+    <e><happening>laughs</happening></e>
+    <t type="p"></t>
+
+  </u>
+  <u who="MOT" uID="u477">
+    <e><happening>laughs</happening></e>
+    <t type="p"></t>
+
+  </u>
+  <u who="MOT" uID="u478">
+    <w>a</w>
+    <w>human</w>
+    <w>baby</w>
+    <t type="p"></t>
+
+  </u>
+  <u who="MOT" uID="u479">
+    <w>um</w>
+    <t type="p"></t>
+
+  </u>
+  <u who="MOT" uID="u480">
+    <w>and</w>
+    <w>this</w>
+    <w>baby's</w>
+    <w>got</w>
+    <w>some</w>
+    <w>toys</w>
+    <t type="p"></t>
+
+  </u>
+  <u who="MOT" uID="u481">
+    <w>some</w>
+    <w>stuffed</w>
+    <w>toys</w>
+    <t type="p"></t>
+
+  </u>
+  <u who="INV" uID="u482">
+    <g><w>mm-hm</w><ga type="explanation">yes</ga></g>
+    <t type="p"></t>
+
+  </u>
+  <u who="MOT" uID="u483">
+    <w>um</w>
+    <t type="p"></t>
+
+  </u>
+  <u who="MOT" uID="u484">
+    <w>and</w>
+    <tagMarker type="comma"></tagMarker>
+    <w>little</w>
+    <w>babies</w>
+    <w>like</w>
+    <w>to</w>
+    <w>be</w>
+    <w>played</w>
+    <w>with</w>
+    <w>a</w>
+    <w>lot</w>
+    <t type="p"></t>
+
+  </u>
+  <u who="INV" uID="u485">
+    <e><happening>nods:yes</happening></e>
+    <t type="p"></t>
+
+  </u>
+  <u who="MOT" uID="u486">
+    <w>they</w>
+    <w>like</w>
+    <w>to</w>
+    <w>be</w>
+    <w>held</w>
+    <w>a</w>
+    <w>lot</w>
+    <t type="p"></t>
+
+  </u>
+  <u who="INV" uID="u487">
+    <g><w>mm-hm</w><ga type="explanation">yes</ga></g>
+    <t type="p"></t>
+
+  </u>
+  <u who="MOT" uID="u488">
+    <w>um</w>
+    <w>they</w>
+    <w>need</w>
+    <w>lots</w>
+    <w>of</w>
+    <w>love</w>
+    <w>and</w>
+    <w>care</w>
+    <t type="p"></t>
+
+  </u>
+  <u who="INV" uID="u489">
+    <w>mm</w>
+    <t type="p"></t>
+
+  </u>
+  <u who="MOT" uID="u490">
+    <w>and</w>
+    <w>they</w>
+    <w>need</w>
+    <w>people</w>
+    <w>to</w>
+    <w>talk</w>
+    <w>to</w>
+    <w>them</w>
+    <w>and</w>
+    <w>play</w>
+    <w>with</w>
+    <w>them</w>
+    <w>so</w>
+    <w>that</w>
+    <w>they</w>
+    <w>can</w>
+    <w>learn</w>
+    <w>about</w>
+    <w>the</w>
+    <w>world</w>
+    <w>around</w>
+    <w>them</w>
+    <t type="p"></t>
+
+  </u>
+  <u who="INV" uID="u491">
+    <e><happening>smiles</happening></e>
+    <g><w>mm-hm</w><ga type="explanation">yes</ga></g>
+    <t type="p"></t>
+
+  </u>
+  <u who="MOT" uID="u492">
+    <w>um</w>
+    <w>stuffed</w>
+    <w>animals</w>
+    <w>are</w>
+    <w>a</w>
+    <w>good</w>
+    <w>way</w>
+    <w>for</w>
+    <w>them</w>
+    <w>to</w>
+    <w>learn</w>
+    <t type="p"></t>
+
+  </u>
+  <u who="INV" uID="u493">
+    <g><w>mm-hm</w><ga type="explanation">yes</ga></g>
+    <t type="p"></t>
+
+  </u>
+  <u who="MOT" uID="u494">
+    <w>because</w>
+    <w>you</w>
+    <w>can't</w>
+    <w>just</w>
+    <w>bring</w>
+    <w>in</w>
+    <w>a</w>
+    <w>whole</w>
+    <w>bunch</w>
+    <w>of</w>
+    <w>different</w>
+    <w>animals</w>
+    <w>for</w>
+    <w>them</w>
+    <w>to</w>
+    <w>look</w>
+    <w>at</w>
+    <t type="p"></t>
+
+  </u>
+  <u who="INV" uID="u495">
+    <e><happening>nods</happening></e>
+    <g><w>mm-hm</w><ga type="explanation">yes</ga></g>
+    <t type="p"></t>
+
+  </u>
+  <u who="MOT" uID="u496">
+    <w>and</w>
+    <w>see</w>
+    <t type="p"></t>
+
+  </u>
+  <u who="MOT" uID="u497">
+    <w>but</w>
+    <w>the</w>
+    <w>stuffed</w>
+    <w>animals</w>
+    <w>are</w>
+    <w>safer</w>
+    <t type="p"></t>
+
+  </u>
+  <u who="INV" uID="u498">
+    <e><happening>nods:yes</happening></e>
+    <g><w>mm-hm</w><ga type="explanation">yes</ga></g>
+    <t type="p"></t>
+
+  </u>
+  <u who="MOT" uID="u499">
+    <w>and</w>
+    <w>they</w>
+    <w>can</w>
+    <w>cuddle</w>
+    <w>them</w>
+    <t type="p"></t>
+
+  </u>
+  <u who="MOT" uID="u500">
+    <w>and</w>
+    <w>explore</w>
+    <w>them</w>
+    <w>with</w>
+    <w>their</w>
+    <w>mouths</w>
+    <w>and</w>
+    <w>their</w>
+    <w>hands</w>
+    <w>and</w>
+    <w>their</w>
+    <w>faces</w>
+    <w>and</w>
+    <w>rub</w>
+    <w>them</w>
+    <w>around</w>
+    <t type="p"></t>
+
+  </u>
+  <u who="INV" uID="u501">
+    <e><happening>nods</happening></e>
+    <t type="p"></t>
+
+  </u>
+  <u who="MOT" uID="u502">
+    <w>and</w>
+    <w>um</w>
+    <w>and</w>
+    <w>some</w>
+    <w>stuffed</w>
+    <w>animals</w>
+    <w>play</w>
+    <w>music</w>
+    <overlap-point start-end="start" top-bottom="top"/>
+    <w>for</w>
+    <w>the</w>
+    <w>babies<overlap-point start-end="end" top-bottom="top"/></w>
+    <t type="p"></t>
+
+  </u>
+  <u who="INV" uID="u503">
+    <overlap-point start-end="start" top-bottom="bottom"/>
+    <w>mm-hm<overlap-point start-end="end" top-bottom="bottom"/></w>
+    <t type="p"></t>
+
+  </u>
+  <u who="MOT" uID="u504">
+    <w>so</w>
+    <w>they</w>
+    <w>can</w>
+    <w>hear</w>
+    <w>what</w>
+    <w>music</w>
+    <w>sounds</w>
+    <w>like</w>
+    <t type="p"></t>
+
+  </u>
+  <u who="MOT" uID="u505">
+    <w>um</w>
+    <t type="p"></t>
+
+  </u>
+  <u who="INV" uID="u506">
+    <w>I'd</w>
+    <w>like</w>
+    <w>to</w>
+    <w>hear</w>
+    <w>more</w>
+    <t type="p"></t>
+
+  </u>
+  <u who="INV" uID="u507">
+    <w>what</w>
+    <w>else</w>
+    <w>can</w>
+    <w>you</w>
+    <w>tell</w>
+    <w>me</w>
+    <t type="q"></t>
+
+  </u>
+  <u who="MOT" uID="u508">
+    <w>this</w>
+    <w>baby</w>
+    <w>looks</w>
+    <w>pretty</w>
+    <w>happy</w>
+    <t type="p"></t>
+
+  </u>
+  <u who="INV" uID="u509">
+    <w>mm</w>
+    <t type="p"></t>
+
+  </u>
+  <u who="MOT" uID="u510">
+    <w>some</w>
+    <w>babies</w>
+    <w>like</w>
+    <w>having</w>
+    <w>their</w>
+    <w>picture</w>
+    <w>taken</w>
+    <t type="p"></t>
+
+  </u>
+  <u who="MOT" uID="u511">
+    <w>some</w>
+    <w>don't</w>
+    <t type="p"></t>
+
+  </u>
+  <u who="INV" uID="u512">
+    <e><happening>laughs</happening></e>
+    <t type="p"></t>
+
+  </u>
+  <u who="MOT" uID="u513">
+    <w>um</w>
+    <tagMarker type="comma"></tagMarker>
+    <w>babies</w>
+    <w>are</w>
+    <w>kinda</w>
+    <w>chubby</w>
+    <t type="p"></t>
+
+  </u>
+  <u who="MOT" uID="u514">
+    <w>usually</w>
+    <w>they</w>
+    <w>have</w>
+    <w>big</w>
+    <w>rolls</w>
+    <w>of</w>
+    <w>fat</w>
+    <w>on</w>
+    <w>their</w>
+    <w>arms</w>
+    <e><happening>laughs</happening></e>
+    <w>and</w>
+    <w>their</w>
+    <w>legs</w>
+    <t type="p"></t>
+
+  </u>
+  <u who="MOT" uID="u515">
+    <w>and</w>
+    <w>then</w>
+    <w>they</w>
+    <w>um</w>
+    <tagMarker type="comma"></tagMarker>
+    <w>they</w>
+    <w>lose</w>
+    <w>that</w>
+    <w>as</w>
+    <w>they</w>
+    <w>get</w>
+    <w>older</w>
+    <overlap-point start-end="start" top-bottom="top"/>
+    <w>and</w>
+    <w>they</w>
+    <w>get</w>
+    <w>taller<overlap-point start-end="end" top-bottom="top"/></w>
+    <t type="p"></t>
+
+  </u>
+  <u who="INV" uID="u516">
+    <overlap-point start-end="start" top-bottom="bottom"/>
+    <w>mm-hm<overlap-point start-end="end" top-bottom="bottom"/></w>
+    <e><happening>nods:yes</happening></e>
+    <t type="p"></t>
+
+  </u>
+  <u who="MOT" uID="u517">
+    <w>and</w>
+    <w>um</w>
+    <w>and</w>
+    <w>as</w>
+    <w>they</w>
+    <w>grow</w>
+    <t type="p"></t>
+
+  </u>
+  <u who="MOT" uID="u518">
+    <w>but</w>
+    <w>um</w>
+    <tagMarker type="comma"></tagMarker>
+    <w>and</w>
+    <w>they</w>
+    <w>usually</w>
+    <w>have</w>
+    <w>big</w>
+    <w>chubby</w>
+    <w>cheeks</w>
+    <t type="p"></t>
+
+  </u>
+  <u who="INV" uID="u519">
+    <e><happening>laughs</happening></e>
+    <t type="p"></t>
+
+  </u>
+  <u who="MOT" uID="u520">
+    <w>and</w>
+    <w>some</w>
+    <w>babies</w>
+    <w>have</w>
+    <w>hair</w>
+    <t type="p"></t>
+
+  </u>
+  <u who="INV" uID="u521">
+    <g><w>mm-hm</w><ga type="explanation">yes</ga></g>
+    <e><happening>nods</happening></e>
+    <t type="p"></t>
+
+  </u>
+  <u who="MOT" uID="u522">
+    <w>and</w>
+    <w>some</w>
+    <w>babies</w>
+    <w>don't</w>
+    <w>have</w>
+    <w>hair</w>
+    <t type="p"></t>
+
+  </u>
+  <u who="MOT" uID="u523">
+    <w>this</w>
+    <w>baby</w>
+    <w>has</w>
+    <w>a</w>
+    <w>little</w>
+    <w>bit</w>
+    <w>of</w>
+    <w>hair</w>
+    <t type="p"></t>
+
+  </u>
+  <u who="MOT" uID="u524">
+    <w>um</w>
+    <tagMarker type="comma"></tagMarker>
+    <w>actually</w>
+    <w>kind</w>
+    <w>of</w>
+    <w>a</w>
+    <w>lot</w>
+    <w>of</w>
+    <w>hair</w>
+    <e><happening>laughs</happening></e>
+    <w>for</w>
+    <w>a</w>
+    <w>new</w>
+    <w>baby</w>
+    <t type="p"></t>
+
+  </u>
+  <u who="MOT" uID="u525">
+    <w>um</w>
+    <t type="p"></t>
+
+  </u>
+  <u who="INV" uID="u526">
+    <w>hm</w>
+    <t type="p"></t>
+
+  </u>
+  <u who="MOT" uID="u527">
+    <w>I</w>
+    <w>had</w>
+    <w>one</w>
+    <w>baby</w>
+    <w>with</w>
+    <w>hair</w>
+    <w>and</w>
+    <w>two</w>
+    <w>babies</w>
+    <w>that</w>
+    <w>were</w>
+    <w>almost</w>
+    <w>completely</w>
+    <w>bald</w>
+    <t type="p"></t>
+
+  </u>
+  <u who="INV" uID="u528">
+    <e><happening>laughs</happening></e>
+    <w>oh</w>
+    <w>really</w>
+    <t type="p"></t>
+
+  </u>
+  <u who="MOT" uID="u529">
+    <w>so</w>
+    <w>there's</w>
+    <w>no</w>
+    <w>rhyme</w>
+    <w>or</w>
+    <w>reason</w>
+    <w>to</w>
+    <w>it</w>
+    <w>whether</w>
+    <w>they</w>
+    <w>have</w>
+    <w>hair</w>
+    <w>or</w>
+    <w>not</w>
+    <t type="p"></t>
+
+  </u>
+  <u who="INV" uID="u530">
+    <e><happening>laughs</happening></e>
+    <t type="p"></t>
+
+  </u>
+  <u who="MOT" uID="u531">
+    <w>um</w>
+    <t type="p"></t>
+
+  </u>
+  <u who="INV" uID="u532">
+    <w>okay</w>
+    <w>anything</w>
+    <w>else</w>
+    <w>you</w>
+    <w>want</w>
+    <w>to</w>
+    <w>say</w>
+    <t type="q"></t>
+
+  </u>
+  <u who="MOT" uID="u533">
+    <w>well</w>
+    <w>sometimes</w>
+    <w>babies</w>
+    <w>have</w>
+    <w>black</w>
+    <w>hair</w>
+    <w>when</w>
+    <w>they're</w>
+    <w>born</w>
+    <t type="p"></t>
+
+  </u>
+  <u who="INV" uID="u534">
+    <g><w>mm-hm</w><ga type="explanation">yes</ga></g>
+    <t type="p"></t>
+
+  </u>
+  <u who="MOT" uID="u535">
+    <w>and</w>
+    <w>sometimes</w>
+    <w>all</w>
+    <w>that</w>
+    <w>hair</w>
+    <w>falls</w>
+    <w>out</w>
+    <w>and</w>
+    <w>then</w>
+    <w>their</w>
+    <w>real</w>
+    <w>hair</w>
+    <w>grows</w>
+    <w>in</w>
+    <t type="p"></t>
+
+  </u>
+  <u who="MOT" uID="u536">
+    <w>and</w>
+    <w>then</w>
+    <w>sometimes</w>
+    <w>that</w>
+    <w>hair</w>
+    <w>just</w>
+    <w>changes</w>
+    <w>color</w>
+    <t type="p"></t>
+
+  </u>
+  <u who="INV" uID="u537">
+    <e><happening>nods</happening></e>
+    <w>hm</w>
+    <t type="p"></t>
+
+  </u>
+  <u who="MOT" uID="u538">
+    <w>to</w>
+    <w>whatever</w>
+    <w>color</w>
+    <w>it's</w>
+    <w>gonna</w>
+    <w>be</w>
+    <t type="p"></t>
+
+  </u>
+  <u who="MOT" uID="u539">
+    <w>and</w>
+    <w>sometimes</w>
+    <w>it</w>
+    <w>even</w>
+    <w>stays</w>
+    <w>black</w>
+    <w>and</w>
+    <w>their</w>
+    <w>new</w>
+    <w>hair</w>
+    <w>grows</w>
+    <w>in</w>
+    <w>underneath</w>
+    <w>it</w>
+    <tagMarker type="comma"></tagMarker>
+    <w>the</w>
+    <w>right</w>
+    <w>color</w>
+    <t type="p"></t>
+
+  </u>
+  <u who="MOT" uID="u540">
+    <w>and</w>
+    <w>then</w>
+    <w>they</w>
+    <w>have</w>
+    <w>weird</w>
+    <w>black</w>
+    <w>tips</w>
+    <w>on</w>
+    <w>the</w>
+    <w>ends</w>
+    <w>of</w>
+    <w>their</w>
+    <w>hair</w>
+    <t type="p"></t>
+
+  </u>
+  <u who="INV" uID="u541">
+    <e><happening>laughs</happening></e>
+    <overlap-point start-end="start" top-bottom="top"/>
+    <w>really<overlap-point start-end="end" top-bottom="top"/></w>
+    <t type="q"></t>
+
+  </u>
+  <u who="MOT" uID="u542">
+    <overlap-point start-end="start" top-bottom="bottom"/>
+    <w>which<overlap-point start-end="end" top-bottom="bottom"/></w>
+    <w>happened</w>
+    <w>to</w>
+    <w>yeah</w>
+    <w>a</w>
+    <w>couple</w>
+    <w>of</w>
+    <w>my</w>
+    <w>friends</w>
+    <w>had</w>
+    <w>babies</w>
+    <w>like</w>
+    <w>that</w>
+    <t type="p"></t>
+
+  </u>
+  <u who="MOT" uID="u543">
+    <w>where</w>
+    <w>they</w>
+    <overlap-point start-end="start" top-bottom="top"/>
+    <w>ended</w>
+    <w>up</w>
+    <w>being</w>
+    <w>blonde</w>
+    <w>kids</w>
+    <w>with</w>
+    <w>these</w>
+    <w>black</w>
+    <w>streaks</w>
+    <w>in</w>
+    <w>their</w>
+    <w>hair<overlap-point start-end="end" top-bottom="top"/></w>
+    <t type="p"></t>
+
+  </u>
+  <u who="INV" uID="u544">
+    <overlap-point start-end="start" top-bottom="bottom"/>
+    <e><happening>laughs</happening></e>
+    <w>oh<overlap-point start-end="end" top-bottom="bottom"/></w>
+    <w>no</w>
+    <t type="p"></t>
+
+  </u>
+  <u who="MOT" uID="u545">
+    <w>it's</w>
+    <w>very</w>
+    <w>strange</w>
+    <t type="p"></t>
+
+  </u>
+  <u who="INV" uID="u546">
+    <w>oh</w>
+    <w>my</w>
+    <t type="p"></t>
+
+  </u>
+  <lazy-gem label="Carrot"/>
+  <u who="INV" uID="u547">
+    <w>what</w>
+    <w>is</w>
+    <w>this</w>
+    <t type="q"></t>
+
+  </u>
+  <u who="MOT" uID="u548">
+    <w>this</w>
+    <w>is</w>
+    <w>a</w>
+    <w>carrot</w>
+    <t type="p"></t>
+
+  </u>
+  <u who="INV" uID="u549">
+    <g><w>mm-hm</w><ga type="explanation">yes</ga></g>
+    <t type="p"></t>
+
+  </u>
+  <u who="MOT" uID="u550">
+    <w>um</w>
+    <w>carrots</w>
+    <w>grow</w>
+    <w>in</w>
+    <w>the</w>
+    <w>ground</w>
+    <t type="p"></t>
+
+  </u>
+  <u who="MOT" uID="u551">
+    <w>they're</w>
+    <w>a</w>
+    <w>vegetable</w>
+    <t type="p"></t>
+
+  </u>
+  <u who="INV" uID="u552">
+    <g><w>mm-hm</w><ga type="explanation">yes</ga></g>
+    <t type="p"></t>
+
+  </u>
+  <u who="MOT" uID="u553">
+    <w>a</w>
+    <w>root</w>
+    <w>vegetable</w>
+    <t type="p"></t>
+
+  </u>
+  <u who="MOT" uID="u554">
+    <w>um</w>
+    <w>this</w>
+    <w>is</w>
+    <w>actually</w>
+    <w>the</w>
+    <w>plant</w>
+    <t type="p"></t>
+
+  </u>
+  <u who="INV" uID="u555">
+    <g><w>mm-hm</w><ga type="explanation">yes</ga></g>
+    <e><happening>nods</happening></e>
+    <t type="p"></t>
+
+  </u>
+  <u who="MOT" uID="u556">
+    <w>and</w>
+    <w>this</w>
+    <w>is</w>
+    <w>the</w>
+    <w>root</w>
+    <w>of</w>
+    <w>the</w>
+    <w>plant</w>
+    <t type="p"></t>
+
+  </u>
+  <u who="MOT" uID="u557">
+    <w>and</w>
+    <w>then</w>
+    <w>the</w>
+    <w>with</w>
+    <w>the</w>
+    <w>carrot</w>
+    <w>we</w>
+    <w>actually</w>
+    <w>eat</w>
+    <w>the</w>
+    <w>root</w>
+    <t type="p"></t>
+
+  </u>
+  <u who="MOT" uID="u558">
+    <w>and</w>
+    <w>we</w>
+    <w>don't</w>
+    <w>eat</w>
+    <w>the</w>
+    <w>eat</w>
+    <w>the</w>
+    <w>top</w>
+    <t type="p"></t>
+
+  </u>
+  <u who="INV" uID="u559">
+    <g><w>mm-hm</w><ga type="explanation">yes</ga></g>
+    <t type="p"></t>
+
+  </u>
+  <u who="MOT" uID="u560">
+    <w>um</w>
+    <w>carrots</w>
+    <w>are</w>
+    <w>orange</w>
+    <t type="p"></t>
+
+  </u>
+  <u who="MOT" uID="u561">
+    <w>and</w>
+    <w>they're</w>
+    <w>very</w>
+    <w>crunchy</w>
+    <t type="p"></t>
+
+  </u>
+  <u who="INV" uID="u562">
+    <g><w>mm-hm</w><ga type="explanation">yes</ga></g>
+    <t type="p"></t>
+
+  </u>
+  <u who="MOT" uID="u563">
+    <w>they're</w>
+    <w>good</w>
+    <tagMarker type="comma"></tagMarker>
+    <w>they</w>
+    <w>also</w>
+    <w>taste</w>
+    <w>really</w>
+    <w>good</w>
+    <w>cooked</w>
+    <t type="p"></t>
+
+  </u>
+  <u who="MOT" uID="u564">
+    <w>um</w>
+    <w>well</w>
+    <w>some</w>
+    <w>people</w>
+    <w>like</w>
+    <w>them</w>
+    <w>cooked</w>
+    <t type="p"></t>
+
+  </u>
+  <u who="INV" uID="u565">
+    <e><happening>laughs</happening></e>
+    <t type="p"></t>
+
+  </u>
+  <u who="MOT" uID="u566">
+    <w>some</w>
+    <w>people</w>
+    <w>like</w>
+    <w>them</w>
+    <w>cooked</w>
+    <w>with</w>
+    <w>butter</w>
+    <w>and</w>
+    <w>salt</w>
+    <t type="p"></t>
+
+  </u>
+  <u who="INV" uID="u567">
+    <g><w>mm-hm</w><ga type="explanation">yes</ga></g>
+    <t type="p"></t>
+
+  </u>
+  <u who="MOT" uID="u568">
+    <w>and</w>
+    <w>some</w>
+    <w>people</w>
+    <w>like</w>
+    <w>them</w>
+    <w>cooked</w>
+    <w>with</w>
+    <w>brown</w>
+    <w>sugar</w>
+    <w>or</w>
+    <w>honey</w>
+    <t type="p"></t>
+
+  </u>
+  <u who="MOT" uID="u569">
+    <w>um</w>
+    <w><shortening>be</shortening>cause</w>
+    <w>they</w>
+    <w>can</w>
+    <w>be</w>
+    <w>sweet</w>
+    <w>when</w>
+    <w>you</w>
+    <w>cook</w>
+    <w>them</w>
+    <w>or</w>
+    <w>they</w>
+    <w>can</w>
+    <t type="p"></t>
+
+  </u>
+  <u who="MOT" uID="u570">
+    <w>um</w>
+    <w>or</w>
+    <w>sometimes</w>
+    <w>they're</w>
+    <w>good</w>
+    <w>with</w>
+    <w>salt</w>
+    <t type="p"></t>
+
+  </u>
+  <u who="INV" uID="u571">
+    <g><w>mm-hm</w><ga type="explanation">yes</ga></g>
+    <t type="p"></t>
+
+  </u>
+  <u who="MOT" uID="u572">
+    <w>um</w>
+    <t type="p"></t>
+
+  </u>
+  <u who="MOT" uID="u573">
+    <w>carrots</w>
+    <w>are</w>
+    <tagMarker type="comma"></tagMarker>
+    <w>really</w>
+    <w>good</w>
+    <w>for</w>
+    <w>you</w>
+    <overlap-point start-end="start" top-bottom="top"/>
+    <w>and</w>
+    <w>they</w>
+    <w>um<overlap-point start-end="end" top-bottom="top"/></w>
+    <t type="p"></t>
+
+  </u>
+  <u who="INV" uID="u574">
+    <overlap-point start-end="start" top-bottom="bottom"/>
+    <w>mm-hm<overlap-point start-end="end" top-bottom="bottom"/></w>
+    <t type="p"></t>
+
+  </u>
+  <u who="MOT" uID="u575">
+    <w>and</w>
+    <w>they</w>
+    <w>taste</w>
+    <w>really</w>
+    <w>good</w>
+    <t type="p"></t>
+
+  </u>
+  <u who="MOT" uID="u576">
+    <w>most</w>
+    <w>kids</w>
+    <w>like</w>
+    <w>raw</w>
+    <w>carrots</w>
+    <t type="p"></t>
+
+  </u>
+  <u who="MOT" uID="u577">
+    <w>um</w>
+    <w><shortening>be</shortening>cause</w>
+    <w>they're</w>
+    <w>crunchy</w>
+    <t type="p"></t>
+
+  </u>
+  <u who="MOT" uID="u578">
+    <w>you</w>
+    <w>can</w>
+    <w>dip</w>
+    <w><shortening>th</shortening>em</w>
+    <w>in</w>
+    <w>peanut</w>
+    <w>butter</w>
+    <t type="p"></t>
+
+  </u>
+  <u who="INV" uID="u579">
+    <e><happening>nods:yes</happening></e>
+    <g><w>mm-hm</w><ga type="explanation">yes</ga></g>
+    <t type="p"></t>
+
+  </u>
+  <u who="MOT" uID="u580">
+    <w>or</w>
+    <w>salad</w>
+    <w>dressing</w>
+    <t type="p"></t>
+
+  </u>
+  <u who="MOT" uID="u581">
+    <w>or</w>
+    <w>um</w>
+    <w>or</w>
+    <w>just</w>
+    <w>eat</w>
+    <w><shortening>th</shortening>em</w>
+    <w>plain</w>
+    <t type="p"></t>
+
+  </u>
+  <u who="MOT" uID="u582">
+    <w>there's</w>
+    <w>um</w>
+    <w>sometimes</w>
+    <w>there're</w>
+    <w>little</w>
+    <w>baby</w>
+    <w>carrots</w>
+    <w>that</w>
+    <w>people</w>
+    <w>like</w>
+    <w>to</w>
+    <w>eat</w>
+    <t type="p"></t>
+
+  </u>
+  <u who="INV" uID="u583">
+    <g><w>mm-hm</w><ga type="explanation">yes</ga></g>
+    <t type="p"></t>
+
+  </u>
+  <u who="MOT" uID="u584">
+    <w>um</w>
+    <t type="p"></t>
+
+  </u>
+  <u who="INV" uID="u585">
+    <w>tell</w>
+    <w>me</w>
+    <w>more</w>
+    <t type="p"></t>
+
+  </u>
+  <u who="MOT" uID="u586">
+    <e><happening>exhales</happening></e>
+    <w>well</w>
+    <t type="p"></t>
+
+  </u>
+  <u who="INV" uID="u587">
+    <e><happening>laughs</happening></e>
+    <t type="p"></t>
+
+  </u>
+  <u who="MOT" uID="u588">
+    <w>I</w>
+    <w>just</w>
+    <w>don't</w>
+    <w>know</w>
+    <w>a</w>
+    <w>lot</w>
+    <w>more</w>
+    <w>about</w>
+    <w>carrots</w>
+    <t type="p"></t>
+
+  </u>
+  <u who="INV" uID="u589">
+    <e><happening>laughs</happening></e>
+    <w>that's</w>
+    <w>okay</w>
+    <t type="p"></t>
+
+  </u>
+  <u who="MOT" uID="u590">
+    <w>um</w>
+    <t type="p"></t>
+
+  </u>
+  <u who="MOT" uID="u591">
+    <w>you</w>
+    <w>have</w>
+    <w>to</w>
+    <w>wash</w>
+    <w><shortening>th</shortening>em</w>
+    <w>really</w>
+    <w>well</w>
+    <t type="p"></t>
+
+  </u>
+  <u who="INV" uID="u592">
+    <e><happening>nods:yes</happening></e>
+    <g><w>mm-hm</w><ga type="explanation">yes</ga></g>
+    <t type="p"></t>
+
+  </u>
+  <u who="MOT" uID="u593">
+    <w>especially</w>
+    <w>if</w>
+    <w>you</w>
+    <w>pull</w>
+    <w>them</w>
+    <w>out</w>
+    <w>of</w>
+    <w>the</w>
+    <w>ground</w>
+    <w>yourself</w>
+    <w><shortening>be</shortening>cause</w>
+    <w>they're</w>
+    <w>very</w>
+    <w>dirty</w>
+    <w><shortening>be</shortening>cause</w>
+    <w>they</w>
+    <w>do</w>
+    <w>grow</w>
+    <w>in</w>
+    <w>the</w>
+    <w>dirt</w>
+    <t type="p"></t>
+
+  </u>
+  <u who="INV" uID="u594">
+    <g><w>mm-hm</w><ga type="explanation">yes</ga></g>
+    <t type="p"></t>
+
+  </u>
+  <u who="MOT" uID="u595">
+    <w>um</w>
+    <w>so</w>
+    <w>you</w>
+    <w>wash</w>
+    <w>all</w>
+    <w>the</w>
+    <w>dirt</w>
+    <w>off</w>
+    <t type="p"></t>
+
+  </u>
+  <u who="MOT" uID="u596">
+    <w>and</w>
+    <w>they're</w>
+    <w>really</w>
+    <w>good</w>
+    <w>to</w>
+    <w>eat</w>
+    <t type="p"></t>
+
+  </u>
+  <u who="INV" uID="u597">
+    <e><happening>nods</happening></e>
+    <w>okay</w>
+    <t type="p"></t>
+
+  </u>
+  <u who="INV" uID="u598">
+    <w>good</w>
+    <t type="p"></t>
+
+  </u>
+  <lazy-gem label="Banana"/>
+  <u who="MOT" uID="u599">
+    <w>oh</w>
+    <w>one</w>
+    <w>more</w>
+    <t type="p"></t>
+
+  </u>
+  <u who="INV" uID="u600">
+    <e><happening>laughs</happening></e>
+    <t type="p"></t>
+
+  </u>
+  <u who="INV" uID="u601">
+    <w>what</w>
+    <w>is</w>
+    <w>this</w>
+    <t type="q"></t>
+
+  </u>
+  <u who="MOT" uID="u602">
+    <w>this</w>
+    <w>is</w>
+    <w>a</w>
+    <w>banana</w>
+    <t type="p"></t>
+
+  </u>
+  <u who="INV" uID="u603">
+    <g><w>mm-hm</w><ga type="explanation">yes</ga></g>
+    <t type="p"></t>
+
+  </u>
+  <u who="MOT" uID="u604">
+    <w>and</w>
+    <tagMarker type="comma"></tagMarker>
+    <w>um</w>
+    <tagMarker type="comma"></tagMarker>
+    <w>bananas</w>
+    <w>are</w>
+    <w>really</w>
+    <w>good</w>
+    <w>to</w>
+    <w>eat</w>
+    <t type="p"></t>
+
+  </u>
+  <u who="INV" uID="u605">
+    <e><happening>nods:yes</happening></e>
+    <g><w>mm-hm</w><ga type="explanation">yes</ga></g>
+    <t type="p"></t>
+
+  </u>
+  <u who="MOT" uID="u606">
+    <w>um</w>
+    <w>they</w>
+    <w>grow</w>
+    <w>in</w>
+    <w>the</w>
+    <w>jungles</w>
+    <t type="p"></t>
+
+  </u>
+  <u who="INV" uID="u607">
+    <e><happening>nods</happening></e>
+    <t type="p"></t>
+
+  </u>
+  <u who="MOT" uID="u608">
+    <w>and</w>
+    <w>they</w>
+    <w>grow</w>
+    <w>on</w>
+    <w>a</w>
+    <w>banana</w>
+    <w>tree</w>
+    <t type="p"></t>
+
+  </u>
+  <u who="MOT" uID="u609">
+    <w>and</w>
+    <w>they</w>
+    <w>usually</w>
+    <w>grow</w>
+    <w>in</w>
+    <w>big</w>
+    <w>bunches</w>
+    <w>of</w>
+    <w>lots</w>
+    <w>of</w>
+    <w>bananas</w>
+    <w>all</w>
+    <w>hanging</w>
+    <w>together</w>
+    <t type="p"></t>
+
+  </u>
+  <u who="INV" uID="u610">
+    <e><happening>nods</happening></e>
+    <g><w>mm-hm</w><ga type="explanation">yes</ga></g>
+    <t type="p"></t>
+
+  </u>
+  <u who="MOT" uID="u611">
+    <w>and</w>
+    <w>something</w>
+    <w>I</w>
+    <w>just</w>
+    <w>learned</w>
+    <w>is</w>
+    <w>that</w>
+    <w>they</w>
+    <w>usually</w>
+    <w>grow</w>
+    <w>one</w>
+    <w>one</w>
+    <w>set</w>
+    <w>of</w>
+    <w>bananas</w>
+    <w>and</w>
+    <w>after</w>
+    <w>you</w>
+    <w>cut</w>
+    <w>that</w>
+    <w>bunch</w>
+    <w>of</w>
+    <w>bananas</w>
+    <w>off</w>
+    <w>the</w>
+    <w>banana</w>
+    <w>tree</w>
+    <w>dies</w>
+    <t type="p"></t>
+
+  </u>
+  <u who="INV" uID="u612">
+    <w>hm</w>
+    <t type="p"></t>
+
+  </u>
+  <u who="MOT" uID="u613">
+    <w>and</w>
+    <w>you</w>
+    <w>have</w>
+    <w>to</w>
+    <w>grow</w>
+    <w>a</w>
+    <w>whole</w>
+    <w>new</w>
+    <w>tree</w>
+    <t type="p"></t>
+
+  </u>
+  <u who="INV" uID="u614">
+    <w>oh</w>
+    <t type="p"></t>
+
+  </u>
+  <u who="MOT" uID="u615">
+    <w>luckily</w>
+    <w>they</w>
+    <w>grow</w>
+    <w>pretty</w>
+    <w>quickly</w>
+    <t type="p"></t>
+
+  </u>
+  <u who="INV" uID="u616">
+    <e><happening>nods</happening></e>
+    <g><w>mm-hm</w><ga type="explanation">yes</ga></g>
+    <w>mm</w>
+    <w>mm</w>
+    <t type="p"></t>
+
+  </u>
+  <u who="MOT" uID="u617">
+    <w>um</w>
+    <w>and</w>
+    <w>when</w>
+    <w>a</w>
+    <w>banana</w>
+    <w>is</w>
+    <w>first</w>
+    <tagMarker type="comma"></tagMarker>
+    <w>on</w>
+    <w>the</w>
+    <w>tree</w>
+    <w>it's</w>
+    <w>green</w>
+    <t type="p"></t>
+
+  </u>
+  <u who="MOT" uID="u618">
+    <w>and</w>
+    <w>then</w>
+    <w>it</w>
+    <w>turns</w>
+    <w>gradually</w>
+    <w>turns</w>
+    <w>yellow</w>
+    <t type="p"></t>
+
+  </u>
+  <u who="INV" uID="u619">
+    <g><w>mm-hm</w><ga type="explanation">yes</ga></g>
+    <t type="p"></t>
+
+  </u>
+  <u who="MOT" uID="u620">
+    <w>and</w>
+    <w>when</w>
+    <w>it's</w>
+    <w>yellow</w>
+    <w>bright</w>
+    <w>yellow</w>
+    <w>then</w>
+    <w>it's</w>
+    <w>ripe</w>
+    <t type="p"></t>
+
+  </u>
+  <u who="MOT" uID="u621">
+    <w>and</w>
+    <w>it's</w>
+    <w>really</w>
+    <w>good</w>
+    <w>to</w>
+    <w>eat</w>
+    <t type="p"></t>
+
+  </u>
+  <u who="INV" uID="u622">
+    <g><w>mm-hm</w><ga type="explanation">yes</ga></g>
+    <t type="p"></t>
+
+  </u>
+  <u who="MOT" uID="u623">
+    <w>um</w>
+    <w>you</w>
+    <w>can</w>
+    <w>just</w>
+    <w>peel</w>
+    <w>the</w>
+    <w>skin</w>
+    <w>back</w>
+    <t type="p"></t>
+
+  </u>
+  <u who="MOT" uID="u624">
+    <w>you</w>
+    <w>don't</w>
+    <w>eat</w>
+    <w>the</w>
+    <w>outside</w>
+    <w>of</w>
+    <w>it</w>
+    <t type="p"></t>
+
+  </u>
+  <u who="MOT" uID="u625">
+    <w>you</w>
+    <w>just</w>
+    <w>eat</w>
+    <w>the</w>
+    <w>inside</w>
+    <t type="p"></t>
+
+  </u>
+  <u who="MOT" uID="u626">
+    <w>you</w>
+    <w>peel</w>
+    <w>the</w>
+    <w>skin</w>
+    <w>back</w>
+    <w>and</w>
+    <w>the</w>
+    <w>seeds</w>
+    <w>inside</w>
+    <w>a</w>
+    <w>banana</w>
+    <w>are</w>
+    <w>so</w>
+    <w>tiny</w>
+    <w>that</w>
+    <w>you</w>
+    <w>can't</w>
+    <w>even</w>
+    <w>taste</w>
+    <w>them</w>
+    <w>or</w>
+    <w>feel</w>
+    <w>them</w>
+    <t type="p"></t>
+
+  </u>
+  <u who="MOT" uID="u627">
+    <w>so</w>
+    <w>um</w>
+    <w>you</w>
+    <w>can</w>
+    <w>eat</w>
+    <w>the</w>
+    <w>seeds</w>
+    <tagMarker type="comma"></tagMarker>
+    <w>with</w>
+    <w>the</w>
+    <w>fruit</w>
+    <t type="p"></t>
+
+  </u>
+  <u who="INV" uID="u628">
+    <g><w>mm-hm</w><ga type="explanation">yes</ga></g>
+    <t type="p"></t>
+
+  </u>
+  <u who="MOT" uID="u629">
+    <w>and</w>
+    <w>you</w>
+    <w>don't</w>
+    <w>have</w>
+    <w>to</w>
+    <w>pick</w>
+    <w>out</w>
+    <w>the</w>
+    <w>seeds</w>
+    <w>or</w>
+    <w>cut</w>
+    <w>out</w>
+    <w>the</w>
+    <w>seeds</w>
+    <w>or</w>
+    <w>anything</w>
+    <t type="p"></t>
+
+  </u>
+  <u who="INV" uID="u630">
+    <g><w>mm-hm</w><ga type="explanation">yes</ga></g>
+    <t type="p"></t>
+
+  </u>
+  <u who="MOT" uID="u631">
+    <w>um</w>
+    <w>bananas</w>
+    <w>are</w>
+    <w>nice</w>
+    <w>for</w>
+    <w>going</w>
+    <w>on</w>
+    <w>trips</w>
+    <w>because</w>
+    <w>they're</w>
+    <w>in</w>
+    <w>their</w>
+    <w>own</w>
+    <w>little</w>
+    <w>package</w>
+    <t type="p"></t>
+
+  </u>
+  <u who="INV" uID="u632">
+    <e><happening>laughs</happening></e>
+    <t type="p"></t>
+
+  </u>
+  <u who="MOT" uID="u633">
+    <w>you</w>
+    <w>can</w>
+    <w>just</w>
+    <w>kinda</w>
+    <w>open</w>
+    <w><shortening>th</shortening>em</w>
+    <w>up</w>
+    <w>as</w>
+    <w>you</w>
+    <w>go</w>
+    <t type="p"></t>
+
+  </u>
+  <u who="INV" uID="u634">
+    <g><w>mm-hm</w><ga type="explanation">yes</ga></g>
+    <t type="p"></t>
+
+  </u>
+  <u who="MOT" uID="u635">
+    <w>um</w>
+    <t type="p"></t>
+
+  </u>
+  <u who="INV" uID="u636">
+    <w>go</w>
+    <w>ahead</w>
+    <w>and</w>
+    <w>say</w>
+    <w>a</w>
+    <w>little</w>
+    <w>bit</w>
+    <w>more</w>
+    <t type="p"></t>
+
+  </u>
+  <u who="MOT" uID="u637">
+    <w>bananas</w>
+    <w>are</w>
+    <w>also</w>
+    <w>good</w>
+    <w>for</w>
+    <w>flavoring</w>
+    <w>things</w>
+    <t type="p"></t>
+
+  </u>
+  <u who="INV" uID="u638">
+    <e><happening>nods</happening></e>
+    <overlap-point start-end="start" top-bottom="top"/>
+    <g><w>mm-hm<overlap-point start-end="end" top-bottom="top"/></w><ga type="explanation">yes</ga></g>
+    <t type="p"></t>
+
+  </u>
+  <u who="MOT" uID="u639">
+    <overlap-point start-end="start" top-bottom="bottom"/>
+    <w>you<overlap-point start-end="end" top-bottom="bottom"/></w>
+    <w>can</w>
+    <w>smush</w>
+    <w><shortening>th</shortening>em</w>
+    <w>up</w>
+    <w>in</w>
+    <w>milkshakes</w>
+    <t type="p"></t>
+
+  </u>
+  <u who="MOT" uID="u640">
+    <w>or</w>
+    <w>um</w>
+    <w>they're</w>
+    <w>really</w>
+    <w>good</w>
+    <w>sliced</w>
+    <w>up</w>
+    <w>in</w>
+    <w>in</w>
+    <w>a</w>
+    <w>fruit</w>
+    <w>salad</w>
+    <t type="p"></t>
+
+  </u>
+  <u who="MOT" uID="u641">
+    <w>or</w>
+    <w>um</w>
+    <w>um</w>
+    <w>or</w>
+    <w>in</w>
+    <w>a</w>
+    <w>pie</w>
+    <t type="p"></t>
+
+  </u>
+  <u who="INV" uID="u642">
+    <e><happening>nods:yes</happening></e>
+    <w>mm</w>
+    <t type="p"></t>
+
+  </u>
+  <u who="MOT" uID="u643">
+    <w>you</w>
+    <w>can</w>
+    <w>you</w>
+    <w>can</w>
+    <w>put</w>
+    <w><shortening>th</shortening>em</w>
+    <w>in</w>
+    <w>your</w>
+    <w>pudding</w>
+    <t type="p"></t>
+
+  </u>
+  <u who="MOT" uID="u644">
+    <w>um</w>
+    <w>they</w>
+    <w>add</w>
+    <w>a</w>
+    <w>nice</w>
+    <w>flavor</w>
+    <w>you</w>
+    <w>can</w>
+    <w>make</w>
+    <w>banana</w>
+    <w>cake</w>
+    <t type="p"></t>
+
+  </u>
+  <u who="MOT" uID="u645">
+    <w>if</w>
+    <w>your</w>
+    <w>bananas</w>
+    <w>get</w>
+    <w>too</w>
+    <w>ripe</w>
+    <t type="p"></t>
+
+  </u>
+  <u who="INV" uID="u646">
+    <e><happening>nods:yes</happening></e>
+    <g><w>mm-hm</w><ga type="explanation">yes</ga></g>
+    <t type="p"></t>
+
+  </u>
+  <u who="MOT" uID="u647">
+    <w>you</w>
+    <w>can</w>
+    <w>mush</w>
+    <w>it</w>
+    <w>up</w>
+    <w>and</w>
+    <w>and</w>
+    <w>oops</w>
+    <w>make</w>
+    <w><shortening>th</shortening>em</w>
+    <w>into</w>
+    <w>banana</w>
+    <w>bread</w>
+    <t type="p"></t>
+
+  </u>
+  <u who="INV" uID="u648">
+    <g><w>mm-hm</w><ga type="explanation">yes</ga></g>
+    <t type="p"></t>
+
+  </u>
+  <u who="MOT" uID="u649">
+    <w>um</w>
+    <t type="p"></t>
+
+  </u>
+  <u who="INV" uID="u650">
+    <w>okay</w>
+    <t type="p"></t>
+
+  </u>
+  <u who="INV" uID="u651">
+    <w>anything</w>
+    <w>else</w>
+    <w>you</w>
+    <w>want</w>
+    <w>to</w>
+    <w>tell</w>
+    <w>me</w>
+    <t type="q"></t>
+
+  </u>
+  <u who="MOT" uID="u652">
+    <w>not</w>
+    <w>really</w>
+    <t type="p"></t>
+
+  </u>
+  <u who="MOT" uID="u653">
+    <e><happening>laughs</happening></e>
+    <t type="p"></t>
+
+  </u>
+  <u who="INV" uID="u654">
+    <e><happening>laughs</happening></e>
+    <t type="p"></t>
+
+  </u>
+  <u who="MOT" uID="u655">
+    <w>that's</w>
+    <w>about</w>
+    <w>all</w>
+    <w>I</w>
+    <w>can</w>
+    <w>think</w>
+    <w>of</w>
+    <t type="p"></t>
+
+  </u>
+  <u who="INV" uID="u656">
+    <w>oh</w>
+    <t type="p"></t>
+
+  </u>
+  <u who="INV" uID="u657">
+    <w>that's</w>
+    <w>great</w>
+    <t type="p"></t>
+
+  </u>
+  <u who="MOT" uID="u658">
+    <w>okay</w>
+    <t type="p"></t>
+
+  </u>
+  <u who="INV" uID="u659">
+    <w>thank</w>
+    <w>you</w>
+    <w>so</w>
+    <w>much</w>
+    <t type="p"></t>
+
+  </u>
+  <u who="MOT" uID="u660">
+    <w>sure</w>
+    <t type="p"></t>
+
+  </u>
+  <u who="INV" uID="u661">
+    <w>thanks</w>
+    <t type="p"></t>
+
+  </u>
+  <u who="INV" uID="u662">
+    <w>that</w>
+    <w>was</w>
+    <w>wonderful</w>
+    <t type="p"></t>
+
+  </u>
+</CHAT>

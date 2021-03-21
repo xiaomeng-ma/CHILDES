@@ -1,0 +1,635 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<CHAT xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+      xmlns="http://www.talkbank.org/ns/talkbank"
+      xsi:schemaLocation="http://www.talkbank.org/ns/talkbank https://talkbank.org/software/talkbank.xsd"
+            DesignType="cross"
+            ActivityType="narrative"
+            GroupType="TD"
+      PID="11312/a-00032005-1"
+      Version="2.16.0"
+      Lang="eng"
+      Options="CA"
+      Corpus="Gelman"
+      >
+  <Participants>
+    <participant
+      id="CHI"
+      role="Target_Child"
+      language="eng"
+      age="P4Y09M20D"
+      sex="male"
+
+    />
+    <participant
+      id="MOT"
+      role="Mother"
+      language="eng"
+
+    />
+  </Participants>
+  <lazy-gem label="Cheese"/>
+  <comment type="Types">cross, narrative, TD</comment>
+  <u who="CHI" uID="u0">
+    <w>a</w>
+    <w>cheese</w>
+    <t type="p"></t>
+
+  </u>
+  <u who="MOT" uID="u1">
+    <w>what</w>
+    <w>color</w>
+    <w>is</w>
+    <w>that</w>
+    <w>cheese</w>
+    <t type="q"></t>
+
+  </u>
+  <u who="CHI" uID="u2">
+    <w>yellow</w>
+    <t type="p"></t>
+
+  </u>
+  <u who="MOT" uID="u3">
+    <w>yellow</w>
+    <t type="p"></t>
+
+  </u>
+  <lazy-gem label="Doctor"/>
+  <u who="CHI" uID="u4">
+    <w>and</w>
+    <w>people</w>
+    <w>going</w>
+    <w>to</w>
+    <w>having</w>
+    <w>doctor</w>
+    <t type="p"></t>
+
+  </u>
+  <u who="MOT" uID="u5">
+    <w>doctor</w>
+    <w>that's</w>
+    <w>right</w>
+    <t type="e"></t>
+
+  </u>
+  <u who="MOT" uID="u6">
+    <w>do</w>
+    <w>you</w>
+    <w>remember</w>
+    <w>when</w>
+    <w>you</w>
+    <w>went</w>
+    <w>to</w>
+    <w>the</w>
+    <w>doctor</w>
+    <t type="q"></t>
+
+  </u>
+  <u who="CHI" uID="u7">
+    <w>yeah</w>
+    <w>okay</w>
+    <overlap-point start-end="start" top-bottom="top"/>
+    <w>let's<overlap-point start-end="end" top-bottom="top"/></w>
+    <t type="trail off"></t>
+
+  </u>
+  <u who="MOT" uID="u8">
+    <w>what</w>
+    <w>is</w>
+    <w>the</w>
+    <w>girl</w>
+    <overlap-point start-end="start" top-bottom="bottom"/>
+    <w>doing<overlap-point start-end="end" top-bottom="bottom"/></w>
+    <t type="q"></t>
+
+  </u>
+  <u who="CHI" uID="u9">
+    <w>she's</w>
+    <w>taking</w>
+    <w>a</w>
+    <g><w>entrance</w><k type="best guess"/></g>
+    <e><happening>turns:page</happening></e>
+    <t type="p"></t>
+
+  </u>
+  <u who="MOT" uID="u10">
+    <w>look</w>
+    <w>her</w>
+    <w>arm</w>
+    <w>is</w>
+    <w>hurting</w>
+    <e><happening>turns:back</happening></e>
+    <t type="p"></t>
+
+  </u>
+  <u who="MOT" uID="u11">
+    <w>see</w>
+    <w>she's</w>
+    <w>got</w>
+    <w>a</w>
+    <w>hurting</w>
+    <w>arm</w>
+    <t type="p"></t>
+
+  </u>
+  <lazy-gem label="Pirate"/>
+  <u who="CHI" uID="u12">
+    <w>a</w>
+    <w>treasure</w>
+    <overlap-point start-end="start" top-bottom="top"/>
+    <w>hunt<overlap-point start-end="end" top-bottom="top"/></w>
+    <t type="p"></t>
+
+  </u>
+  <u who="MOT" uID="u13">
+    <w>a</w>
+    <overlap-point start-end="start" top-bottom="bottom"/>
+    <w>treasure<overlap-point start-end="end" top-bottom="bottom"/></w>
+    <t type="p"></t>
+
+  </u>
+  <u who="MOT" uID="u14">
+    <w>do</w>
+    <w>you</w>
+    <w>know</w>
+    <w>what</w>
+    <w>that</w>
+    <w>is</w>
+    <t type="q"></t>
+
+  </u>
+  <u who="MOT" uID="u15">
+    <w>remember</w>
+    <w>what</w>
+    <w>Garfield</w>
+    <w>dressed</w>
+    <w>up</w>
+    <w>for</w>
+    <w>for</w>
+    <w>Halloween</w>
+    <t type="q"></t>
+
+  </u>
+  <u who="CHI" uID="u16">
+    <w>yeah</w>
+    <w>he</w>
+    <w>dressed</w>
+    <w>up</w>
+    <w>like</w>
+    <w>a</w>
+    <w>pirate</w>
+    <t type="p"></t>
+
+  </u>
+  <u who="MOT" uID="u17">
+    <w>who's</w>
+    <w>that</w>
+    <t type="q"></t>
+
+  </u>
+  <u who="CHI" uID="u18">
+    <w>a</w>
+    <w>pirate</w>
+    <t type="p"></t>
+
+  </u>
+  <u who="MOT" uID="u19">
+    <w>a</w>
+    <w>pirate</w>
+    <t type="p"></t>
+
+  </u>
+  <lazy-gem label="Ladybug"/>
+  <u who="CHI" uID="u20">
+    <w>a</w>
+    <w>bug</w>
+    <t type="p"></t>
+
+  </u>
+  <u who="MOT" uID="u21">
+    <w>and</w>
+    <w>what</w>
+    <w>kind</w>
+    <w>of</w>
+    <w>bug</w>
+    <w>is</w>
+    <w>it</w>
+    <t type="q"></t>
+
+  </u>
+  <u who="CHI" uID="u22">
+    <w>it's</w>
+    <w>a</w>
+    <w>ladybug</w>
+    <t type="p"></t>
+
+  </u>
+  <u who="MOT" uID="u23">
+    <w>a</w>
+    <w>ladybug</w>
+    <t type="p"></t>
+
+  </u>
+  <lazy-gem label="Duck"/>
+  <u who="CHI" uID="u24">
+    <w>a</w>
+    <w>duck</w>
+    <t type="p"></t>
+
+  </u>
+  <u who="MOT" uID="u25">
+    <w>a</w>
+    <w>duck</w>
+    <t type="p"></t>
+
+  </u>
+  <u who="MOT" uID="u26">
+    <w>and</w>
+    <w>what</w>
+    <w>does</w>
+    <w>the</w>
+    <w>duck</w>
+    <w>say</w>
+    <t type="q"></t>
+
+  </u>
+  <u who="CHI" uID="u27">
+    <w>quack</w>
+    <w>quack</w>
+    <t type="p"></t>
+
+  </u>
+  <lazy-gem label="Baby"/>
+  <u who="CHI" uID="u28">
+    <w>baby</w>
+    <t type="p"></t>
+
+  </u>
+  <u who="MOT" uID="u29">
+    <w>yeah</w>
+    <t type="p"></t>
+
+  </u>
+  <u who="MOT" uID="u30">
+    <w>and</w>
+    <w>what's</w>
+    <w>the</w>
+    <w>baby</w>
+    <w>doing</w>
+    <t type="q"></t>
+
+  </u>
+  <u who="CHI" uID="u31">
+    <w>okay</w>
+    <t type="p"></t>
+
+  </u>
+  <u who="CHI" uID="u32">
+    <w>he's</w>
+    <w>playing</w>
+    <w>with</w>
+    <w>his</w>
+    <w>toys</w>
+    <t type="p"></t>
+
+  </u>
+  <u who="MOT" uID="u33">
+    <w>yeah</w>
+    <t type="p"></t>
+
+  </u>
+  <lazy-gem label="Pig"/>
+  <u who="CHI" uID="u34">
+    <w>a</w>
+    <w>pig</w>
+    <t type="p"></t>
+
+  </u>
+  <u who="MOT" uID="u35">
+    <w>and</w>
+    <w>the</w>
+    <w>sound</w>
+    <w>that</w>
+    <w>the</w>
+    <w>pig</w>
+    <w>makes</w>
+    <t type="q"></t>
+
+  </u>
+  <u who="CHI" uID="u36">
+    <e><happening>snorts</happening></e>
+    <t type="p"></t>
+
+  </u>
+  <u who="MOT" uID="u37">
+    <e><happening>snorts</happening></e>
+    <t type="p"></t>
+
+  </u>
+  <u who="MOT" uID="u38">
+    <w>that's</w>
+    <w>right</w>
+    <t type="p"></t>
+
+  </u>
+  <u who="CHI" uID="u39">
+    <e><happening>turns:page</happening><ga type="explanation">skips page</ga></e>
+    <t type="p"></t>
+
+  </u>
+  <lazy-gem label="Banana"/>
+  <u who="CHI" uID="u40">
+    <w>a</w>
+    <w>bana</w>
+    <t type="trail off"></t>
+
+  </u>
+  <lazy-gem label="Carrot"/>
+  <u who="MOT" uID="u41">
+    <w>oh</w>
+    <w>wait</w>
+    <w>a</w>
+    <w>minute</w>
+    <w>we</w>
+    <w>missed</w>
+    <w>one</w>
+    <t type="p"></t>
+
+  </u>
+  <u who="CHI" uID="u42">
+    <w>a</w>
+    <w>carrot</w>
+    <t type="p"></t>
+
+  </u>
+  <u who="MOT" uID="u43">
+    <w>and</w>
+    <w>what</w>
+    <w>do</w>
+    <w>you</w>
+    <w>do</w>
+    <w>with</w>
+    <w>a</w>
+    <w>carrot</w>
+    <t type="q"></t>
+
+  </u>
+  <u who="CHI" uID="u44">
+    <w>eat</w>
+    <w>it</w>
+    <t type="p"></t>
+
+  </u>
+  <u who="CHI" uID="u45">
+    <w>and</w>
+    <w>and</w>
+    <w>rabbits</w>
+    <w>eat</w>
+    <w>it</w>
+    <t type="p"></t>
+
+  </u>
+  <lazy-gem label="Banana"/>
+  <u who="CHI" uID="u46">
+    <w>a</w>
+    <w>banana</w>
+    <t type="p"></t>
+
+  </u>
+  <u who="MOT" uID="u47">
+    <g><w>mm-hm</w><k type="best guess"/></g>
+    <t type="p"></t>
+
+  </u>
+  <lazy-gem label="Dog"/>
+  <u who="CHI" uID="u48">
+    <w>a</w>
+    <w>dog</w>
+    <t type="p"></t>
+
+  </u>
+  <u who="CHI" uID="u49">
+    <w>ruff</w>
+    <w>ruff</w>
+    <t type="p"></t>
+
+  </u>
+  <u who="MOT" uID="u50">
+    <w>ruff</w>
+    <w>ruff</w>
+    <t type="p"></t>
+
+  </u>
+  <lazy-gem label="Turtle"/>
+  <u who="CHI" uID="u51">
+    <w>turtle</w>
+    <t type="p"></t>
+
+  </u>
+  <u who="MOT" uID="u52">
+    <w>turtle</w>
+    <t type="p"></t>
+
+  </u>
+  <lazy-gem label="Cookie"/>
+  <u who="MOT" uID="u53">
+    <w>okay</w>
+    <t type="p"></t>
+
+  </u>
+  <u who="CHI" uID="u54">
+    <w>a</w>
+    <w>cookie</w>
+    <t type="p"></t>
+
+  </u>
+  <u who="MOT" uID="u55">
+    <w>oh</w>
+    <w>yum</w>
+    <t type="p"></t>
+
+  </u>
+  <u who="CHI" uID="u56">
+    <w>yummy</w>
+    <w>cookie</w>
+    <t type="p"></t>
+
+  </u>
+  <u who="CHI" uID="u57">
+    <overlap-point start-end="start" top-bottom="top"/>
+    <w untranscribed="unintelligible">xxx<overlap-point start-end="end" top-bottom="top"/></w>
+    <t type="p"></t>
+
+  </u>
+  <u who="MOT" uID="u58">
+    <w>we</w>
+    <w>make</w>
+    <w>cookies</w>
+    <w>don't</w>
+    <overlap-point start-end="start" top-bottom="bottom"/>
+    <w>we<overlap-point start-end="end" top-bottom="bottom"/></w>
+    <t type="q"></t>
+
+  </u>
+  <lazy-gem label="Painter"/>
+  <u who="CHI" uID="u59">
+    <w>and</w>
+    <w>that's</w>
+    <w>a</w>
+    <w>painting</w>
+    <t type="p"></t>
+
+  </u>
+  <u who="MOT" uID="u60">
+    <w>that</w>
+    <w>is</w>
+    <w>a</w>
+    <w>painting</w>
+    <t type="p"></t>
+
+  </u>
+  <u who="MOT" uID="u61">
+    <w>the</w>
+    <w>lady's</w>
+    <w>painting</w>
+    <w>it</w>
+    <w>isn't</w>
+    <w>she</w>
+    <t type="q"></t>
+
+  </u>
+  <lazy-gem label="Baseball Player"/>
+  <u who="CHI" uID="u62">
+    <w>a</w>
+    <w>baseball</w>
+    <t type="p"></t>
+
+  </u>
+  <u who="MOT" uID="u63">
+    <w>did</w>
+    <w>you</w>
+    <w>play</w>
+    <w>baseball</w>
+    <w>yesterday</w>
+    <w>with</w>
+    <w>Firstname</w>
+    <t type="q"></t>
+
+  </u>
+  <u who="CHI" uID="u64">
+    <w>yes</w>
+    <t type="p"></t>
+
+  </u>
+  <u who="MOT" uID="u65">
+    <w>yeah</w>
+    <t type="q"></t>
+
+  </u>
+  <lazy-gem label="Bread"/>
+  <u who="CHI" uID="u66">
+    <w>a</w>
+    <w>bread</w>
+    <t type="p"></t>
+
+  </u>
+  <u who="MOT" uID="u67">
+    <w>a</w>
+    <w>bread</w>
+    <t type="p"></t>
+
+  </u>
+  <u who="CHI" uID="u68">
+    <w>and</w>
+    <w>the</w>
+    <w>end</w>
+    <t type="p"></t>
+
+  </u>
+  <u who="MOT" uID="u69">
+    <w>and</w>
+    <w>the</w>
+    <w>end</w>
+    <t type="p"></t>
+
+  </u>
+  <u who="CHI" uID="u70">
+    <w>well</w>
+    <w>that</w>
+    <w>was</w>
+    <w>great</w>
+    <t type="p"></t>
+
+  </u>
+  <u who="MOT" uID="u71">
+    <w>was</w>
+    <w>that</w>
+    <w>a</w>
+    <w>good</w>
+    <w>book</w>
+    <t type="q"></t>
+
+  </u>
+  <u who="CHI" uID="u72">
+    <w>yeah</w>
+    <t type="p"></t>
+
+  </u>
+  <u who="CHI" uID="u73">
+    <w>I</w>
+    <w>wonder</w>
+    <w>when</w>
+    <w>the</w>
+    <w>when</w>
+    <w>the</w>
+    <w>girl's</w>
+    <w>gonna</w>
+    <w>bring</w>
+    <w>the</w>
+    <tagMarker type="comma"></tagMarker>
+    <w>we</w>
+    <w>should</w>
+    <w>get</w>
+    <w>it</w>
+    <w>uh</w>
+    <w>that's</w>
+    <w>the</w>
+    <w>end</w>
+    <t type="p"></t>
+
+  </u>
+  <u who="CHI" uID="u74">
+    <w>I</w>
+    <w>wonder</w>
+    <w>when</w>
+    <w>when</w>
+    <w>the</w>
+    <w>girl's</w>
+    <w>gonna</w>
+    <w>bring</w>
+    <w>the</w>
+    <w>game</w>
+    <t type="p"></t>
+
+  </u>
+  <u who="MOT" uID="u75">
+    <w>I</w>
+    <w>don't</w>
+    <w>know</w>
+    <t type="p"></t>
+
+  </u>
+  <u who="MOT" uID="u76">
+    <w>why</w>
+    <w>don't</w>
+    <w>you</w>
+    <w>go</w>
+    <w>knock</w>
+    <w>on</w>
+    <w>the</w>
+    <w>window</w>
+    <t type="p"></t>
+
+  </u>
+</CHAT>
